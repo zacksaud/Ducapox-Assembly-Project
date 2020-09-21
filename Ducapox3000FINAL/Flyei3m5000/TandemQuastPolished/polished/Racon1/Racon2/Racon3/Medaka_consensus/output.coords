@@ -1,0 +1,8 @@
+ref_start,ref_end,query_start,query_end,ref
+!MT648498.1!unique
+3508,17544,9184,23220,contig_3_segment0
+17543,159696,24135,166287,contig_3_segment0
+!MT648498.1!repetitive
+1,3507,228,3734,contig_3_segment0
+1,3507,166281,162775,contig_3_segment0
+155937,159696,3981,222,contig_3_segment0

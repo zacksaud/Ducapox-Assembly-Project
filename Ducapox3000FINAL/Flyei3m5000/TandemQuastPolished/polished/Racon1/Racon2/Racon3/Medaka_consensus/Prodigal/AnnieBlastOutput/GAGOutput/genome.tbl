@@ -1,0 +1,2806 @@
+>Feature Vaccinia virus strain Ducapox vaccine, complete genome
+1	159696	REFERENCE
+			PBARC	12345
+13012	12500	gene
+			gene	K5L
+			locus_tag	Vv.00g000230
+13012	12500	mRNA
+			product	Protein K5
+			protein_id	gnl|ncbi|Vv.00g000230.m01
+			transcript_id	gnl|ncbi|Vv.00g000230.m01_mrna
+13012	12500	CDS
+			codon_start	1
+			product	Protein K5
+			db_xref	InterPro:IPR022742
+			db_xref	PFAM:PF12146
+			protein_id	gnl|ncbi|Vv.00g000230.m01
+			transcript_id	gnl|ncbi|Vv.00g000230.m01_mrna
+111876	112394	gene
+			gene	A22R
+			locus_tag	Vv.00g001320
+111876	112394	mRNA
+			product	Holliday junction resolvase
+			protein_id	gnl|ncbi|Vv.00g001320.m01
+			transcript_id	gnl|ncbi|Vv.00g001320.m01_mrna
+111876	112394	CDS
+			codon_start	1
+			product	Holliday junction resolvase
+			db_xref	GO:0006281, GO:0006310, GO:0016788, GO:0000400, GO:0000287
+			db_xref	InterPro:IPR006932
+			db_xref	PFAM:PF04848
+			protein_id	gnl|ncbi|Vv.00g001320.m01
+			transcript_id	gnl|ncbi|Vv.00g001320.m01_mrna
+140535	141074	gene
+			gene	SLFN12
+			locus_tag	Vv.00g001730
+140535	141074	mRNA
+			product	Schlafen family member 12
+			protein_id	gnl|ncbi|Vv.00g001730.m01
+			transcript_id	gnl|ncbi|Vv.00g001730.m01_mrna
+140535	141074	CDS
+			codon_start	1
+			product	Schlafen family member 12
+			db_xref	GO:0005524
+			db_xref	InterPro:IPR007421
+			db_xref	InterPro:IPR031450
+			db_xref	PFAM:PF04326
+			db_xref	PFAM:PF17057
+			protein_id	gnl|ncbi|Vv.00g001730.m01
+			transcript_id	gnl|ncbi|Vv.00g001730.m01_mrna
+126208	125375	gene
+			gene	A38L
+			locus_tag	Vv.00g001520
+126208	125375	mRNA
+			product	Protein A38
+			protein_id	gnl|ncbi|Vv.00g001520.m01
+			transcript_id	gnl|ncbi|Vv.00g001520.m01_mrna
+126208	125375	CDS
+			codon_start	1
+			product	Protein A38
+			db_xref	InterPro:IPR013147
+			db_xref	InterPro:IPR013270
+			db_xref	PFAM:PF04549
+			db_xref	PFAM:PF08204
+			protein_id	gnl|ncbi|Vv.00g001520.m01
+			transcript_id	gnl|ncbi|Vv.00g001520.m01_mrna
+54540	55844	gene
+			gene	G5R
+			locus_tag	Vv.00g000700
+54540	55844	mRNA
+			product	Putative nuclease G5
+			protein_id	gnl|ncbi|Vv.00g000700.m01
+			transcript_id	gnl|ncbi|Vv.00g000700.m01_mrna
+54540	55844	CDS
+			codon_start	1
+			product	Putative nuclease G5
+			db_xref	InterPro:IPR007678
+			db_xref	PFAM:PF04599
+			protein_id	gnl|ncbi|Vv.00g000700.m01
+			transcript_id	gnl|ncbi|Vv.00g000700.m01_mrna
+106553	106392	gene
+			gene	A14.5L
+			locus_tag	Vv.00g001240
+106553	106392	mRNA
+			product	Virion membrane protein A14.5
+			protein_id	gnl|ncbi|Vv.00g001240.m01
+			transcript_id	gnl|ncbi|Vv.00g001240.m01_mrna
+106553	106392	CDS
+			codon_start	1
+			product	Virion membrane protein A14.5
+			db_xref	InterPro:IPR009372
+			db_xref	PFAM:PF06269
+			protein_id	gnl|ncbi|Vv.00g001240.m01
+			transcript_id	gnl|ncbi|Vv.00g001240.m01_mrna
+155516	156082	gene
+			gene	B22R
+			locus_tag	Vv.00g001930
+155516	156082	mRNA
+			product	Protein C16/B22
+			protein_id	gnl|ncbi|Vv.00g001930.m01
+			transcript_id	gnl|ncbi|Vv.00g001930.m01_mrna
+155516	156082	CDS
+			codon_start	1
+			product	Protein C16/B22
+			db_xref	InterPro:IPR022819
+			db_xref	PFAM:PF06227
+			protein_id	gnl|ncbi|Vv.00g001930.m01
+			transcript_id	gnl|ncbi|Vv.00g001930.m01_mrna
+83121	85034	gene
+			gene	VETFS
+			locus_tag	Vv.00g001010
+83121	85034	mRNA
+			product	Early transcription factor 70 kDa subunit
+			protein_id	gnl|ncbi|Vv.00g001010.m01
+			transcript_id	gnl|ncbi|Vv.00g001010.m01_mrna
+83121	85034	CDS
+			codon_start	1
+			product	Early transcription factor 70 kDa subunit
+			db_xref	GO:0016787, GO:0005524, GO:0003677
+			db_xref	InterPro:IPR001650
+			db_xref	InterPro:IPR006935
+			db_xref	PFAM:PF00271
+			db_xref	PFAM:PF04851
+			protein_id	gnl|ncbi|Vv.00g001010.m01
+			transcript_id	gnl|ncbi|Vv.00g001010.m01_mrna
+19047	18409	gene
+			gene	F9
+			locus_tag	Vv.00g000330
+19047	18409	mRNA
+			product	Protein F9
+			protein_id	gnl|ncbi|Vv.00g000330.m01
+			transcript_id	gnl|ncbi|Vv.00g000330.m01_mrna
+19047	18409	CDS
+			codon_start	1
+			product	Protein F9
+			db_xref	InterPro:IPR003472
+			db_xref	PFAM:PF02442
+			protein_id	gnl|ncbi|Vv.00g000330.m01
+			transcript_id	gnl|ncbi|Vv.00g000330.m01_mrna
+6869	6336	gene
+			gene	C8L
+			locus_tag	Vv.00g000130
+6869	6336	mRNA
+			product	Protein C8
+			protein_id	gnl|ncbi|Vv.00g000130.m01
+			transcript_id	gnl|ncbi|Vv.00g000130.m01_mrna
+6869	6336	CDS
+			codon_start	1
+			product	Protein C8
+			db_xref	InterPro:IPR010806
+			db_xref	PFAM:PF07190
+			protein_id	gnl|ncbi|Vv.00g000130.m01
+			transcript_id	gnl|ncbi|Vv.00g000130.m01_mrna
+1683	1237	gene
+			gene	CRMB1_0
+			locus_tag	Vv.00g000030
+1683	1237	mRNA
+			product	Soluble TNF receptor II
+			protein_id	gnl|ncbi|Vv.00g000030.m01
+			transcript_id	gnl|ncbi|Vv.00g000030.m01_mrna
+1683	1237	CDS
+			codon_start	1
+			product	Soluble TNF receptor II
+			db_xref	InterPro:IPR010806
+			db_xref	PFAM:PF07190
+			protein_id	gnl|ncbi|Vv.00g000030.m01
+			transcript_id	gnl|ncbi|Vv.00g000030.m01_mrna
+148381	149049	gene
+			gene	B14R
+			locus_tag	Vv.00g001830
+148381	149049	mRNA
+			product	Putative serine proteinase inhibitor 2 homolog second part
+			protein_id	gnl|ncbi|Vv.00g001830.m01
+			transcript_id	gnl|ncbi|Vv.00g001830.m01_mrna
+148381	149049	CDS
+			codon_start	1
+			product	Putative serine proteinase inhibitor 2 homolog second part
+			db_xref	GO:0005615
+			db_xref	InterPro:IPR023796
+			db_xref	PFAM:PF00079
+			protein_id	gnl|ncbi|Vv.00g001830.m01
+			transcript_id	gnl|ncbi|Vv.00g001830.m01_mrna
+96547	95729	gene
+			gene	A4L
+			locus_tag	Vv.00g001130
+96547	95729	mRNA
+			product	39kDa core protein
+			protein_id	gnl|ncbi|Vv.00g001130.m01
+			transcript_id	gnl|ncbi|Vv.00g001130.m01_mrna
+96547	95729	CDS
+			codon_start	1
+			product	39kDa core protein
+			db_xref	InterPro:IPR010396
+			db_xref	PFAM:PF06193
+			protein_id	gnl|ncbi|Vv.00g001130.m01
+			transcript_id	gnl|ncbi|Vv.00g001130.m01_mrna
+137034	137981	gene
+			gene	HA
+			locus_tag	Vv.00g001680
+137034	137981	mRNA
+			product	Protein A56
+			protein_id	gnl|ncbi|Vv.00g001680.m01
+			transcript_id	gnl|ncbi|Vv.00g001680.m01_mrna
+137034	137981	CDS
+			codon_start	1
+			product	Protein A56
+			db_xref	InterPro:IPR013106
+			db_xref	PFAM:PF07686
+			protein_id	gnl|ncbi|Vv.00g001680.m01
+			transcript_id	gnl|ncbi|Vv.00g001680.m01_mrna
+74942	75886	gene
+			gene	TOP1
+			locus_tag	Vv.00g000930
+74942	75886	mRNA
+			product	DNA topoisomerase 1B
+			protein_id	gnl|ncbi|Vv.00g000930.m01
+			transcript_id	gnl|ncbi|Vv.00g000930.m01_mrna
+74942	75886	CDS
+			codon_start	1
+			product	DNA topoisomerase 1B
+			db_xref	GO:0003916, GO:0006265, GO:0003677, GO:0003917
+			db_xref	InterPro:IPR013500
+			db_xref	InterPro:IPR015346
+			db_xref	PFAM:PF01028
+			db_xref	PFAM:PF09266
+			protein_id	gnl|ncbi|Vv.00g000930.m01
+			transcript_id	gnl|ncbi|Vv.00g000930.m01_mrna
+93500	92826	gene
+			gene	VLTF3
+			locus_tag	Vv.00g001100
+93500	92826	mRNA
+			product	Viral late gene transcription factor 3
+			protein_id	gnl|ncbi|Vv.00g001100.m01
+			transcript_id	gnl|ncbi|Vv.00g001100.m01_mrna
+93500	92826	CDS
+			codon_start	1
+			product	Viral late gene transcription factor 3
+			db_xref	GO:0046782
+			db_xref	InterPro:IPR007031
+			db_xref	InterPro:IPR014900
+			db_xref	PFAM:PF04947
+			db_xref	PFAM:PF08792
+			protein_id	gnl|ncbi|Vv.00g001100.m01
+			transcript_id	gnl|ncbi|Vv.00g001100.m01_mrna
+141725	142954	gene
+			gene	B4R
+			locus_tag	Vv.00g001740
+141725	142954	mRNA
+			product	Ankyrin repeat protein B4
+			protein_id	gnl|ncbi|Vv.00g001740.m01
+			transcript_id	gnl|ncbi|Vv.00g001740.m01_mrna
+141725	142954	CDS
+			codon_start	1
+			product	Ankyrin repeat protein B4
+			db_xref	GO:0005515
+			db_xref	InterPro:IPR018272
+			db_xref	InterPro:IPR020683
+			db_xref	PFAM:PF09372
+			db_xref	PFAM:PF12796
+			protein_id	gnl|ncbi|Vv.00g001740.m01
+			transcript_id	gnl|ncbi|Vv.00g001740.m01_mrna
+92329	90674	gene
+			gene	D13L
+			locus_tag	Vv.00g001080
+92329	90674	mRNA
+			product	Scaffold protein D13
+			protein_id	gnl|ncbi|Vv.00g001080.m01
+			transcript_id	gnl|ncbi|Vv.00g001080.m01_mrna
+92329	90674	CDS
+			codon_start	1
+			product	Scaffold protein D13
+			db_xref	GO:0046677
+			db_xref	InterPro:IPR005008
+			db_xref	PFAM:PF03340
+			protein_id	gnl|ncbi|Vv.00g001080.m01
+			transcript_id	gnl|ncbi|Vv.00g001080.m01_mrna
+63776	64777	gene
+			gene	PAPS
+			locus_tag	Vv.00g000830
+63776	64777	mRNA
+			product	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase
+			protein_id	gnl|ncbi|Vv.00g000830.m01
+			transcript_id	gnl|ncbi|Vv.00g000830.m01_mrna
+63776	64777	CDS
+			codon_start	1
+			product	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase
+			db_xref	GO:0004483, GO:0031440, GO:0003746, GO:0006370
+			db_xref	InterPro:IPR000176
+			db_xref	PFAM:PF01358
+			protein_id	gnl|ncbi|Vv.00g000830.m01
+			transcript_id	gnl|ncbi|Vv.00g000830.m01_mrna
+39161	36141	gene
+			gene	POL
+			locus_tag	Vv.00g000520
+39161	36141	mRNA
+			product	DNA polymerase
+			protein_id	gnl|ncbi|Vv.00g000520.m01
+			transcript_id	gnl|ncbi|Vv.00g000520.m01_mrna
+39161	36141	CDS
+			codon_start	1
+			product	DNA polymerase
+			db_xref	GO:0003676, GO:0003887, GO:0000166, GO:0003677
+			db_xref	InterPro:IPR006133
+			db_xref	InterPro:IPR006134
+			db_xref	InterPro:IPR013617
+			db_xref	InterPro:IPR013660
+			db_xref	PFAM:PF00136
+			db_xref	PFAM:PF03104
+			db_xref	PFAM:PF08408
+			db_xref	PFAM:PF08452
+			protein_id	gnl|ncbi|Vv.00g000520.m01
+			transcript_id	gnl|ncbi|Vv.00g000520.m01_mrna
+86423	85509	gene
+			gene	D8L
+			locus_tag	Vv.00g001030
+86423	85509	mRNA
+			product	Cell surface-binding protein
+			protein_id	gnl|ncbi|Vv.00g001030.m01
+			transcript_id	gnl|ncbi|Vv.00g001030.m01_mrna
+86423	85509	CDS
+			codon_start	1
+			product	Cell surface-binding protein
+			db_xref	GO:0004089, GO:0008270
+			db_xref	InterPro:IPR001148
+			db_xref	PFAM:PF00194
+			protein_id	gnl|ncbi|Vv.00g001030.m01
+			transcript_id	gnl|ncbi|Vv.00g001030.m01_mrna
+120472	120239	gene
+			gene	A30L
+			locus_tag	Vv.00g001420
+120472	120239	mRNA
+			product	Protein A30
+			protein_id	gnl|ncbi|Vv.00g001420.m01
+			transcript_id	gnl|ncbi|Vv.00g001420.m01_mrna
+120472	120239	CDS
+			codon_start	1
+			product	Protein A30
+			db_xref	InterPro:IPR009257
+			db_xref	PFAM:PF06015
+			protein_id	gnl|ncbi|Vv.00g001420.m01
+			transcript_id	gnl|ncbi|Vv.00g001420.m01_mrna
+106366	106103	gene
+			gene	A14L
+			locus_tag	Vv.00g001230
+106366	106103	mRNA
+			product	Virion membrane protein A14
+			protein_id	gnl|ncbi|Vv.00g001230.m01
+			transcript_id	gnl|ncbi|Vv.00g001230.m01_mrna
+106366	106103	CDS
+			codon_start	1
+			product	Virion membrane protein A14
+			db_xref	GO:0019031
+			db_xref	InterPro:IPR008785
+			db_xref	PFAM:PF05767
+			protein_id	gnl|ncbi|Vv.00g001230.m01
+			transcript_id	gnl|ncbi|Vv.00g001230.m01_mrna
+158008	158454	gene
+			gene	CRMB1_1
+			locus_tag	Vv.00g001980
+158008	158454	mRNA
+			product	Soluble TNF receptor II
+			protein_id	gnl|ncbi|Vv.00g001980.m01
+			transcript_id	gnl|ncbi|Vv.00g001980.m01_mrna
+158008	158454	CDS
+			codon_start	1
+			product	Soluble TNF receptor II
+			db_xref	InterPro:IPR010806
+			db_xref	PFAM:PF07190
+			protein_id	gnl|ncbi|Vv.00g001980.m01
+			transcript_id	gnl|ncbi|Vv.00g001980.m01_mrna
+27978	26539	gene
+			gene	PAPL
+			locus_tag	Vv.00g000440
+27978	26539	mRNA
+			product	Poly(A) polymerase catalytic subunit
+			protein_id	gnl|ncbi|Vv.00g000440.m01
+			transcript_id	gnl|ncbi|Vv.00g000440.m01_mrna
+27978	26539	CDS
+			codon_start	1
+			product	Poly(A) polymerase catalytic subunit
+			db_xref	GO:0006397, GO:0004652
+			db_xref	InterPro:IPR024231
+			db_xref	InterPro:IPR024397
+			db_xref	InterPro:IPR024398
+			db_xref	PFAM:PF03296
+			db_xref	PFAM:PF12629
+			db_xref	PFAM:PF12630
+			protein_id	gnl|ncbi|Vv.00g000440.m01
+			transcript_id	gnl|ncbi|Vv.00g000440.m01_mrna
+48126	46945	gene
+			gene	I6L
+			locus_tag	Vv.00g000630
+48126	46945	mRNA
+			product	Telomere-binding protein I6
+			protein_id	gnl|ncbi|Vv.00g000630.m01
+			transcript_id	gnl|ncbi|Vv.00g000630.m01_mrna
+48126	46945	CDS
+			codon_start	1
+			product	Telomere-binding protein I6
+			db_xref	GO:0016032
+			db_xref	InterPro:IPR007674
+			db_xref	PFAM:PF04595
+			protein_id	gnl|ncbi|Vv.00g000630.m01
+			transcript_id	gnl|ncbi|Vv.00g000630.m01_mrna
+127440	127946	gene
+			gene	A40R
+			locus_tag	Vv.00g001550
+127440	127946	mRNA
+			product	Protein A40
+			protein_id	gnl|ncbi|Vv.00g001550.m01
+			transcript_id	gnl|ncbi|Vv.00g001550.m01_mrna
+127440	127946	CDS
+			codon_start	1
+			product	Protein A40
+			protein_id	gnl|ncbi|Vv.00g001550.m01
+			transcript_id	gnl|ncbi|Vv.00g001550.m01_mrna
+153618	154322	gene
+			gene	B19R_0
+			locus_tag	Vv.00g001880
+153618	154322	mRNA
+			product	Surface antigen S
+			protein_id	gnl|ncbi|Vv.00g001880.m01
+			transcript_id	gnl|ncbi|Vv.00g001880.m01_mrna
+153618	154322	CDS
+			codon_start	1
+			product	Surface antigen S
+			db_xref	InterPro:IPR007110
+			db_xref	PFAM:PF13895
+			protein_id	gnl|ncbi|Vv.00g001880.m01
+			transcript_id	gnl|ncbi|Vv.00g001880.m01_mrna
+39864	39475	gene
+			gene	E11L
+			locus_tag	Vv.00g000540
+39864	39475	mRNA
+			product	Core protein E11
+			protein_id	gnl|ncbi|Vv.00g000540.m01
+			transcript_id	gnl|ncbi|Vv.00g000540.m01_mrna
+39864	39475	CDS
+			codon_start	1
+			product	Core protein E11
+			db_xref	InterPro:IPR009201
+			db_xref	PFAM:PF06138
+			protein_id	gnl|ncbi|Vv.00g000540.m01
+			transcript_id	gnl|ncbi|Vv.00g000540.m01_mrna
+55852	56043	gene
+			gene	RPO7
+			locus_tag	Vv.00g000710
+55852	56043	mRNA
+			product	DNA-directed RNA polymerase 7 kDa subunit
+			protein_id	gnl|ncbi|Vv.00g000710.m01
+			transcript_id	gnl|ncbi|Vv.00g000710.m01_mrna
+55852	56043	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 7 kDa subunit
+			db_xref	GO:0006351, GO:0003677, GO:0003899
+			db_xref	InterPro:IPR008448
+			db_xref	PFAM:PF05864
+			protein_id	gnl|ncbi|Vv.00g000710.m01
+			transcript_id	gnl|ncbi|Vv.00g000710.m01_mrna
+140374	140565	gene
+			gene	B3R
+			locus_tag	Vv.00g001720
+140374	140565	mRNA
+			product	Schlafen-like protein
+			protein_id	gnl|ncbi|Vv.00g001720.m01
+			transcript_id	gnl|ncbi|Vv.00g001720.m01_mrna
+140374	140565	CDS
+			codon_start	1
+			product	Schlafen-like protein
+			db_xref	InterPro:IPR031450
+			db_xref	PFAM:PF17057
+			protein_id	gnl|ncbi|Vv.00g001720.m01
+			transcript_id	gnl|ncbi|Vv.00g001720.m01_mrna
+71756	70782	gene
+			gene	H3L
+			locus_tag	Vv.00g000890
+71756	70782	mRNA
+			product	Envelope protein H3
+			protein_id	gnl|ncbi|Vv.00g000890.m01
+			transcript_id	gnl|ncbi|Vv.00g000890.m01_mrna
+71756	70782	CDS
+			codon_start	1
+			product	Envelope protein H3
+			db_xref	GO:0019031
+			db_xref	InterPro:IPR004900
+			db_xref	PFAM:PF03213
+			protein_id	gnl|ncbi|Vv.00g000890.m01
+			transcript_id	gnl|ncbi|Vv.00g000890.m01_mrna
+49396	51426	gene
+			gene	NPH2
+			locus_tag	Vv.00g000650
+49396	51426	mRNA
+			product	RNA helicase NPH-II
+			protein_id	gnl|ncbi|Vv.00g000650.m01
+			transcript_id	gnl|ncbi|Vv.00g000650.m01_mrna
+49396	51426	CDS
+			codon_start	1
+			product	RNA helicase NPH-II
+			db_xref	GO:0003676, GO:0005524, GO:0017111
+			db_xref	InterPro:IPR001650
+			db_xref	InterPro:IPR011545
+			db_xref	InterPro:IPR021892
+			db_xref	PFAM:PF00270
+			db_xref	PFAM:PF00271
+			db_xref	PFAM:PF12011
+			protein_id	gnl|ncbi|Vv.00g000650.m01
+			transcript_id	gnl|ncbi|Vv.00g000650.m01_mrna
+17747	17499	gene
+			gene	F12L
+			locus_tag	Vv.00g000300
+17747	17499	mRNA
+			product	Protein F6
+			protein_id	gnl|ncbi|Vv.00g000300.m01
+			transcript_id	gnl|ncbi|Vv.00g000300.m01_mrna
+17747	17499	CDS
+			codon_start	1
+			product	Protein F6
+			db_xref	InterPro:IPR009521
+			db_xref	PFAM:PF06601
+			protein_id	gnl|ncbi|Vv.00g000300.m01
+			transcript_id	gnl|ncbi|Vv.00g000300.m01_mrna
+106827	106543	gene
+			gene	A15L
+			locus_tag	Vv.00g001250
+106827	106543	mRNA
+			product	Core protein A15
+			protein_id	gnl|ncbi|Vv.00g001250.m01
+			transcript_id	gnl|ncbi|Vv.00g001250.m01_mrna
+106827	106543	CDS
+			codon_start	1
+			product	Core protein A15
+			db_xref	InterPro:IPR008445
+			db_xref	PFAM:PF05846
+			protein_id	gnl|ncbi|Vv.00g001250.m01
+			transcript_id	gnl|ncbi|Vv.00g001250.m01_mrna
+7393	6941	gene
+			gene	C7L
+			locus_tag	Vv.00g000140
+7393	6941	mRNA
+			product	Interferon antagonist C7
+			protein_id	gnl|ncbi|Vv.00g000140.m01
+			transcript_id	gnl|ncbi|Vv.00g000140.m01_mrna
+7393	6941	CDS
+			codon_start	1
+			product	Interferon antagonist C7
+			db_xref	GO:0016032
+			db_xref	InterPro:IPR004967
+			db_xref	PFAM:PF03287
+			protein_id	gnl|ncbi|Vv.00g000140.m01
+			transcript_id	gnl|ncbi|Vv.00g000140.m01_mrna
+146806	147030	gene
+			gene	B11R
+			locus_tag	Vv.00g001800
+146806	147030	mRNA
+			product	Protein B11
+			protein_id	gnl|ncbi|Vv.00g001800.m01
+			transcript_id	gnl|ncbi|Vv.00g001800.m01_mrna
+146806	147030	CDS
+			codon_start	1
+			product	Protein B11
+			db_xref	InterPro:IPR009754
+			db_xref	PFAM:PF07033
+			protein_id	gnl|ncbi|Vv.00g001800.m01
+			transcript_id	gnl|ncbi|Vv.00g001800.m01_mrna
+805	395	gene
+			gene	C23L_1
+			locus_tag	Vv.00g000020
+805	395	mRNA
+			product	Inactive chemokine-binding protein
+			protein_id	gnl|ncbi|Vv.00g000020.m01
+			transcript_id	gnl|ncbi|Vv.00g000020.m01_mrna
+805	395	CDS
+			codon_start	1
+			product	Inactive chemokine-binding protein
+			db_xref	InterPro:IPR003184
+			db_xref	PFAM:PF02250
+			protein_id	gnl|ncbi|Vv.00g000020.m01
+			transcript_id	gnl|ncbi|Vv.00g000020.m01_mrna
+95676	93742	gene
+			gene	A3L
+			locus_tag	Vv.00g001120
+95676	93742	mRNA
+			product	Major core protein 4b
+			protein_id	gnl|ncbi|Vv.00g001120.m01
+			transcript_id	gnl|ncbi|Vv.00g001120.m01_mrna
+95676	93742	CDS
+			codon_start	1
+			product	Major core protein 4b
+			db_xref	InterPro:IPR004972
+			db_xref	PFAM:PF03292
+			protein_id	gnl|ncbi|Vv.00g001120.m01
+			transcript_id	gnl|ncbi|Vv.00g001120.m01_mrna
+144093	144614	gene
+			gene	B6R
+			locus_tag	Vv.00g001760
+144093	144614	mRNA
+			product	Protein B6
+			protein_id	gnl|ncbi|Vv.00g001760.m01
+			transcript_id	gnl|ncbi|Vv.00g001760.m01_mrna
+144093	144614	CDS
+			codon_start	1
+			product	Protein B6
+			db_xref	InterPro:IPR009974
+			db_xref	PFAM:PF07389
+			protein_id	gnl|ncbi|Vv.00g001760.m01
+			transcript_id	gnl|ncbi|Vv.00g001760.m01_mrna
+75923	76363	gene
+			gene	H7R
+			locus_tag	Vv.00g000940
+75923	76363	mRNA
+			product	Late protein H7
+			protein_id	gnl|ncbi|Vv.00g000940.m01
+			transcript_id	gnl|ncbi|Vv.00g000940.m01_mrna
+75923	76363	CDS
+			codon_start	1
+			product	Late protein H7
+			db_xref	InterPro:IPR006872
+			db_xref	PFAM:PF04787
+			protein_id	gnl|ncbi|Vv.00g000940.m01
+			transcript_id	gnl|ncbi|Vv.00g000940.m01_mrna
+39193	39480	gene
+			gene	E10R
+			locus_tag	Vv.00g000530
+39193	39480	mRNA
+			product	Probable FAD-linked sulfhydryl oxidase E10
+			protein_id	gnl|ncbi|Vv.00g000530.m01
+			transcript_id	gnl|ncbi|Vv.00g000530.m01_mrna
+39193	39480	CDS
+			codon_start	1
+			product	Probable FAD-linked sulfhydryl oxidase E10
+			db_xref	GO:0016972, GO:0055114
+			db_xref	InterPro:IPR006890
+			db_xref	PFAM:PF04805
+			protein_id	gnl|ncbi|Vv.00g000530.m01
+			transcript_id	gnl|ncbi|Vv.00g000530.m01_mrna
+61567	60515	gene
+			gene	L3L
+			locus_tag	Vv.00g000780
+61567	60515	mRNA
+			product	Protein L3
+			protein_id	gnl|ncbi|Vv.00g000780.m01
+			transcript_id	gnl|ncbi|Vv.00g000780.m01_mrna
+61567	60515	CDS
+			codon_start	1
+			product	Protein L3
+			db_xref	InterPro:IPR005007
+			db_xref	PFAM:PF03339
+			protein_id	gnl|ncbi|Vv.00g000780.m01
+			transcript_id	gnl|ncbi|Vv.00g000780.m01_mrna
+151828	153552	gene
+			gene	B18R
+			locus_tag	Vv.00g001870
+151828	153552	mRNA
+			product	Ankyrin repeat protein B18
+			protein_id	gnl|ncbi|Vv.00g001870.m01
+			transcript_id	gnl|ncbi|Vv.00g001870.m01_mrna
+151828	153552	CDS
+			codon_start	1
+			product	Ankyrin repeat protein B18
+			db_xref	GO:0005515
+			db_xref	InterPro:IPR002110
+			db_xref	InterPro:IPR018272
+			db_xref	PFAM:PF00023
+			db_xref	PFAM:PF09372
+			db_xref	PFAM:PF13606
+			protein_id	gnl|ncbi|Vv.00g001870.m01
+			transcript_id	gnl|ncbi|Vv.00g001870.m01_mrna
+63177	63710	gene
+			gene	TK
+			locus_tag	Vv.00g000820
+63177	63710	mRNA
+			product	Thymidine kinase
+			protein_id	gnl|ncbi|Vv.00g000820.m01
+			transcript_id	gnl|ncbi|Vv.00g000820.m01_mrna
+63177	63710	CDS
+			codon_start	1
+			product	Thymidine kinase
+			db_xref	GO:0004797, GO:0005524
+			db_xref	InterPro:IPR001267
+			db_xref	PFAM:PF00265
+			protein_id	gnl|ncbi|Vv.00g000820.m01
+			transcript_id	gnl|ncbi|Vv.00g000820.m01_mrna
+26237	26542	gene
+			gene	TF17R
+			locus_tag	Vv.00g000430
+26237	26542	mRNA
+			product	Phosphoprotein F17
+			protein_id	gnl|ncbi|Vv.00g000430.m01
+			transcript_id	gnl|ncbi|Vv.00g000430.m01_mrna
+26237	26542	CDS
+			codon_start	1
+			product	Phosphoprotein F17
+			db_xref	GO:0003677, GO:0019082
+			db_xref	InterPro:IPR006854
+			db_xref	PFAM:PF04767
+			protein_id	gnl|ncbi|Vv.00g000430.m01
+			transcript_id	gnl|ncbi|Vv.00g000430.m01_mrna
+46960	46721	gene
+			gene	I5L
+			locus_tag	Vv.00g000620
+46960	46721	mRNA
+			product	Protein I5
+			protein_id	gnl|ncbi|Vv.00g000620.m01
+			transcript_id	gnl|ncbi|Vv.00g000620.m01_mrna
+46960	46721	CDS
+			codon_start	1
+			product	Protein I5
+			db_xref	InterPro:IPR006803
+			db_xref	PFAM:PF04713
+			protein_id	gnl|ncbi|Vv.00g000620.m01
+			transcript_id	gnl|ncbi|Vv.00g000620.m01_mrna
+120624	120505	gene
+			gene	A30.5L
+			locus_tag	Vv.00g001430
+120624	120505	mRNA
+			product	Uncharacterized protein A30.5
+			protein_id	gnl|ncbi|Vv.00g001430.m01
+			transcript_id	gnl|ncbi|Vv.00g001430.m01_mrna
+120624	120505	CDS
+			codon_start	1
+			product	Uncharacterized protein A30.5
+			protein_id	gnl|ncbi|Vv.00g001430.m01
+			transcript_id	gnl|ncbi|Vv.00g001430.m01_mrna
+133083	132367	gene
+			gene	A47L
+			locus_tag	Vv.00g001630
+133083	132367	mRNA
+			product	Protein A47
+			protein_id	gnl|ncbi|Vv.00g001630.m01
+			transcript_id	gnl|ncbi|Vv.00g001630.m01_mrna
+133083	132367	CDS
+			codon_start	1
+			product	Protein A47
+			db_xref	InterPro:IPR009402
+			db_xref	PFAM:PF06334
+			protein_id	gnl|ncbi|Vv.00g001630.m01
+			transcript_id	gnl|ncbi|Vv.00g001630.m01_mrna
+59478	60230	gene
+			gene	L1R
+			locus_tag	Vv.00g000760
+59478	60230	mRNA
+			product	Protein L1
+			protein_id	gnl|ncbi|Vv.00g000760.m01
+			transcript_id	gnl|ncbi|Vv.00g000760.m01_mrna
+59478	60230	CDS
+			codon_start	1
+			product	Protein L1
+			db_xref	InterPro:IPR003472
+			db_xref	PFAM:PF02442
+			protein_id	gnl|ncbi|Vv.00g000760.m01
+			transcript_id	gnl|ncbi|Vv.00g000760.m01_mrna
+3954	3739	gene
+			gene	C17L
+			locus_tag	Vv.00g000090
+3954	3739	mRNA
+			product	Uncharacterized protein 17
+			protein_id	gnl|ncbi|Vv.00g000090.m01
+			transcript_id	gnl|ncbi|Vv.00g000090.m01_mrna
+3954	3739	CDS
+			codon_start	1
+			product	Uncharacterized protein 17
+			protein_id	gnl|ncbi|Vv.00g000090.m01
+			transcript_id	gnl|ncbi|Vv.00g000090.m01_mrna
+126782	127414	gene
+			gene	A39R
+			locus_tag	Vv.00g001540
+126782	127414	mRNA
+			product	Semaphorin-like protein A39
+			protein_id	gnl|ncbi|Vv.00g001540.m01
+			transcript_id	gnl|ncbi|Vv.00g001540.m01_mrna
+126782	127414	CDS
+			codon_start	1
+			product	Semaphorin-like protein A39
+			db_xref	GO:0005515
+			db_xref	InterPro:IPR001627
+			db_xref	PFAM:PF01403
+			protein_id	gnl|ncbi|Vv.00g001540.m01
+			transcript_id	gnl|ncbi|Vv.00g001540.m01_mrna
+70210	70779	gene
+			gene	H2R
+			locus_tag	Vv.00g000880
+70210	70779	mRNA
+			product	Protein H2
+			protein_id	gnl|ncbi|Vv.00g000880.m01
+			transcript_id	gnl|ncbi|Vv.00g000880.m01_mrna
+70210	70779	CDS
+			codon_start	1
+			product	Protein H2
+			db_xref	InterPro:IPR005023
+			db_xref	PFAM:PF03356
+			protein_id	gnl|ncbi|Vv.00g000880.m01
+			transcript_id	gnl|ncbi|Vv.00g000880.m01_mrna
+40309	39851	gene
+			gene	O1L_0
+			locus_tag	Vv.00g000550
+40309	39851	mRNA
+			product	Protein O1
+			protein_id	gnl|ncbi|Vv.00g000550.m01
+			transcript_id	gnl|ncbi|Vv.00g000550.m01_mrna
+40309	39851	CDS
+			codon_start	1
+			product	Protein O1
+			db_xref	InterPro:IPR021155
+			db_xref	PFAM:PF04497
+			protein_id	gnl|ncbi|Vv.00g000550.m01
+			transcript_id	gnl|ncbi|Vv.00g000550.m01_mrna
+18005	17763	gene
+			gene	F7L
+			locus_tag	Vv.00g000310
+18005	17763	mRNA
+			product	Protein F7
+			protein_id	gnl|ncbi|Vv.00g000310.m01
+			transcript_id	gnl|ncbi|Vv.00g000310.m01_mrna
+18005	17763	CDS
+			codon_start	1
+			product	Protein F7
+			db_xref	InterPro:IPR008725
+			db_xref	PFAM:PF05813
+			protein_id	gnl|ncbi|Vv.00g000310.m01
+			transcript_id	gnl|ncbi|Vv.00g000310.m01_mrna
+107944	106811	gene
+			gene	A16L
+			locus_tag	Vv.00g001260
+107944	106811	mRNA
+			product	Virion membrane protein A16
+			protein_id	gnl|ncbi|Vv.00g001260.m01
+			transcript_id	gnl|ncbi|Vv.00g001260.m01_mrna
+107944	106811	CDS
+			codon_start	1
+			product	Virion membrane protein A16
+			db_xref	InterPro:IPR004251
+			db_xref	PFAM:PF03003
+			protein_id	gnl|ncbi|Vv.00g001260.m01
+			transcript_id	gnl|ncbi|Vv.00g001260.m01_mrna
+32930	34633	gene
+			gene	E6R
+			locus_tag	Vv.00g000490
+32930	34633	mRNA
+			product	Protein E6
+			protein_id	gnl|ncbi|Vv.00g000490.m01
+			transcript_id	gnl|ncbi|Vv.00g000490.m01_mrna
+32930	34633	CDS
+			codon_start	1
+			product	Protein E6
+			db_xref	InterPro:IPR006749
+			db_xref	PFAM:PF04656
+			protein_id	gnl|ncbi|Vv.00g000490.m01
+			transcript_id	gnl|ncbi|Vv.00g000490.m01_mrna
+49390	48119	gene
+			gene	I7L
+			locus_tag	Vv.00g000640
+49390	48119	mRNA
+			product	Core protease I7
+			protein_id	gnl|ncbi|Vv.00g000640.m01
+			transcript_id	gnl|ncbi|Vv.00g000640.m01_mrna
+49390	48119	CDS
+			codon_start	1
+			product	Core protease I7
+			db_xref	InterPro:IPR004970
+			db_xref	PFAM:PF03290
+			protein_id	gnl|ncbi|Vv.00g000640.m01
+			transcript_id	gnl|ncbi|Vv.00g000640.m01_mrna
+147097	147948	gene
+			gene	B12R
+			locus_tag	Vv.00g001810
+147097	147948	mRNA
+			product	Probable serine/threonine-protein kinase B12
+			protein_id	gnl|ncbi|Vv.00g001810.m01
+			transcript_id	gnl|ncbi|Vv.00g001810.m01_mrna
+147097	147948	CDS
+			codon_start	1
+			product	Probable serine/threonine-protein kinase B12
+			db_xref	GO:0004672, GO:0005524, GO:0006468
+			db_xref	InterPro:IPR000719
+			db_xref	PFAM:PF00069
+			protein_id	gnl|ncbi|Vv.00g001810.m01
+			transcript_id	gnl|ncbi|Vv.00g001810.m01_mrna
+314	201	gene
+			gene	C23L_0
+			locus_tag	Vv.00g000010
+314	201	mRNA
+			product	Inactive chemokine-binding protein
+			protein_id	gnl|ncbi|Vv.00g000010.m01
+			transcript_id	gnl|ncbi|Vv.00g000010.m01_mrna
+314	201	CDS
+			codon_start	1
+			product	Inactive chemokine-binding protein
+			db_xref	InterPro:IPR003184
+			db_xref	PFAM:PF02250
+			protein_id	gnl|ncbi|Vv.00g000010.m01
+			transcript_id	gnl|ncbi|Vv.00g000010.m01_mrna
+<156838	157236	gene
+			gene	D4L_1
+			locus_tag	Vv.00g001950
+<156838	157236	mRNA
+			product	Ankyrin repeat protein D4L/I2R
+			protein_id	gnl|ncbi|Vv.00g001950.m01
+			transcript_id	gnl|ncbi|Vv.00g001950.m01_mrna
+<156838	157236	CDS
+			codon_start	1
+			product	Ankyrin repeat protein D4L/I2R
+			protein_id	gnl|ncbi|Vv.00g001950.m01
+			transcript_id	gnl|ncbi|Vv.00g001950.m01_mrna
+118917	118585	gene
+			gene	A27L
+			locus_tag	Vv.00g001390
+118917	118585	mRNA
+			product	Protein A27
+			protein_id	gnl|ncbi|Vv.00g001390.m01
+			transcript_id	gnl|ncbi|Vv.00g001390.m01_mrna
+118917	118585	CDS
+			codon_start	1
+			product	Protein A27
+			db_xref	GO:0019064, GO:0019031
+			db_xref	InterPro:IPR003436
+			db_xref	PFAM:PF02346
+			protein_id	gnl|ncbi|Vv.00g001390.m01
+			transcript_id	gnl|ncbi|Vv.00g001390.m01_mrna
+76407	78941	gene
+			gene	MCECS
+			locus_tag	Vv.00g000950
+76407	78941	mRNA
+			product	mRNA-capping enzyme catalytic subunit
+			protein_id	gnl|ncbi|Vv.00g000950.m01
+			transcript_id	gnl|ncbi|Vv.00g000950.m01_mrna
+76407	78941	CDS
+			codon_start	1
+			product	mRNA-capping enzyme catalytic subunit
+			db_xref	GO:0004484, GO:0004651
+			db_xref	InterPro:IPR004971
+			db_xref	InterPro:IPR019602
+			db_xref	PFAM:PF03291
+			db_xref	PFAM:PF10640
+			protein_id	gnl|ncbi|Vv.00g000950.m01
+			transcript_id	gnl|ncbi|Vv.00g000950.m01_mrna
+61592	62347	gene
+			gene	L4R
+			locus_tag	Vv.00g000790
+61592	62347	mRNA
+			product	Core protein VP8
+			protein_id	gnl|ncbi|Vv.00g000790.m01
+			transcript_id	gnl|ncbi|Vv.00g000790.m01_mrna
+61592	62347	CDS
+			codon_start	1
+			product	Core protein VP8
+			db_xref	GO:0019028, GO:0005198
+			db_xref	InterPro:IPR007586
+			db_xref	PFAM:PF04498
+			protein_id	gnl|ncbi|Vv.00g000790.m01
+			transcript_id	gnl|ncbi|Vv.00g000790.m01_mrna
+62700	63161	gene
+			gene	J1R
+			locus_tag	Vv.00g000810
+62700	63161	mRNA
+			product	Protein J1
+			protein_id	gnl|ncbi|Vv.00g000810.m01
+			transcript_id	gnl|ncbi|Vv.00g000810.m01_mrna
+62700	63161	CDS
+			codon_start	1
+			product	Protein J1
+			db_xref	InterPro:IPR005006
+			db_xref	PFAM:PF03338
+			protein_id	gnl|ncbi|Vv.00g000810.m01
+			transcript_id	gnl|ncbi|Vv.00g000810.m01_mrna
+98194	97076	gene
+			gene	A6L
+			locus_tag	Vv.00g001150
+98194	97076	mRNA
+			product	Protein A6
+			protein_id	gnl|ncbi|Vv.00g001150.m01
+			transcript_id	gnl|ncbi|Vv.00g001150.m01_mrna
+98194	97076	CDS
+			codon_start	1
+			product	Protein A6
+			db_xref	InterPro:IPR007008
+			db_xref	PFAM:PF04924
+			protein_id	gnl|ncbi|Vv.00g001150.m01
+			transcript_id	gnl|ncbi|Vv.00g001150.m01_mrna
+24484	23366	gene
+			gene	F13L
+			locus_tag	Vv.00g000380
+24484	23366	mRNA
+			product	Envelope phospholipase F13
+			protein_id	gnl|ncbi|Vv.00g000380.m01
+			transcript_id	gnl|ncbi|Vv.00g000380.m01_mrna
+24484	23366	CDS
+			codon_start	1
+			product	Envelope phospholipase F13
+			db_xref	GO:0003824
+			db_xref	InterPro:IPR001736
+			db_xref	InterPro:IPR032803
+			db_xref	PFAM:PF00614
+			db_xref	PFAM:PF13918
+			protein_id	gnl|ncbi|Vv.00g000380.m01
+			transcript_id	gnl|ncbi|Vv.00g000380.m01_mrna
+133182	133796	gene
+			gene	TMK
+			locus_tag	Vv.00g001640
+133182	133796	mRNA
+			product	Thymidylate kinase
+			protein_id	gnl|ncbi|Vv.00g001640.m01
+			transcript_id	gnl|ncbi|Vv.00g001640.m01_mrna
+133182	133796	CDS
+			codon_start	1
+			product	Thymidylate kinase
+			db_xref	GO:0005524, GO:0004798, GO:0006233
+			db_xref	InterPro:IPR018094
+			db_xref	InterPro:noIPR
+			db_xref	PFAM:PF02223
+			db_xref	TIGRFAM:TIGR00041
+			protein_id	gnl|ncbi|Vv.00g001640.m01
+			transcript_id	gnl|ncbi|Vv.00g001640.m01_mrna
+26173	25478	gene
+			gene	F16L
+			locus_tag	Vv.00g000420
+26173	25478	mRNA
+			product	Protein F16
+			protein_id	gnl|ncbi|Vv.00g000420.m01
+			transcript_id	gnl|ncbi|Vv.00g000420.m01_mrna
+26173	25478	CDS
+			codon_start	1
+			product	Protein F16
+			db_xref	InterPro:IPR006798
+			db_xref	PFAM:PF04708
+			protein_id	gnl|ncbi|Vv.00g000420.m01
+			transcript_id	gnl|ncbi|Vv.00g000420.m01_mrna
+12472	11198	gene
+			gene	K4L
+			locus_tag	Vv.00g000220
+12472	11198	mRNA
+			product	Phospholipase-D-like protein K4
+			protein_id	gnl|ncbi|Vv.00g000220.m01
+			transcript_id	gnl|ncbi|Vv.00g000220.m01_mrna
+12472	11198	CDS
+			codon_start	1
+			product	Phospholipase-D-like protein K4
+			db_xref	GO:0003824
+			db_xref	InterPro:IPR001736
+			db_xref	InterPro:IPR032803
+			db_xref	PFAM:PF00614
+			db_xref	PFAM:PF13918
+			protein_id	gnl|ncbi|Vv.00g000220.m01
+			transcript_id	gnl|ncbi|Vv.00g000220.m01_mrna
+110621	111901	gene
+			gene	A20R
+			locus_tag	Vv.00g001310
+110621	111901	mRNA
+			product	DNA polymerase processivity factor component A20
+			protein_id	gnl|ncbi|Vv.00g001310.m01
+			transcript_id	gnl|ncbi|Vv.00g001310.m01_mrna
+110621	111901	CDS
+			codon_start	1
+			product	DNA polymerase processivity factor component A20
+			db_xref	InterPro:IPR010267
+			db_xref	PFAM:PF05941
+			protein_id	gnl|ncbi|Vv.00g001310.m01
+			transcript_id	gnl|ncbi|Vv.00g001310.m01_mrna
+41807	40590	gene
+			gene	O1L_1
+			locus_tag	Vv.00g000560
+41807	40590	mRNA
+			product	Protein O1
+			protein_id	gnl|ncbi|Vv.00g000560.m01
+			transcript_id	gnl|ncbi|Vv.00g000560.m01_mrna
+41807	40590	CDS
+			codon_start	1
+			product	Protein O1
+			db_xref	InterPro:IPR021155
+			db_xref	PFAM:PF04497
+			protein_id	gnl|ncbi|Vv.00g000560.m01
+			transcript_id	gnl|ncbi|Vv.00g000560.m01_mrna
+60262	60525	gene
+			gene	L2R
+			locus_tag	Vv.00g000770
+60262	60525	mRNA
+			product	Protein L2
+			protein_id	gnl|ncbi|Vv.00g000770.m01
+			transcript_id	gnl|ncbi|Vv.00g000770.m01_mrna
+60262	60525	CDS
+			codon_start	1
+			product	Protein L2
+			db_xref	InterPro:IPR008447
+			db_xref	PFAM:PF05803
+			protein_id	gnl|ncbi|Vv.00g000770.m01
+			transcript_id	gnl|ncbi|Vv.00g000770.m01_mrna
+121906	122463	gene
+			gene	A33R
+			locus_tag	Vv.00g001460
+121906	122463	mRNA
+			product	Protein A33
+			protein_id	gnl|ncbi|Vv.00g001460.m01
+			transcript_id	gnl|ncbi|Vv.00g001460.m01_mrna
+121906	122463	CDS
+			codon_start	1
+			product	Protein A33
+			db_xref	InterPro:IPR009238
+			db_xref	PFAM:PF05966
+			protein_id	gnl|ncbi|Vv.00g001460.m01
+			transcript_id	gnl|ncbi|Vv.00g001460.m01_mrna
+108534	107947	gene
+			gene	A17L
+			locus_tag	Vv.00g001270
+108534	107947	mRNA
+			product	Virion membrane protein A17 precursor
+			protein_id	gnl|ncbi|Vv.00g001270.m01
+			transcript_id	gnl|ncbi|Vv.00g001270.m01_mrna
+108534	107947	CDS
+			codon_start	1
+			product	Virion membrane protein A17 precursor
+			db_xref	GO:0016021
+			db_xref	InterPro:IPR007977
+			db_xref	PFAM:PF05313
+			protein_id	gnl|ncbi|Vv.00g001270.m01
+			transcript_id	gnl|ncbi|Vv.00g001270.m01_mrna
+31840	32793	gene
+			gene	E5R
+			locus_tag	Vv.00g000480
+31840	32793	mRNA
+			product	Protein E5
+			protein_id	gnl|ncbi|Vv.00g000480.m01
+			transcript_id	gnl|ncbi|Vv.00g000480.m01_mrna
+31840	32793	CDS
+			codon_start	1
+			product	Protein E5
+			db_xref	InterPro:IPR018379
+			db_xref	PFAM:PF10523
+			protein_id	gnl|ncbi|Vv.00g000480.m01
+			transcript_id	gnl|ncbi|Vv.00g000480.m01_mrna
+53441	53202	gene
+			gene	G3L
+			locus_tag	Vv.00g000670
+53441	53202	mRNA
+			product	Protein G3
+			protein_id	gnl|ncbi|Vv.00g000670.m01
+			transcript_id	gnl|ncbi|Vv.00g000670.m01_mrna
+53441	53202	CDS
+			codon_start	1
+			product	Protein G3
+			db_xref	InterPro:IPR010367
+			db_xref	PFAM:PF06129
+			protein_id	gnl|ncbi|Vv.00g000670.m01
+			transcript_id	gnl|ncbi|Vv.00g000670.m01_mrna
+<117838	117476	gene
+			gene	A26L
+			locus_tag	Vv.00g001370
+<117838	117476	mRNA
+			product	Protein A26
+			protein_id	gnl|ncbi|Vv.00g001370.m01
+			transcript_id	gnl|ncbi|Vv.00g001370.m01_mrna
+<117838	117476	CDS
+			codon_start	1
+			product	Protein A26
+			protein_id	gnl|ncbi|Vv.00g001370.m01
+			transcript_id	gnl|ncbi|Vv.00g001370.m01_mrna
+8075	7602	gene
+			gene	C6L
+			locus_tag	Vv.00g000160
+8075	7602	mRNA
+			product	Protein C6
+			protein_id	gnl|ncbi|Vv.00g000160.m01
+			transcript_id	gnl|ncbi|Vv.00g000160.m01_mrna
+8075	7602	CDS
+			codon_start	1
+			product	Protein C6
+			db_xref	InterPro:IPR022819
+			db_xref	PFAM:PF06227
+			protein_id	gnl|ncbi|Vv.00g000160.m01
+			transcript_id	gnl|ncbi|Vv.00g000160.m01_mrna
+151688	150666	gene
+			gene	B17L
+			locus_tag	Vv.00g001860
+151688	150666	mRNA
+			product	Protein B17
+			protein_id	gnl|ncbi|Vv.00g001860.m01
+			transcript_id	gnl|ncbi|Vv.00g001860.m01_mrna
+151688	150666	CDS
+			codon_start	1
+			product	Protein B17
+			db_xref	InterPro:IPR009633
+			db_xref	PFAM:PF06802
+			protein_id	gnl|ncbi|Vv.00g001860.m01
+			transcript_id	gnl|ncbi|Vv.00g001860.m01_mrna
+145240	145920	gene
+			gene	B8R
+			locus_tag	Vv.00g001780
+145240	145920	mRNA
+			product	Soluble interferon gamma receptor B8
+			protein_id	gnl|ncbi|Vv.00g001780.m01
+			transcript_id	gnl|ncbi|Vv.00g001780.m01_mrna
+145240	145920	CDS
+			codon_start	1
+			product	Soluble interferon gamma receptor B8
+			db_xref	GO:0019955, GO:0016020, GO:0005515
+			db_xref	InterPro:IPR021126
+			db_xref	PFAM:PF07140
+			protein_id	gnl|ncbi|Vv.00g001780.m01
+			transcript_id	gnl|ncbi|Vv.00g001780.m01_mrna
+21389	21087	gene
+			gene	F11L
+			locus_tag	Vv.00g000360
+21389	21087	mRNA
+			product	Protein F11
+			protein_id	gnl|ncbi|Vv.00g000360.m01
+			transcript_id	gnl|ncbi|Vv.00g000360.m01_mrna
+21389	21087	CDS
+			codon_start	1
+			product	Protein F11
+			protein_id	gnl|ncbi|Vv.00g000360.m01
+			transcript_id	gnl|ncbi|Vv.00g000360.m01_mrna
+156150	156851	gene
+			gene	B23R_1
+			locus_tag	Vv.00g001940
+156150	156851	mRNA
+			product	Ankyrin repeat protein C17/B23
+			protein_id	gnl|ncbi|Vv.00g001940.m01
+			transcript_id	gnl|ncbi|Vv.00g001940.m01_mrna
+156150	156851	CDS
+			codon_start	1
+			product	Ankyrin repeat protein C17/B23
+			protein_id	gnl|ncbi|Vv.00g001940.m01
+			transcript_id	gnl|ncbi|Vv.00g001940.m01_mrna
+118535	117843	gene
+			gene	A26L
+			locus_tag	Vv.00g001380
+118535	117843	mRNA
+			product	Protein A26
+			protein_id	gnl|ncbi|Vv.00g001380.m01
+			transcript_id	gnl|ncbi|Vv.00g001380.m01_mrna
+118535	117843	CDS
+			codon_start	1
+			product	Protein A26
+			db_xref	InterPro:IPR009285
+			db_xref	PFAM:PF06086
+			protein_id	gnl|ncbi|Vv.00g001380.m01
+			transcript_id	gnl|ncbi|Vv.00g001380.m01_mrna
+79187	78900	gene
+			gene	D2L
+			locus_tag	Vv.00g000960
+79187	78900	mRNA
+			product	Core protein D2
+			protein_id	gnl|ncbi|Vv.00g000960.m01
+			transcript_id	gnl|ncbi|Vv.00g000960.m01_mrna
+79187	78900	CDS
+			codon_start	1
+			product	Core protein D2
+			db_xref	InterPro:IPR006791
+			db_xref	PFAM:PF04701
+			protein_id	gnl|ncbi|Vv.00g000960.m01
+			transcript_id	gnl|ncbi|Vv.00g000960.m01_mrna
+89745	87850	gene
+			gene	NPH1
+			locus_tag	Vv.00g001060
+89745	87850	mRNA
+			product	Nucleoside triphosphatase I
+			protein_id	gnl|ncbi|Vv.00g001060.m01
+			transcript_id	gnl|ncbi|Vv.00g001060.m01_mrna
+89745	87850	CDS
+			codon_start	1
+			product	Nucleoside triphosphatase I
+			db_xref	GO:0017111, GO:0006351, GO:0005524
+			db_xref	InterPro:IPR000330
+			db_xref	InterPro:IPR001650
+			db_xref	InterPro:IPR013676
+			db_xref	PFAM:PF00176
+			db_xref	PFAM:PF00271
+			db_xref	PFAM:PF08469
+			protein_id	gnl|ncbi|Vv.00g001060.m01
+			transcript_id	gnl|ncbi|Vv.00g001060.m01_mrna
+62357	62743	gene
+			gene	L5R
+			locus_tag	Vv.00g000800
+62357	62743	mRNA
+			product	Protein L5
+			protein_id	gnl|ncbi|Vv.00g000800.m01
+			transcript_id	gnl|ncbi|Vv.00g000800.m01_mrna
+62357	62743	CDS
+			codon_start	1
+			product	Protein L5
+			db_xref	InterPro:IPR006956
+			db_xref	PFAM:PF04872
+			protein_id	gnl|ncbi|Vv.00g000800.m01
+			transcript_id	gnl|ncbi|Vv.00g000800.m01_mrna
+24723	24502	gene
+			gene	F14L
+			locus_tag	Vv.00g000390
+24723	24502	mRNA
+			product	Protein F14
+			protein_id	gnl|ncbi|Vv.00g000390.m01
+			transcript_id	gnl|ncbi|Vv.00g000390.m01_mrna
+24723	24502	CDS
+			codon_start	1
+			product	Protein F14
+			db_xref	InterPro:IPR009280
+			db_xref	PFAM:PF06076
+			protein_id	gnl|ncbi|Vv.00g000390.m01
+			transcript_id	gnl|ncbi|Vv.00g000390.m01_mrna
+82139	83080	gene
+			gene	D5R
+			locus_tag	Vv.00g001000
+82139	83080	mRNA
+			product	Primase D5
+			protein_id	gnl|ncbi|Vv.00g001000.m01
+			transcript_id	gnl|ncbi|Vv.00g001000.m01_mrna
+82139	83080	CDS
+			codon_start	1
+			product	Primase D5
+			db_xref	InterPro:IPR004968
+			db_xref	PFAM:PF03288
+			protein_id	gnl|ncbi|Vv.00g001000.m01
+			transcript_id	gnl|ncbi|Vv.00g001000.m01_mrna
+25471	24995	gene
+			gene	F15L
+			locus_tag	Vv.00g000410
+25471	24995	mRNA
+			product	Protein F15
+			protein_id	gnl|ncbi|Vv.00g000410.m01
+			transcript_id	gnl|ncbi|Vv.00g000410.m01_mrna
+25471	24995	CDS
+			codon_start	1
+			product	Protein F15
+			db_xref	InterPro:IPR007675
+			db_xref	PFAM:PF04596
+			protein_id	gnl|ncbi|Vv.00g000410.m01
+			transcript_id	gnl|ncbi|Vv.00g000410.m01_mrna
+96585	97079	gene
+			gene	RPO19
+			locus_tag	Vv.00g001140
+96585	97079	mRNA
+			product	DNA-directed RNA polymerase 19 kDa subunit
+			protein_id	gnl|ncbi|Vv.00g001140.m01
+			transcript_id	gnl|ncbi|Vv.00g001140.m01_mrna
+96585	97079	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 19 kDa subunit
+			db_xref	GO:0003677, GO:0003899, GO:0006351
+			db_xref	InterPro:IPR007984
+			db_xref	PFAM:PF05320
+			protein_id	gnl|ncbi|Vv.00g001140.m01
+			transcript_id	gnl|ncbi|Vv.00g001140.m01_mrna
+13398	13847	gene
+			gene	K7R
+			locus_tag	Vv.00g000250
+13398	13847	mRNA
+			product	Protein K7
+			protein_id	gnl|ncbi|Vv.00g000250.m01
+			transcript_id	gnl|ncbi|Vv.00g000250.m01_mrna
+13398	13847	CDS
+			codon_start	1
+			product	Protein K7
+			db_xref	InterPro:IPR022819
+			db_xref	PFAM:PF06227
+			protein_id	gnl|ncbi|Vv.00g000250.m01
+			transcript_id	gnl|ncbi|Vv.00g000250.m01_mrna
+110547	110269	gene
+			gene	A21L
+			locus_tag	Vv.00g001300
+110547	110269	mRNA
+			product	Virion membrane protein A21
+			protein_id	gnl|ncbi|Vv.00g001300.m01
+			transcript_id	gnl|ncbi|Vv.00g001300.m01_mrna
+110547	110269	CDS
+			codon_start	1
+			product	Virion membrane protein A21
+			db_xref	InterPro:IPR007987
+			db_xref	PFAM:PF05323
+			protein_id	gnl|ncbi|Vv.00g001300.m01
+			transcript_id	gnl|ncbi|Vv.00g001300.m01_mrna
+133820	134308	gene
+			gene	A49R
+			locus_tag	Vv.00g001650
+133820	134308	mRNA
+			product	Protein A49
+			protein_id	gnl|ncbi|Vv.00g001650.m01
+			transcript_id	gnl|ncbi|Vv.00g001650.m01_mrna
+133820	134308	CDS
+			codon_start	1
+			product	Protein A49
+			db_xref	InterPro:IPR009473
+			db_xref	PFAM:PF06489
+			protein_id	gnl|ncbi|Vv.00g001650.m01
+			transcript_id	gnl|ncbi|Vv.00g001650.m01_mrna
+<154270	154659	gene
+			gene	B19R_1
+			locus_tag	Vv.00g001890
+<154270	154659	mRNA
+			product	Surface antigen S
+			protein_id	gnl|ncbi|Vv.00g001890.m01
+			transcript_id	gnl|ncbi|Vv.00g001890.m01_mrna
+<154270	154659	CDS
+			codon_start	1
+			product	Surface antigen S
+			protein_id	gnl|ncbi|Vv.00g001890.m01
+			transcript_id	gnl|ncbi|Vv.00g001890.m01_mrna
+104238	105194	gene
+			gene	A11R
+			locus_tag	Vv.00g001200
+104238	105194	mRNA
+			product	Protein A11
+			protein_id	gnl|ncbi|Vv.00g001200.m01
+			transcript_id	gnl|ncbi|Vv.00g001200.m01_mrna
+104238	105194	CDS
+			codon_start	1
+			product	Protein A11
+			db_xref	InterPro:IPR007755
+			db_xref	PFAM:PF05061
+			protein_id	gnl|ncbi|Vv.00g001200.m01
+			transcript_id	gnl|ncbi|Vv.00g001200.m01_mrna
+31721	30942	gene
+			gene	RPO30
+			locus_tag	Vv.00g000470
+31721	30942	mRNA
+			product	DNA-directed RNA polymerase 30 kDa polypeptide
+			protein_id	gnl|ncbi|Vv.00g000470.m01
+			transcript_id	gnl|ncbi|Vv.00g000470.m01_mrna
+31721	30942	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 30 kDa polypeptide
+			db_xref	GO:0006351, GO:0003676, GO:0008270, GO:0003677, GO:0003899
+			db_xref	InterPro:IPR001222
+			db_xref	InterPro:IPR024394
+			db_xref	PFAM:PF01096
+			db_xref	PFAM:PF12410
+			protein_id	gnl|ncbi|Vv.00g000470.m01
+			transcript_id	gnl|ncbi|Vv.00g000470.m01_mrna
+53205	51430	gene
+			gene	TG1L
+			locus_tag	Vv.00g000660
+53205	51430	mRNA
+			product	Metalloendopeptidase G1
+			protein_id	gnl|ncbi|Vv.00g000660.m01
+			transcript_id	gnl|ncbi|Vv.00g000660.m01_mrna
+53205	51430	CDS
+			codon_start	1
+			product	Metalloendopeptidase G1
+			db_xref	GO:0008270, GO:0019058, GO:0004222, GO:0003824, GO:0046872
+			db_xref	InterPro:IPR005072
+			db_xref	PFAM:PF03410
+			protein_id	gnl|ncbi|Vv.00g000660.m01
+			transcript_id	gnl|ncbi|Vv.00g000660.m01_mrna
+122487	122993	gene
+			gene	A34R
+			locus_tag	Vv.00g001470
+122487	122993	mRNA
+			product	Protein A34
+			protein_id	gnl|ncbi|Vv.00g001470.m01
+			transcript_id	gnl|ncbi|Vv.00g001470.m01_mrna
+122487	122993	CDS
+			codon_start	1
+			product	Protein A34
+			db_xref	InterPro:IPR001304
+			db_xref	PFAM:PF00059
+			protein_id	gnl|ncbi|Vv.00g001470.m01
+			transcript_id	gnl|ncbi|Vv.00g001470.m01_mrna
+8559	8218	gene
+			gene	N1L
+			locus_tag	Vv.00g000170
+8559	8218	mRNA
+			product	Protein N1
+			protein_id	gnl|ncbi|Vv.00g000170.m01
+			transcript_id	gnl|ncbi|Vv.00g000170.m01_mrna
+8559	8218	CDS
+			codon_start	1
+			product	Protein N1
+			db_xref	InterPro:IPR022819
+			db_xref	PFAM:PF06227
+			protein_id	gnl|ncbi|Vv.00g000170.m01
+			transcript_id	gnl|ncbi|Vv.00g000170.m01_mrna
+80034	80690	gene
+			gene	UNG
+			locus_tag	Vv.00g000980
+80034	80690	mRNA
+			product	Uracil-DNA glycosylase
+			protein_id	gnl|ncbi|Vv.00g000980.m01
+			transcript_id	gnl|ncbi|Vv.00g000980.m01_mrna
+80034	80690	CDS
+			codon_start	1
+			product	Uracil-DNA glycosylase
+			protein_id	gnl|ncbi|Vv.00g000980.m01
+			transcript_id	gnl|ncbi|Vv.00g000980.m01_mrna
+139937	140338	gene
+			gene	B2R
+			locus_tag	Vv.00g001710
+139937	140338	mRNA
+			product	Poxin
+			protein_id	gnl|ncbi|Vv.00g001710.m01
+			transcript_id	gnl|ncbi|Vv.00g001710.m01_mrna
+139937	140338	CDS
+			codon_start	1
+			product	Poxin
+			protein_id	gnl|ncbi|Vv.00g001710.m01
+			transcript_id	gnl|ncbi|Vv.00g001710.m01_mrna
+<117522	117226	gene
+			gene	A26L
+			locus_tag	Vv.00g001360
+<117522	117226	mRNA
+			product	17 kDa A-type inclusion protein
+			protein_id	gnl|ncbi|Vv.00g001360.m01
+			transcript_id	gnl|ncbi|Vv.00g001360.m01_mrna
+<117522	117226	CDS
+			codon_start	1
+			product	17 kDa A-type inclusion protein
+			protein_id	gnl|ncbi|Vv.00g001360.m01
+			transcript_id	gnl|ncbi|Vv.00g001360.m01_mrna
+<3499	2840	gene
+			gene	B23R_0
+			locus_tag	Vv.00g000070
+<3499	2840	mRNA
+			product	Ankyrin repeat protein C17/B23
+			protein_id	gnl|ncbi|Vv.00g000070.m01
+			transcript_id	gnl|ncbi|Vv.00g000070.m01_mrna
+<3499	2840	CDS
+			codon_start	1
+			product	Ankyrin repeat protein C17/B23
+			protein_id	gnl|ncbi|Vv.00g000070.m01
+			transcript_id	gnl|ncbi|Vv.00g000070.m01_mrna
+101547	101263	gene
+			gene	A9L
+			locus_tag	Vv.00g001180
+101547	101263	mRNA
+			product	Virion membrane protein A9
+			protein_id	gnl|ncbi|Vv.00g001180.m01
+			transcript_id	gnl|ncbi|Vv.00g001180.m01_mrna
+101547	101263	CDS
+			codon_start	1
+			product	Virion membrane protein A9
+			db_xref	InterPro:IPR006920
+			db_xref	PFAM:PF04835
+			protein_id	gnl|ncbi|Vv.00g001180.m01
+			transcript_id	gnl|ncbi|Vv.00g001180.m01_mrna
+23339	21432	gene
+			gene	F12L
+			locus_tag	Vv.00g000370
+23339	21432	mRNA
+			product	Protein F12
+			protein_id	gnl|ncbi|Vv.00g000370.m01
+			transcript_id	gnl|ncbi|Vv.00g000370.m01_mrna
+23339	21432	CDS
+			codon_start	1
+			product	Protein F12
+			db_xref	GO:0016032
+			db_xref	InterPro:IPR005005
+			db_xref	PFAM:PF03337
+			protein_id	gnl|ncbi|Vv.00g000370.m01
+			transcript_id	gnl|ncbi|Vv.00g000370.m01_mrna
+79333	80034	gene
+			gene	D3R
+			locus_tag	Vv.00g000970
+79333	80034	mRNA
+			product	Core protein D3
+			protein_id	gnl|ncbi|Vv.00g000970.m01
+			transcript_id	gnl|ncbi|Vv.00g000970.m01_mrna
+79333	80034	CDS
+			codon_start	1
+			product	Core protein D3
+			db_xref	InterPro:IPR007660
+			db_xref	PFAM:PF04580
+			protein_id	gnl|ncbi|Vv.00g000970.m01
+			transcript_id	gnl|ncbi|Vv.00g000970.m01_mrna
+70196	69681	gene
+			gene	H1L
+			locus_tag	Vv.00g000870
+70196	69681	mRNA
+			product	Dual specificity protein phosphatase H1
+			protein_id	gnl|ncbi|Vv.00g000870.m01
+			transcript_id	gnl|ncbi|Vv.00g000870.m01_mrna
+70196	69681	CDS
+			codon_start	1
+			product	Dual specificity protein phosphatase H1
+			db_xref	GO:0008138, GO:0006470, GO:0016311, GO:0004725
+			db_xref	InterPro:IPR000340
+			db_xref	PFAM:PF00782
+			protein_id	gnl|ncbi|Vv.00g000870.m01
+			transcript_id	gnl|ncbi|Vv.00g000870.m01_mrna
+90643	89780	gene
+			gene	D12L
+			locus_tag	Vv.00g001070
+90643	89780	mRNA
+			product	mRNA-capping enzyme regulatory subunit
+			protein_id	gnl|ncbi|Vv.00g001070.m01
+			transcript_id	gnl|ncbi|Vv.00g001070.m01_mrna
+90643	89780	CDS
+			codon_start	1
+			product	mRNA-capping enzyme regulatory subunit
+			db_xref	GO:0004482, GO:0006370
+			db_xref	InterPro:IPR005009
+			db_xref	PFAM:PF03341
+			protein_id	gnl|ncbi|Vv.00g001070.m01
+			transcript_id	gnl|ncbi|Vv.00g001070.m01_mrna
+92805	92353	gene
+			gene	VLTF2
+			locus_tag	Vv.00g001090
+92805	92353	mRNA
+			product	Viral late gene transcription factor 2
+			protein_id	gnl|ncbi|Vv.00g001090.m01
+			transcript_id	gnl|ncbi|Vv.00g001090.m01_mrna
+92805	92353	CDS
+			codon_start	1
+			product	Viral late gene transcription factor 2
+			db_xref	GO:0008270
+			db_xref	InterPro:IPR004975
+			db_xref	InterPro:IPR010507
+			db_xref	PFAM:PF03295
+			db_xref	PFAM:PF06467
+			protein_id	gnl|ncbi|Vv.00g001090.m01
+			transcript_id	gnl|ncbi|Vv.00g001090.m01_mrna
+100404	101270	gene
+			gene	VITF3S
+			locus_tag	Vv.00g001170
+100404	101270	mRNA
+			product	Intermediate transcription factor 3 small subunit
+			protein_id	gnl|ncbi|Vv.00g001170.m01
+			transcript_id	gnl|ncbi|Vv.00g001170.m01_mrna
+100404	101270	CDS
+			codon_start	1
+			product	Intermediate transcription factor 3 small subunit
+			db_xref	InterPro:IPR006834
+			db_xref	PFAM:PF04745
+			protein_id	gnl|ncbi|Vv.00g001170.m01
+			transcript_id	gnl|ncbi|Vv.00g001170.m01_mrna
+134340	135998	gene
+			gene	LIG
+			locus_tag	Vv.00g001660
+134340	135998	mRNA
+			product	DNA ligase
+			protein_id	gnl|ncbi|Vv.00g001660.m01
+			transcript_id	gnl|ncbi|Vv.00g001660.m01_mrna
+134340	135998	CDS
+			codon_start	1
+			product	DNA ligase
+			db_xref	GO:0003677, GO:0006310, GO:0006281, GO:0003910, GO:0071897, GO:0005524, GO:0003909, GO:0051103
+			db_xref	InterPro:IPR000977
+			db_xref	InterPro:IPR012308
+			db_xref	InterPro:IPR012309
+			db_xref	InterPro:IPR012310
+			db_xref	PFAM:PF01068
+			db_xref	PFAM:PF04675
+			db_xref	PFAM:PF04679
+			db_xref	TIGRFAM:TIGR00574
+			protein_id	gnl|ncbi|Vv.00g001660.m01
+			transcript_id	gnl|ncbi|Vv.00g001660.m01_mrna
+123634	124260	gene
+			gene	A36R
+			locus_tag	Vv.00g001490
+123634	124260	mRNA
+			product	Protein A36
+			protein_id	gnl|ncbi|Vv.00g001490.m01
+			transcript_id	gnl|ncbi|Vv.00g001490.m01_mrna
+123634	124260	CDS
+			codon_start	1
+			product	Protein A36
+			db_xref	InterPro:IPR010274
+			db_xref	PFAM:PF05950
+			protein_id	gnl|ncbi|Vv.00g001490.m01
+			transcript_id	gnl|ncbi|Vv.00g001490.m01_mrna
+13228	13034	gene
+			gene	K6L
+			locus_tag	Vv.00g000240
+13228	13034	mRNA
+			product	Protein K6
+			protein_id	gnl|ncbi|Vv.00g000240.m01
+			transcript_id	gnl|ncbi|Vv.00g000240.m01_mrna
+13228	13034	CDS
+			codon_start	1
+			product	Protein K6
+			db_xref	InterPro:IPR022742
+			db_xref	PFAM:PF12146
+			protein_id	gnl|ncbi|Vv.00g000240.m01
+			transcript_id	gnl|ncbi|Vv.00g000240.m01_mrna
+3717	3496	gene
+			gene	C9L
+			locus_tag	Vv.00g000080
+3717	3496	mRNA
+			product	Uncharacterized protein 16
+			protein_id	gnl|ncbi|Vv.00g000080.m01
+			transcript_id	gnl|ncbi|Vv.00g000080.m01_mrna
+3717	3496	CDS
+			codon_start	1
+			product	Uncharacterized protein 16
+			protein_id	gnl|ncbi|Vv.00g000080.m01
+			transcript_id	gnl|ncbi|Vv.00g000080.m01_mrna
+128816	129202	gene
+			gene	A42R
+			locus_tag	Vv.00g001570
+128816	129202	mRNA
+			product	Profilin
+			protein_id	gnl|ncbi|Vv.00g001570.m01
+			transcript_id	gnl|ncbi|Vv.00g001570.m01_mrna
+128816	129202	CDS
+			codon_start	1
+			product	Profilin
+			db_xref	GO:0003779
+			db_xref	InterPro:IPR005455
+			db_xref	PFAM:PF00235
+			protein_id	gnl|ncbi|Vv.00g001570.m01
+			transcript_id	gnl|ncbi|Vv.00g001570.m01_mrna
+46693	44378	gene
+			gene	I4L
+			locus_tag	Vv.00g000610
+46693	44378	mRNA
+			product	Ribonucleoside-diphosphate reductase large subunit
+			protein_id	gnl|ncbi|Vv.00g000610.m01
+			transcript_id	gnl|ncbi|Vv.00g000610.m01_mrna
+46693	44378	CDS
+			codon_start	1
+			product	Ribonucleoside-diphosphate reductase large subunit
+			db_xref	GO:0055114, GO:0004748, GO:0005524, GO:0006260
+			db_xref	InterPro:IPR000788
+			db_xref	InterPro:IPR005144
+			db_xref	InterPro:IPR013346
+			db_xref	InterPro:IPR013509
+			db_xref	PFAM:PF00317
+			db_xref	PFAM:PF02867
+			db_xref	PFAM:PF03477
+			db_xref	TIGRFAM:TIGR02506
+			protein_id	gnl|ncbi|Vv.00g000610.m01
+			transcript_id	gnl|ncbi|Vv.00g000610.m01_mrna
+120632	121009	gene
+			gene	A31R
+			locus_tag	Vv.00g001440
+120632	121009	mRNA
+			product	Protein A31
+			protein_id	gnl|ncbi|Vv.00g001440.m01
+			transcript_id	gnl|ncbi|Vv.00g001440.m01_mrna
+120632	121009	CDS
+			codon_start	1
+			product	Protein A31
+			db_xref	InterPro:IPR008786
+			db_xref	PFAM:PF05771
+			protein_id	gnl|ncbi|Vv.00g001440.m01
+			transcript_id	gnl|ncbi|Vv.00g001440.m01_mrna
+105759	105196	gene
+			gene	A12L
+			locus_tag	Vv.00g001210
+105759	105196	mRNA
+			product	25 kDa core protein A12L
+			protein_id	gnl|ncbi|Vv.00g001210.m01
+			transcript_id	gnl|ncbi|Vv.00g001210.m01_mrna
+105759	105196	CDS
+			codon_start	1
+			product	25 kDa core protein A12L
+			db_xref	InterPro:IPR006744
+			db_xref	PFAM:PF04651
+			protein_id	gnl|ncbi|Vv.00g001210.m01
+			transcript_id	gnl|ncbi|Vv.00g001210.m01_mrna
+9190	8678	gene
+			gene	N2L
+			locus_tag	Vv.00g000180
+9190	8678	mRNA
+			product	Protein N2
+			protein_id	gnl|ncbi|Vv.00g000180.m01
+			transcript_id	gnl|ncbi|Vv.00g000180.m01_mrna
+9190	8678	CDS
+			codon_start	1
+			product	Protein N2
+			db_xref	InterPro:IPR022819
+			db_xref	PFAM:PF06227
+			protein_id	gnl|ncbi|Vv.00g000180.m01
+			transcript_id	gnl|ncbi|Vv.00g000180.m01_mrna
+30887	30315	gene
+			gene	E3L
+			locus_tag	Vv.00g000460
+30887	30315	mRNA
+			product	Protein E3
+			protein_id	gnl|ncbi|Vv.00g000460.m01
+			transcript_id	gnl|ncbi|Vv.00g000460.m01_mrna
+30887	30315	CDS
+			codon_start	1
+			product	Protein E3
+			db_xref	GO:0003726, GO:0003723, GO:0039503
+			db_xref	InterPro:IPR000607
+			db_xref	InterPro:IPR014720
+			db_xref	PFAM:PF00035
+			db_xref	PFAM:PF02295
+			protein_id	gnl|ncbi|Vv.00g000460.m01
+			transcript_id	gnl|ncbi|Vv.00g000460.m01_mrna
+117257	117060	gene
+			gene	ATI3
+			locus_tag	Vv.00g001350
+117257	117060	mRNA
+			product	7 kDa A-type inclusion protein
+			protein_id	gnl|ncbi|Vv.00g001350.m01
+			transcript_id	gnl|ncbi|Vv.00g001350.m01_mrna
+117257	117060	CDS
+			codon_start	1
+			product	7 kDa A-type inclusion protein
+			protein_id	gnl|ncbi|Vv.00g001350.m01
+			transcript_id	gnl|ncbi|Vv.00g001350.m01_mrna
+125205	125378	gene
+			gene	A37.5			
+			locus_tag	Vv.00g001510
+125205	125378	mRNA
+			product	Uncharacterized protein A37.5
+			protein_id	gnl|ncbi|Vv.00g001510.m01
+			transcript_id	gnl|ncbi|Vv.00g001510.m01_mrna
+125205	125378	CDS
+			codon_start	1
+			product	Uncharacterized protein A37.5
+			protein_id	gnl|ncbi|Vv.00g001510.m01
+			transcript_id	gnl|ncbi|Vv.00g001510.m01_mrna
+<149080	149556	gene
+			gene	B15R
+			locus_tag	Vv.00g001840
+<149080	149556	mRNA
+			product	Protein B14
+			protein_id	gnl|ncbi|Vv.00g001840.m01
+			transcript_id	gnl|ncbi|Vv.00g001840.m01_mrna
+<149080	149556	CDS
+			codon_start	1
+			product	Protein B14
+			db_xref	InterPro:IPR022819
+			db_xref	PFAM:PF06227
+			protein_id	gnl|ncbi|Vv.00g001840.m01
+			transcript_id	gnl|ncbi|Vv.00g001840.m01_mrna
+80722	82185	gene
+			gene	D5R
+			locus_tag	Vv.00g000990
+80722	82185	mRNA
+			product	Primase D5
+			protein_id	gnl|ncbi|Vv.00g000990.m01
+			transcript_id	gnl|ncbi|Vv.00g000990.m01_mrna
+80722	82185	CDS
+			codon_start	1
+			product	Primase D5
+			db_xref	InterPro:IPR014818
+			db_xref	PFAM:PF08706
+			protein_id	gnl|ncbi|Vv.00g000990.m01
+			transcript_id	gnl|ncbi|Vv.00g000990.m01_mrna
+43257	42319	gene
+			gene	I1L
+			locus_tag	Vv.00g000580
+43257	42319	mRNA
+			product	Telomere-binding protein I1
+			protein_id	gnl|ncbi|Vv.00g000580.m01
+			transcript_id	gnl|ncbi|Vv.00g000580.m01_mrna
+43257	42319	CDS
+			codon_start	1
+			product	Telomere-binding protein I1
+			db_xref	InterPro:IPR004969
+			db_xref	PFAM:PF03289
+			protein_id	gnl|ncbi|Vv.00g000580.m01
+			transcript_id	gnl|ncbi|Vv.00g000580.m01_mrna
+<2853	2455	gene
+			gene	D4L_0
+			locus_tag	Vv.00g000060
+<2853	2455	mRNA
+			product	Ankyrin repeat protein D4L/I2R
+			protein_id	gnl|ncbi|Vv.00g000060.m01
+			transcript_id	gnl|ncbi|Vv.00g000060.m01_mrna
+<2853	2455	CDS
+			codon_start	1
+			product	Ankyrin repeat protein D4L/I2R
+			protein_id	gnl|ncbi|Vv.00g000060.m01
+			transcript_id	gnl|ncbi|Vv.00g000060.m01_mrna
+157266	157403	gene
+			gene	B24R_1
+			locus_tag	Vv.00g001960
+157266	157403	mRNA
+			product	Ankyrin repeat protein C18/B24
+			protein_id	gnl|ncbi|Vv.00g001960.m01
+			transcript_id	gnl|ncbi|Vv.00g001960.m01_mrna
+157266	157403	CDS
+			codon_start	1
+			product	Ankyrin repeat protein C18/B24
+			protein_id	gnl|ncbi|Vv.00g001960.m01
+			transcript_id	gnl|ncbi|Vv.00g001960.m01_mrna
+20353	19034	gene
+			gene	VPK2
+			locus_tag	Vv.00g000340
+20353	19034	mRNA
+			product	Serine/threonine-protein kinase 2
+			protein_id	gnl|ncbi|Vv.00g000340.m01
+			transcript_id	gnl|ncbi|Vv.00g000340.m01_mrna
+20353	19034	CDS
+			codon_start	1
+			product	Serine/threonine-protein kinase 2
+			db_xref	GO:0005524, GO:0004672, GO:0006468
+			db_xref	InterPro:IPR008790
+			db_xref	PFAM:PF05445
+			protein_id	gnl|ncbi|Vv.00g000340.m01
+			transcript_id	gnl|ncbi|Vv.00g000340.m01_mrna
+<4901	4410	gene
+			gene	C9L_0
+			locus_tag	Vv.00g000100
+<4901	4410	mRNA
+			product	Ankyrin repeat protein C9L
+			protein_id	gnl|ncbi|Vv.00g000100.m01
+			transcript_id	gnl|ncbi|Vv.00g000100.m01_mrna
+<4901	4410	CDS
+			codon_start	1
+			product	Ankyrin repeat protein C9L
+			protein_id	gnl|ncbi|Vv.00g000100.m01
+			transcript_id	gnl|ncbi|Vv.00g000100.m01_mrna
+86477	87106	gene
+			gene	D9R
+			locus_tag	Vv.00g001040
+86477	87106	mRNA
+			product	mRNA-decapping protein D9
+			protein_id	gnl|ncbi|Vv.00g001040.m01
+			transcript_id	gnl|ncbi|Vv.00g001040.m01_mrna
+86477	87106	CDS
+			codon_start	1
+			product	mRNA-decapping protein D9
+			db_xref	GO:0016787
+			db_xref	InterPro:IPR000086
+			db_xref	PFAM:PF00293
+			protein_id	gnl|ncbi|Vv.00g001040.m01
+			transcript_id	gnl|ncbi|Vv.00g001040.m01_mrna
+108588	110054	gene
+			gene	A18R
+			locus_tag	Vv.00g001280
+108588	110054	mRNA
+			product	Transcript termination protein A18
+			protein_id	gnl|ncbi|Vv.00g001280.m01
+			transcript_id	gnl|ncbi|Vv.00g001280.m01_mrna
+108588	110054	CDS
+			codon_start	1
+			product	Transcript termination protein A18
+			db_xref	GO:0016787, GO:0005524, GO:0003677
+			db_xref	InterPro:IPR006935
+			db_xref	PFAM:PF04851
+			protein_id	gnl|ncbi|Vv.00g001280.m01
+			transcript_id	gnl|ncbi|Vv.00g001280.m01_mrna
+131242	131607	gene
+			gene	SALF8R
+			locus_tag	Vv.00g001610
+131242	131607	mRNA
+			product	Cu-Zn superoxide dismutase-like protein
+			protein_id	gnl|ncbi|Vv.00g001610.m01
+			transcript_id	gnl|ncbi|Vv.00g001610.m01_mrna
+131242	131607	CDS
+			codon_start	1
+			product	Cu-Zn superoxide dismutase-like protein
+			protein_id	gnl|ncbi|Vv.00g001610.m01
+			transcript_id	gnl|ncbi|Vv.00g001610.m01_mrna
+65824	69684	gene
+			gene	RPO147
+			locus_tag	Vv.00g000860
+65824	69684	mRNA
+			product	DNA-directed RNA polymerase 147 kDa polypeptide
+			protein_id	gnl|ncbi|Vv.00g000860.m01
+			transcript_id	gnl|ncbi|Vv.00g000860.m01_mrna
+65824	69684	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 147 kDa polypeptide
+			db_xref	GO:0003899, GO:0003677, GO:0006351
+			db_xref	InterPro:IPR000722
+			db_xref	InterPro:IPR007066
+			db_xref	InterPro:IPR007080
+			db_xref	InterPro:IPR007081
+			db_xref	InterPro:IPR007083
+			db_xref	PFAM:PF00623
+			db_xref	PFAM:PF04983
+			db_xref	PFAM:PF04997
+			db_xref	PFAM:PF04998
+			db_xref	PFAM:PF05000
+			protein_id	gnl|ncbi|Vv.00g000860.m01
+			transcript_id	gnl|ncbi|Vv.00g000860.m01_mrna
+100350	98218	gene
+			gene	VETFL
+			locus_tag	Vv.00g001160
+100350	98218	mRNA
+			product	Early transcription factor 82 kDa subunit
+			protein_id	gnl|ncbi|Vv.00g001160.m01
+			transcript_id	gnl|ncbi|Vv.00g001160.m01_mrna
+100350	98218	CDS
+			codon_start	1
+			product	Early transcription factor 82 kDa subunit
+			db_xref	GO:0045893
+			db_xref	InterPro:IPR007532
+			db_xref	PFAM:PF04441
+			protein_id	gnl|ncbi|Vv.00g001160.m01
+			transcript_id	gnl|ncbi|Vv.00g001160.m01_mrna
+<138700	139623	gene
+			gene	VPK1
+			locus_tag	Vv.00g001700
+<138700	139623	mRNA
+			product	B1 kinase
+			protein_id	gnl|ncbi|Vv.00g001700.m01
+			transcript_id	gnl|ncbi|Vv.00g001700.m01_mrna
+<138700	139623	CDS
+			codon_start	1
+			product	B1 kinase
+			db_xref	GO:0004672, GO:0005524, GO:0006468
+			db_xref	InterPro:IPR000719
+			db_xref	PFAM:PF00069
+			protein_id	gnl|ncbi|Vv.00g001700.m01
+			transcript_id	gnl|ncbi|Vv.00g001700.m01_mrna
+136044	136976	gene
+			gene	A51R
+			locus_tag	Vv.00g001670
+136044	136976	mRNA
+			product	Protein A51
+			protein_id	gnl|ncbi|Vv.00g001670.m01
+			transcript_id	gnl|ncbi|Vv.00g001670.m01_mrna
+136044	136976	CDS
+			codon_start	1
+			product	Protein A51
+			db_xref	InterPro:IPR007032
+			db_xref	PFAM:PF04948
+			protein_id	gnl|ncbi|Vv.00g001670.m01
+			transcript_id	gnl|ncbi|Vv.00g001670.m01_mrna
+74144	71757	gene
+			gene	RAP94
+			locus_tag	Vv.00g000900
+74144	71757	mRNA
+			product	RNA polymerase-associated transcription-specificity factor RAP94
+			protein_id	gnl|ncbi|Vv.00g000900.m01
+			transcript_id	gnl|ncbi|Vv.00g000900.m01_mrna
+74144	71757	CDS
+			codon_start	1
+			product	RNA polymerase-associated transcription-specificity factor RAP94
+			db_xref	GO:0003700
+			db_xref	InterPro:IPR004974
+			db_xref	PFAM:PF03294
+			protein_id	gnl|ncbi|Vv.00g000900.m01
+			transcript_id	gnl|ncbi|Vv.00g000900.m01_mrna
+15035	14592	gene
+			gene	DUT
+			locus_tag	Vv.00g000270
+15035	14592	mRNA
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+			protein_id	gnl|ncbi|Vv.00g000270.m01
+			transcript_id	gnl|ncbi|Vv.00g000270.m01_mrna
+15035	14592	CDS
+			codon_start	1
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+			db_xref	GO:0046080, GO:0004170
+			db_xref	InterPro:IPR008181
+			db_xref	InterPro:IPR029054
+			db_xref	PFAM:PF00692
+			db_xref	TIGRFAM:TIGR00576
+			protein_id	gnl|ncbi|Vv.00g000270.m01
+			transcript_id	gnl|ncbi|Vv.00g000270.m01_mrna
+144652	145185	gene
+			gene	B7R
+			locus_tag	Vv.00g001770
+144652	145185	mRNA
+			product	Protein B7
+			protein_id	gnl|ncbi|Vv.00g001770.m01
+			transcript_id	gnl|ncbi|Vv.00g001770.m01_mrna
+144652	145185	CDS
+			codon_start	1
+			product	Protein B7
+			db_xref	InterPro:IPR010806
+			db_xref	PFAM:PF07190
+			protein_id	gnl|ncbi|Vv.00g001770.m01
+			transcript_id	gnl|ncbi|Vv.00g001770.m01_mrna
+128617	127985	gene
+			gene	A41L
+			locus_tag	Vv.00g001560
+128617	127985	mRNA
+			product	Protein A41
+			protein_id	gnl|ncbi|Vv.00g001560.m01
+			transcript_id	gnl|ncbi|Vv.00g001560.m01_mrna
+128617	127985	CDS
+			codon_start	1
+			product	Protein A41
+			db_xref	InterPro:IPR003184
+			db_xref	PFAM:PF02250
+			protein_id	gnl|ncbi|Vv.00g001560.m01
+			transcript_id	gnl|ncbi|Vv.00g001560.m01_mrna
+42173	41847	gene
+			gene	O2L
+			locus_tag	Vv.00g000570
+42173	41847	mRNA
+			product	Glutaredoxin-1
+			protein_id	gnl|ncbi|Vv.00g000570.m01
+			transcript_id	gnl|ncbi|Vv.00g000570.m01_mrna
+42173	41847	CDS
+			codon_start	1
+			product	Glutaredoxin-1
+			db_xref	GO:0045454, GO:0009055, GO:0015035
+			db_xref	InterPro:IPR002109
+			db_xref	InterPro:IPR011899
+			db_xref	PFAM:PF00462
+			db_xref	TIGRFAM:TIGR02180
+			protein_id	gnl|ncbi|Vv.00g000570.m01
+			transcript_id	gnl|ncbi|Vv.00g000570.m01_mrna
+57653	58435	gene
+			gene	VLTF1
+			locus_tag	Vv.00g000740
+57653	58435	mRNA
+			product	Late transcription factor 1
+			protein_id	gnl|ncbi|Vv.00g000740.m01
+			transcript_id	gnl|ncbi|Vv.00g000740.m01_mrna
+57653	58435	CDS
+			codon_start	1
+			product	Late transcription factor 1
+			db_xref	GO:0006355
+			db_xref	InterPro:IPR005022
+			db_xref	PFAM:PF03355
+			protein_id	gnl|ncbi|Vv.00g000740.m01
+			transcript_id	gnl|ncbi|Vv.00g000740.m01_mrna
+119358	118918	gene
+			gene	A28L
+			locus_tag	Vv.00g001400
+119358	118918	mRNA
+			product	Envelope protein A28
+			protein_id	gnl|ncbi|Vv.00g001400.m01
+			transcript_id	gnl|ncbi|Vv.00g001400.m01_mrna
+119358	118918	CDS
+			codon_start	1
+			product	Envelope protein A28
+			db_xref	GO:0016032, GO:0019031
+			db_xref	InterPro:IPR007664
+			db_xref	PFAM:PF04584
+			protein_id	gnl|ncbi|Vv.00g001400.m01
+			transcript_id	gnl|ncbi|Vv.00g001400.m01_mrna
+104220	101548	gene
+			gene	A10L
+			locus_tag	Vv.00g001190
+104220	101548	mRNA
+			product	Major core protein 4a precursor
+			protein_id	gnl|ncbi|Vv.00g001190.m01
+			transcript_id	gnl|ncbi|Vv.00g001190.m01_mrna
+104220	101548	CDS
+			codon_start	1
+			product	Major core protein 4a precursor
+			db_xref	GO:0005198, GO:0019012
+			db_xref	InterPro:IPR005058
+			db_xref	PFAM:PF03395
+			protein_id	gnl|ncbi|Vv.00g001190.m01
+			transcript_id	gnl|ncbi|Vv.00g001190.m01_mrna
+30188	27975	gene
+			gene	E2L
+			locus_tag	Vv.00g000450
+30188	27975	mRNA
+			product	Protein E2
+			protein_id	gnl|ncbi|Vv.00g000450.m01
+			transcript_id	gnl|ncbi|Vv.00g000450.m01_mrna
+30188	27975	CDS
+			codon_start	1
+			product	Protein E2
+			db_xref	InterPro:IPR021155
+			db_xref	PFAM:PF04497
+			protein_id	gnl|ncbi|Vv.00g000450.m01
+			transcript_id	gnl|ncbi|Vv.00g000450.m01_mrna
+44295	43486	gene
+			gene	I3L
+			locus_tag	Vv.00g000600
+44295	43486	mRNA
+			product	Protein I3
+			protein_id	gnl|ncbi|Vv.00g000600.m01
+			transcript_id	gnl|ncbi|Vv.00g000600.m01_mrna
+44295	43486	CDS
+			codon_start	1
+			product	Protein I3
+			db_xref	GO:0003697
+			db_xref	InterPro:IPR006754
+			db_xref	PFAM:PF04661
+			protein_id	gnl|ncbi|Vv.00g000600.m01
+			transcript_id	gnl|ncbi|Vv.00g000600.m01_mrna
+11146	10880	gene
+			gene	K3L
+			locus_tag	Vv.00g000210
+11146	10880	mRNA
+			product	Protein K3
+			protein_id	gnl|ncbi|Vv.00g000210.m01
+			transcript_id	gnl|ncbi|Vv.00g000210.m01_mrna
+11146	10880	CDS
+			codon_start	1
+			product	Protein K3
+			db_xref	GO:0003676, GO:0030414
+			db_xref	InterPro:IPR003029
+			db_xref	PFAM:PF00575
+			protein_id	gnl|ncbi|Vv.00g000210.m01
+			transcript_id	gnl|ncbi|Vv.00g000210.m01_mrna
+113585	117055	gene
+			gene	RPO132
+			locus_tag	Vv.00g001340
+113585	117055	mRNA
+			product	DNA-directed RNA polymerase 133 kDa polypeptide
+			protein_id	gnl|ncbi|Vv.00g001340.m01
+			transcript_id	gnl|ncbi|Vv.00g001340.m01_mrna
+113585	117055	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 133 kDa polypeptide
+			db_xref	GO:0006351, GO:0003899, GO:0003677, GO:0032549
+			db_xref	InterPro:IPR007120
+			db_xref	InterPro:IPR007641
+			db_xref	InterPro:IPR007645
+			db_xref	InterPro:IPR007647
+			db_xref	InterPro:IPR024390
+			db_xref	PFAM:PF00562
+			db_xref	PFAM:PF04560
+			db_xref	PFAM:PF04565
+			db_xref	PFAM:PF04567
+			db_xref	PFAM:PF12415
+			protein_id	gnl|ncbi|Vv.00g001340.m01
+			transcript_id	gnl|ncbi|Vv.00g001340.m01_mrna
+9515	9219	gene
+			gene	K1L
+			locus_tag	Vv.00g000190
+9515	9219	mRNA
+			product	Interferon antagonist K1L
+			protein_id	gnl|ncbi|Vv.00g000190.m01
+			transcript_id	gnl|ncbi|Vv.00g000190.m01_mrna
+9515	9219	CDS
+			codon_start	1
+			product	Interferon antagonist K1L
+			db_xref	GO:0005515
+			db_xref	InterPro:IPR020683
+			db_xref	PFAM:PF12796
+			protein_id	gnl|ncbi|Vv.00g000190.m01
+			transcript_id	gnl|ncbi|Vv.00g000190.m01_mrna
+149640	150620	gene
+			gene	B16R
+			locus_tag	Vv.00g001850
+149640	150620	mRNA
+			product	Interleukin-1-binding protein
+			protein_id	gnl|ncbi|Vv.00g001850.m01
+			transcript_id	gnl|ncbi|Vv.00g001850.m01_mrna
+149640	150620	CDS
+			codon_start	1
+			product	Interleukin-1-binding protein
+			db_xref	InterPro:IPR013151
+			db_xref	PFAM:PF00047
+			protein_id	gnl|ncbi|Vv.00g001850.m01
+			transcript_id	gnl|ncbi|Vv.00g001850.m01_mrna
+56045	56542	gene
+			gene	G6R
+			locus_tag	Vv.00g000720
+56045	56542	mRNA
+			product	Uncharacterized protein G6
+			protein_id	gnl|ncbi|Vv.00g000720.m01
+			transcript_id	gnl|ncbi|Vv.00g000720.m01_mrna
+56045	56542	CDS
+			codon_start	1
+			product	Uncharacterized protein G6
+			db_xref	InterPro:IPR024453
+			db_xref	PFAM:PF05708
+			protein_id	gnl|ncbi|Vv.00g000720.m01
+			transcript_id	gnl|ncbi|Vv.00g000720.m01_mrna
+2425	2288	gene
+			gene	B24R_0
+			locus_tag	Vv.00g000050
+2425	2288	mRNA
+			product	Ankyrin repeat protein C18/B24
+			protein_id	gnl|ncbi|Vv.00g000050.m01
+			transcript_id	gnl|ncbi|Vv.00g000050.m01_mrna
+2425	2288	CDS
+			codon_start	1
+			product	Ankyrin repeat protein C18/B24
+			protein_id	gnl|ncbi|Vv.00g000050.m01
+			transcript_id	gnl|ncbi|Vv.00g000050.m01_mrna
+124324	125115	gene
+			gene	A37R
+			locus_tag	Vv.00g001500
+124324	125115	mRNA
+			product	Protein A37
+			protein_id	gnl|ncbi|Vv.00g001500.m01
+			transcript_id	gnl|ncbi|Vv.00g001500.m01_mrna
+124324	125115	CDS
+			codon_start	1
+			product	Protein A37
+			db_xref	InterPro:IPR009641
+			db_xref	PFAM:PF06822
+			protein_id	gnl|ncbi|Vv.00g001500.m01
+			transcript_id	gnl|ncbi|Vv.00g001500.m01_mrna
+155179	155277	gene
+			gene	B21R
+			locus_tag	Vv.00g001910
+155179	155277	mRNA
+			product	Protein C15/B21
+			protein_id	gnl|ncbi|Vv.00g001910.m01
+			transcript_id	gnl|ncbi|Vv.00g001910.m01_mrna
+155179	155277	CDS
+			codon_start	1
+			product	Protein C15/B21
+			protein_id	gnl|ncbi|Vv.00g001910.m01
+			transcript_id	gnl|ncbi|Vv.00g001910.m01_mrna
+43485	43264	gene
+			gene	I2L
+			locus_tag	Vv.00g000590
+43485	43264	mRNA
+			product	Protein I2
+			protein_id	gnl|ncbi|Vv.00g000590.m01
+			transcript_id	gnl|ncbi|Vv.00g000590.m01_mrna
+43485	43264	CDS
+			codon_start	1
+			product	Protein I2
+			db_xref	InterPro:IPR009175
+			db_xref	PFAM:PF12575
+			protein_id	gnl|ncbi|Vv.00g000590.m01
+			transcript_id	gnl|ncbi|Vv.00g000590.m01_mrna
+<20819	20376	gene
+			gene	F11L
+			locus_tag	Vv.00g000350
+<20819	20376	mRNA
+			product	Protein F11
+			protein_id	gnl|ncbi|Vv.00g000350.m01
+			transcript_id	gnl|ncbi|Vv.00g000350.m01_mrna
+<20819	20376	CDS
+			codon_start	1
+			product	Protein F11
+			protein_id	gnl|ncbi|Vv.00g000350.m01
+			transcript_id	gnl|ncbi|Vv.00g000350.m01_mrna
+131195	130155	gene
+			gene	SALF7L
+			locus_tag	Vv.00g001600
+131195	130155	mRNA
+			product	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+			protein_id	gnl|ncbi|Vv.00g001600.m01
+			transcript_id	gnl|ncbi|Vv.00g001600.m01_mrna
+131195	130155	CDS
+			codon_start	1
+			product	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+			db_xref	GO:0016616, GO:0003854, GO:0055114, GO:0006694
+			db_xref	InterPro:IPR002225
+			db_xref	PFAM:PF01073
+			protein_id	gnl|ncbi|Vv.00g001600.m01
+			transcript_id	gnl|ncbi|Vv.00g001600.m01_mrna
+17459	16500	gene
+			gene	RIR2
+			locus_tag	Vv.00g000290
+17459	16500	mRNA
+			product	Ribonucleoside-diphosphate reductase small chain
+			protein_id	gnl|ncbi|Vv.00g000290.m01
+			transcript_id	gnl|ncbi|Vv.00g000290.m01_mrna
+17459	16500	CDS
+			codon_start	1
+			product	Ribonucleoside-diphosphate reductase small chain
+			db_xref	GO:0016491, GO:0055114
+			db_xref	InterPro:IPR000358
+			db_xref	PFAM:PF00268
+			protein_id	gnl|ncbi|Vv.00g000290.m01
+			transcript_id	gnl|ncbi|Vv.00g000290.m01_mrna
+<146192	146734	gene
+			gene	B10R
+			locus_tag	Vv.00g001790
+<146192	146734	mRNA
+			product	Kelch repeat protein B10
+			protein_id	gnl|ncbi|Vv.00g001790.m01
+			transcript_id	gnl|ncbi|Vv.00g001790.m01_mrna
+<146192	146734	CDS
+			codon_start	1
+			product	Kelch repeat protein B10
+			protein_id	gnl|ncbi|Vv.00g001790.m01
+			transcript_id	gnl|ncbi|Vv.00g001790.m01_mrna
+5320	5030	gene
+			gene	C9L_1
+			locus_tag	Vv.00g000110
+5320	5030	mRNA
+			product	Ankyrin repeat protein C9L
+			protein_id	gnl|ncbi|Vv.00g000110.m01
+			transcript_id	gnl|ncbi|Vv.00g000110.m01_mrna
+5320	5030	CDS
+			codon_start	1
+			product	Ankyrin repeat protein C9L
+			protein_id	gnl|ncbi|Vv.00g000110.m01
+			transcript_id	gnl|ncbi|Vv.00g000110.m01_mrna
+87103	87849	gene
+			gene	D10R
+			locus_tag	Vv.00g001050
+87103	87849	mRNA
+			product	mRNA-decapping protein D10
+			protein_id	gnl|ncbi|Vv.00g001050.m01
+			transcript_id	gnl|ncbi|Vv.00g001050.m01_mrna
+87103	87849	CDS
+			codon_start	1
+			product	mRNA-decapping protein D10
+			db_xref	GO:0016791, GO:0016787
+			db_xref	InterPro:IPR013683
+			db_xref	PFAM:PF08476
+			protein_id	gnl|ncbi|Vv.00g001050.m01
+			transcript_id	gnl|ncbi|Vv.00g001050.m01_mrna
+65718	65317	gene
+			gene	J5L
+			locus_tag	Vv.00g000850
+65718	65317	mRNA
+			product	Protein J5
+			protein_id	gnl|ncbi|Vv.00g000850.m01
+			transcript_id	gnl|ncbi|Vv.00g000850.m01_mrna
+65718	65317	CDS
+			codon_start	1
+			product	Protein J5
+			db_xref	InterPro:IPR004251
+			db_xref	PFAM:PF03003
+			protein_id	gnl|ncbi|Vv.00g000850.m01
+			transcript_id	gnl|ncbi|Vv.00g000850.m01_mrna
+120276	119359	gene
+			gene	RPO35
+			locus_tag	Vv.00g001410
+120276	119359	mRNA
+			product	DNA-directed RNA polymerase 35 kDa subunit
+			protein_id	gnl|ncbi|Vv.00g001410.m01
+			transcript_id	gnl|ncbi|Vv.00g001410.m01_mrna
+120276	119359	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 35 kDa subunit
+			db_xref	GO:0003677, GO:0003899, GO:0019083
+			db_xref	InterPro:IPR005059
+			db_xref	PFAM:PF03396
+			protein_id	gnl|ncbi|Vv.00g001410.m01
+			transcript_id	gnl|ncbi|Vv.00g001410.m01_mrna
+54537	54163	gene
+			gene	TG4R
+			locus_tag	Vv.00g000690
+54537	54163	mRNA
+			product	Glutaredoxin-2
+			protein_id	gnl|ncbi|Vv.00g000690.m01
+			transcript_id	gnl|ncbi|Vv.00g000690.m01_mrna
+54537	54163	CDS
+			codon_start	1
+			product	Glutaredoxin-2
+			db_xref	InterPro:IPR008554
+			db_xref	PFAM:PF05768
+			protein_id	gnl|ncbi|Vv.00g000690.m01
+			transcript_id	gnl|ncbi|Vv.00g000690.m01_mrna
+110268	110035	gene
+			gene	A19L
+			locus_tag	Vv.00g001290
+110268	110035	mRNA
+			product	Protein A19
+			protein_id	gnl|ncbi|Vv.00g001290.m01
+			transcript_id	gnl|ncbi|Vv.00g001290.m01_mrna
+110268	110035	CDS
+			codon_start	1
+			product	Protein A19
+			db_xref	InterPro:IPR007769
+			db_xref	PFAM:PF05077
+			protein_id	gnl|ncbi|Vv.00g001290.m01
+			transcript_id	gnl|ncbi|Vv.00g001290.m01_mrna
+14571	13912	gene
+			gene	F1L
+			locus_tag	Vv.00g000260
+14571	13912	mRNA
+			product	Protein F1
+			protein_id	gnl|ncbi|Vv.00g000260.m01
+			transcript_id	gnl|ncbi|Vv.00g000260.m01_mrna
+14571	13912	CDS
+			codon_start	1
+			product	Protein F1
+			db_xref	GO:0019050
+			db_xref	InterPro:IPR021119
+			db_xref	PFAM:PF11099
+			protein_id	gnl|ncbi|Vv.00g000260.m01
+			transcript_id	gnl|ncbi|Vv.00g000260.m01_mrna
+129820	130056	gene
+			gene	P169
+			locus_tag	Vv.00g001590
+129820	130056	mRNA
+			product	Protein 169
+			protein_id	gnl|ncbi|Vv.00g001590.m01
+			transcript_id	gnl|ncbi|Vv.00g001590.m01_mrna
+129820	130056	CDS
+			codon_start	1
+			product	Protein 169
+			protein_id	gnl|ncbi|Vv.00g001590.m01
+			transcript_id	gnl|ncbi|Vv.00g001590.m01_mrna
+34700	35200	gene
+			gene	E7R
+			locus_tag	Vv.00g000500
+34700	35200	mRNA
+			product	Protein E7
+			protein_id	gnl|ncbi|Vv.00g000500.m01
+			transcript_id	gnl|ncbi|Vv.00g000500.m01_mrna
+34700	35200	CDS
+			codon_start	1
+			product	Protein E7
+			db_xref	InterPro:IPR035345
+			db_xref	PFAM:PF17467
+			protein_id	gnl|ncbi|Vv.00g000500.m01
+			transcript_id	gnl|ncbi|Vv.00g000500.m01_mrna
+58455	59477	gene
+			gene	G9R
+			locus_tag	Vv.00g000750
+58455	59477	mRNA
+			product	Myristoylated protein G9
+			protein_id	gnl|ncbi|Vv.00g000750.m01
+			transcript_id	gnl|ncbi|Vv.00g000750.m01_mrna
+58455	59477	CDS
+			codon_start	1
+			product	Myristoylated protein G9
+			db_xref	InterPro:IPR004251
+			db_xref	PFAM:PF03003
+			protein_id	gnl|ncbi|Vv.00g000750.m01
+			transcript_id	gnl|ncbi|Vv.00g000750.m01_mrna
+138277	138570	gene
+			gene	A57R
+			locus_tag	Vv.00g001690
+138277	138570	mRNA
+			product	Guanylate kinase homolog
+			protein_id	gnl|ncbi|Vv.00g001690.m01
+			transcript_id	gnl|ncbi|Vv.00g001690.m01_mrna
+138277	138570	CDS
+			codon_start	1
+			product	Guanylate kinase homolog
+			db_xref	InterPro:IPR008145
+			db_xref	PFAM:PF00625
+			protein_id	gnl|ncbi|Vv.00g001690.m01
+			transcript_id	gnl|ncbi|Vv.00g001690.m01_mrna
+112414	113562	gene
+			gene	VITF3L
+			locus_tag	Vv.00g001330
+112414	113562	mRNA
+			product	Intermediate transcription factor 3 large subunit
+			protein_id	gnl|ncbi|Vv.00g001330.m01
+			transcript_id	gnl|ncbi|Vv.00g001330.m01_mrna
+112414	113562	CDS
+			codon_start	1
+			product	Intermediate transcription factor 3 large subunit
+			db_xref	InterPro:IPR008789
+			db_xref	PFAM:PF05718
+			protein_id	gnl|ncbi|Vv.00g001330.m01
+			transcript_id	gnl|ncbi|Vv.00g001330.m01_mrna
+131597	132319	gene
+			gene	A46R
+			locus_tag	Vv.00g001620
+131597	132319	mRNA
+			product	Protein A46
+			protein_id	gnl|ncbi|Vv.00g001620.m01
+			transcript_id	gnl|ncbi|Vv.00g001620.m01_mrna
+131597	132319	CDS
+			codon_start	1
+			product	Protein A46
+			db_xref	InterPro:IPR022819
+			db_xref	PFAM:PF06227
+			protein_id	gnl|ncbi|Vv.00g001620.m01
+			transcript_id	gnl|ncbi|Vv.00g001620.m01_mrna
+10830	9721	gene
+			gene	SPI-3
+			locus_tag	Vv.00g000200
+10830	9721	mRNA
+			product	Protein K2
+			protein_id	gnl|ncbi|Vv.00g000200.m01
+			transcript_id	gnl|ncbi|Vv.00g000200.m01_mrna
+10830	9721	CDS
+			codon_start	1
+			product	Protein K2
+			db_xref	GO:0005615
+			db_xref	InterPro:IPR023796
+			db_xref	PFAM:PF00079
+			protein_id	gnl|ncbi|Vv.00g000200.m01
+			transcript_id	gnl|ncbi|Vv.00g000200.m01_mrna
+126225	126476	gene
+			gene	A39R
+			locus_tag	Vv.00g001530
+126225	126476	mRNA
+			product	Semaphorin-like protein A39
+			protein_id	gnl|ncbi|Vv.00g001530.m01
+			transcript_id	gnl|ncbi|Vv.00g001530.m01_mrna
+126225	126476	CDS
+			codon_start	1
+			product	Semaphorin-like protein A39
+			protein_id	gnl|ncbi|Vv.00g001530.m01
+			transcript_id	gnl|ncbi|Vv.00g001530.m01_mrna
+57622	56507	gene
+			gene	G7L
+			locus_tag	Vv.00g000730
+57622	56507	mRNA
+			product	Assembly protein G7
+			protein_id	gnl|ncbi|Vv.00g000730.m01
+			transcript_id	gnl|ncbi|Vv.00g000730.m01_mrna
+57622	56507	CDS
+			codon_start	1
+			product	Assembly protein G7
+			db_xref	InterPro:IPR008787
+			db_xref	PFAM:PF05503
+			protein_id	gnl|ncbi|Vv.00g000730.m01
+			transcript_id	gnl|ncbi|Vv.00g000730.m01_mrna
+18349	18152	gene
+			gene	F8L
+			locus_tag	Vv.00g000320
+18349	18152	mRNA
+			product	Protein F8
+			protein_id	gnl|ncbi|Vv.00g000320.m01
+			transcript_id	gnl|ncbi|Vv.00g000320.m01_mrna
+18349	18152	CDS
+			codon_start	1
+			product	Protein F8
+			db_xref	InterPro:IPR008726
+			db_xref	PFAM:PF05886
+			protein_id	gnl|ncbi|Vv.00g000320.m01
+			transcript_id	gnl|ncbi|Vv.00g000320.m01_mrna
+123037	123567	gene
+			gene	A35R
+			locus_tag	Vv.00g001480
+123037	123567	mRNA
+			product	Protein A35
+			protein_id	gnl|ncbi|Vv.00g001480.m01
+			transcript_id	gnl|ncbi|Vv.00g001480.m01_mrna
+123037	123567	CDS
+			codon_start	1
+			product	Protein A35
+			db_xref	InterPro:IPR009247
+			db_xref	PFAM:PF05989
+			protein_id	gnl|ncbi|Vv.00g001480.m01
+			transcript_id	gnl|ncbi|Vv.00g001480.m01_mrna
+6293	5400	gene
+			gene	C9L
+			locus_tag	Vv.00g000120
+6293	5400	mRNA
+			product	Ankyrin repeat protein C9L
+			protein_id	gnl|ncbi|Vv.00g000120.m01
+			transcript_id	gnl|ncbi|Vv.00g000120.m01_mrna
+6293	5400	CDS
+			codon_start	1
+			product	Ankyrin repeat protein C9L
+			protein_id	gnl|ncbi|Vv.00g000120.m01
+			transcript_id	gnl|ncbi|Vv.00g000120.m01_mrna
+159377	159490	gene
+			gene	C23L_3
+			locus_tag	Vv.00g002000
+159377	159490	mRNA
+			product	Inactive chemokine-binding protein
+			protein_id	gnl|ncbi|Vv.00g002000.m01
+			transcript_id	gnl|ncbi|Vv.00g002000.m01_mrna
+159377	159490	CDS
+			codon_start	1
+			product	Inactive chemokine-binding protein
+			db_xref	InterPro:IPR003184
+			db_xref	PFAM:PF02250
+			protein_id	gnl|ncbi|Vv.00g002000.m01
+			transcript_id	gnl|ncbi|Vv.00g002000.m01_mrna
+148056	148406	gene
+			gene	B13R
+			locus_tag	Vv.00g001820
+148056	148406	mRNA
+			product	Putative serine proteinase inhibitor 2 homolog first part
+			protein_id	gnl|ncbi|Vv.00g001820.m01
+			transcript_id	gnl|ncbi|Vv.00g001820.m01_mrna
+148056	148406	CDS
+			codon_start	1
+			product	Putative serine proteinase inhibitor 2 homolog first part
+			db_xref	GO:0005615
+			db_xref	InterPro:IPR023796
+			db_xref	PFAM:PF00079
+			protein_id	gnl|ncbi|Vv.00g001820.m01
+			transcript_id	gnl|ncbi|Vv.00g001820.m01_mrna
+16489	15059	gene
+			gene	F3L
+			locus_tag	Vv.00g000280
+16489	15059	mRNA
+			product	Kelch repeat protein F3
+			protein_id	gnl|ncbi|Vv.00g000280.m01
+			transcript_id	gnl|ncbi|Vv.00g000280.m01_mrna
+16489	15059	CDS
+			codon_start	1
+			product	Kelch repeat protein F3
+			db_xref	GO:0005515
+			db_xref	InterPro:IPR000210
+			db_xref	InterPro:IPR006652
+			db_xref	InterPro:IPR011705
+			db_xref	PFAM:PF00651
+			db_xref	PFAM:PF01344
+			db_xref	PFAM:PF07707
+			protein_id	gnl|ncbi|Vv.00g000280.m01
+			transcript_id	gnl|ncbi|Vv.00g000280.m01_mrna
+64860	65249	gene
+			gene	RPO22
+			locus_tag	Vv.00g000840
+64860	65249	mRNA
+			product	DNA-directed RNA polymerase 22 kDa subunit
+			protein_id	gnl|ncbi|Vv.00g000840.m01
+			transcript_id	gnl|ncbi|Vv.00g000840.m01_mrna
+64860	65249	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 22 kDa subunit
+			db_xref	GO:0003677, GO:0003899, GO:0019083
+			db_xref	InterPro:IPR007937
+			db_xref	PFAM:PF05273
+			protein_id	gnl|ncbi|Vv.00g000840.m01
+			transcript_id	gnl|ncbi|Vv.00g000840.m01_mrna
+53531	54193	gene
+			gene	G2R
+			locus_tag	Vv.00g000680
+53531	54193	mRNA
+			product	Late transcription elongation factor G2
+			protein_id	gnl|ncbi|Vv.00g000680.m01
+			transcript_id	gnl|ncbi|Vv.00g000680.m01_mrna
+53531	54193	CDS
+			codon_start	1
+			product	Late transcription elongation factor G2
+			db_xref	InterPro:IPR008446
+			db_xref	PFAM:PF05796
+			protein_id	gnl|ncbi|Vv.00g000680.m01
+			transcript_id	gnl|ncbi|Vv.00g000680.m01_mrna
+93727	93497	gene
+			gene	A2.5L
+			locus_tag	Vv.00g001110
+93727	93497	mRNA
+			product	Protein A2.5
+			protein_id	gnl|ncbi|Vv.00g001110.m01
+			transcript_id	gnl|ncbi|Vv.00g001110.m01_mrna
+93727	93497	CDS
+			codon_start	1
+			product	Protein A2.5
+			db_xref	InterPro:IPR007952
+			db_xref	PFAM:PF05288
+			protein_id	gnl|ncbi|Vv.00g001110.m01
+			transcript_id	gnl|ncbi|Vv.00g001110.m01_mrna
+74330	74941	gene
+			gene	H5R
+			locus_tag	Vv.00g000920
+74330	74941	mRNA
+			product	Late transcription elongation factor H5
+			protein_id	gnl|ncbi|Vv.00g000920.m01
+			transcript_id	gnl|ncbi|Vv.00g000920.m01_mrna
+74330	74941	CDS
+			codon_start	1
+			product	Late transcription elongation factor H5
+			db_xref	GO:0019031
+			db_xref	InterPro:IPR004966
+			db_xref	PFAM:PF03286
+			protein_id	gnl|ncbi|Vv.00g000920.m01
+			transcript_id	gnl|ncbi|Vv.00g000920.m01_mrna
+85061	85546	gene
+			gene	RPO18
+			locus_tag	Vv.00g001020
+85061	85546	mRNA
+			product	DNA-directed RNA polymerase 18 kDa subunit
+			protein_id	gnl|ncbi|Vv.00g001020.m01
+			transcript_id	gnl|ncbi|Vv.00g001020.m01_mrna
+85061	85546	CDS
+			codon_start	1
+			product	DNA-directed RNA polymerase 18 kDa subunit
+			db_xref	GO:0019083, GO:0003677, GO:0003899
+			db_xref	InterPro:IPR004973
+			db_xref	PFAM:PF03293
+			protein_id	gnl|ncbi|Vv.00g001020.m01
+			transcript_id	gnl|ncbi|Vv.00g001020.m01_mrna
+143042	143974	gene
+			gene	PS/HR
+			locus_tag	Vv.00g001750
+143042	143974	mRNA
+			product	Protein B5
+			protein_id	gnl|ncbi|Vv.00g001750.m01
+			transcript_id	gnl|ncbi|Vv.00g001750.m01_mrna
+143042	143974	CDS
+			codon_start	1
+			product	Protein B5
+			db_xref	GO:0045916, GO:0016021, GO:0001848
+			db_xref	InterPro:IPR000436
+			db_xref	PFAM:PF00084
+			protein_id	gnl|ncbi|Vv.00g001750.m01
+			transcript_id	gnl|ncbi|Vv.00g001750.m01_mrna
+129240	129812	gene
+			gene	A43R
+			locus_tag	Vv.00g001580
+129240	129812	mRNA
+			product	Protein A43
+			protein_id	gnl|ncbi|Vv.00g001580.m01
+			transcript_id	gnl|ncbi|Vv.00g001580.m01_mrna
+129240	129812	CDS
+			codon_start	1
+			product	Protein A43
+			db_xref	InterPro:IPR009487
+			db_xref	PFAM:PF06517
+			protein_id	gnl|ncbi|Vv.00g001580.m01
+			transcript_id	gnl|ncbi|Vv.00g001580.m01_mrna
+158886	159296	gene
+			gene	C23L_2
+			locus_tag	Vv.00g001990
+158886	159296	mRNA
+			product	Inactive chemokine-binding protein
+			protein_id	gnl|ncbi|Vv.00g001990.m01
+			transcript_id	gnl|ncbi|Vv.00g001990.m01_mrna
+158886	159296	CDS
+			codon_start	1
+			product	Inactive chemokine-binding protein
+			db_xref	InterPro:IPR003184
+			db_xref	PFAM:PF02250
+			protein_id	gnl|ncbi|Vv.00g001990.m01
+			transcript_id	gnl|ncbi|Vv.00g001990.m01_mrna
+35313	36134	gene
+			gene	E8R
+			locus_tag	Vv.00g000510
+35313	36134	mRNA
+			product	Protein E8
+			protein_id	gnl|ncbi|Vv.00g000510.m01
+			transcript_id	gnl|ncbi|Vv.00g000510.m01_mrna
+35313	36134	CDS
+			codon_start	1
+			product	Protein E8
+			db_xref	InterPro:IPR005057
+			db_xref	PFAM:PF03394
+			protein_id	gnl|ncbi|Vv.00g000510.m01
+			transcript_id	gnl|ncbi|Vv.00g000510.m01_mrna
+121788	120979	gene
+			gene	A32L
+			locus_tag	Vv.00g001450
+121788	120979	mRNA
+			product	Protein A32
+			protein_id	gnl|ncbi|Vv.00g001450.m01
+			transcript_id	gnl|ncbi|Vv.00g001450.m01_mrna
+121788	120979	CDS
+			codon_start	1
+			product	Protein A32
+			db_xref	InterPro:IPR006758
+			db_xref	PFAM:PF04665
+			protein_id	gnl|ncbi|Vv.00g001450.m01
+			transcript_id	gnl|ncbi|Vv.00g001450.m01_mrna
+105995	105783	gene
+			gene	A13L
+			locus_tag	Vv.00g001220
+105995	105783	mRNA
+			product	Virion membrane protein A13
+			protein_id	gnl|ncbi|Vv.00g001220.m01
+			transcript_id	gnl|ncbi|Vv.00g001220.m01_mrna
+105995	105783	CDS
+			codon_start	1
+			product	Virion membrane protein A13
+			db_xref	InterPro:IPR009236
+			db_xref	PFAM:PF05961
+			protein_id	gnl|ncbi|Vv.00g001220.m01
+			transcript_id	gnl|ncbi|Vv.00g001220.m01_mrna

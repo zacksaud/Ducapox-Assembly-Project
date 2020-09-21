@@ -1,0 +1,100 @@
+2020-09-01 21:21:46,484 NanoPlot 1.29.2 started with arguments Namespace(N50=False, alength=False, bam=None, barcoded=False, color='#4CB391', colormap='Greens', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['/home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000FINAL/DucapoxGupp4Porechopped3000AllContaminationRemoved.fastq'], fastq_minimal=None, fastq_rich=None, font_scale=1, format='png', hide_stats=False, huge=False, listcolormaps=False, listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, outdir='/home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000FINAL/DucaViralOnlyDNA3000/', path='/home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000FINAL/DucaViralOnlyDNA3000/', percentqual=False, pickle=None, plots=['kde', 'dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=12, title=None, ubam=None, verbose=False)
+2020-09-01 21:21:46,484 Python version is: 3.6.9 (default, Jul 17 2020, 12:50:27)  [GCC 8.4.0]
+2020-09-01 21:21:46,484 NanoPlot:  valid output format png
+2020-09-01 21:21:46,489 Nanoget: Starting to collect statistics from plain fastq file.
+2020-09-01 21:21:53,353 Reduced DataFrame memory usage from 0.36756134033203125Mb to 0.2450408935546875Mb
+2020-09-01 21:21:53,359 Nanoget: Gathered all metrics of 16059 reads
+2020-09-01 21:21:53,372 Calculated statistics
+2020-09-01 21:21:53,372 Using sequenced read lengths for plotting.
+2020-09-01 21:21:53,375 NanoPlot:  Valid color #4CB391.
+2020-09-01 21:21:53,375 NanoPlot:  Valid colormap Greens.
+2020-09-01 21:21:53,376 NanoPlot:  Creating length plots for Read length.
+2020-09-01 21:21:53,376 NanoPlot:  Using 16059 reads maximum of 56310bp.
+2020-09-01 21:21:55,186 Nanoplotter: orca not found, not creating static image of html. See https://github.com/plotly/orca
+2020-09-01 21:21:55,186 
+The orca executable is required in order to export figures as static images,
+but the executable that was found at '/usr/bin/orca'
+does not seem to be a valid plotly orca executable. Please refer to the end of
+this message for details on what went wrong.
+
+If you haven't installed orca yet, you can do so using conda as follows:
+
+    $ conda install -c plotly plotly-orca
+
+Alternatively, see other installation methods in the orca project README at
+https://github.com/plotly/orca
+
+After installation is complete, no further configuration should be needed.
+
+If you have installed orca, then for some reason plotly.py was unable to
+locate it. In this case, set the `plotly.io.orca.config.executable`
+property to the full path of your orca executable. For example:
+
+    >>> plotly.io.orca.config.executable = '/path/to/orca'
+
+After updating this executable property, try the export operation again.
+If it is successful then you may want to save this configuration so that it
+will be applied automatically in future sessions. You can do this as follows:
+
+    >>> plotly.io.orca.config.save()
+
+If you're still having trouble, feel free to ask for help on the forums at
+https://community.plot.ly/c/api/python
+
+The error encountered is that unexpected output was returned by the command
+    $ /usr/bin/orca --help
+
+b'Usage: orca [-h] [-v] [-r] [-s] [-l] [-e OPTION] [-d OPTION] [-p NAME]\n            [-u DIR] [--debug-file FILE] [--debug]\n\nOptional arguments:\n  -h, --help                   Show this help message and exit\n  -v, --version                3.28.0\n  -r, --replace                Replace a currently running instance of this\n                               screen reader\n  -s, --setup                  Set up user preferences (GUI version)\n  -l, --list-apps              Print the known running applications\n  -e OPTION, --enable OPTION   Force use of option\n  -d OPTION, --disable OPTION  Prevent use of option\n  -p NAME, --profile NAME      Load profile\n  -u DIR, --user-prefs DIR     Use alternate directory for user preferences\n  --debug-file FILE            Send debug output to the specified file\n  --debug                      Send debug output to debug-YYYY-MM-DD-\n                               HH:MM:SS.out\n\nReport bugs to orca-list@gnome.org.\n'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/NanoPlot-1.29.2-py3.6.egg/nanoplotter/plot.py", line 60, in save_static
+    pio.write_image(self.fig, self.path.replace('html', 'png'))
+  File "/usr/local/lib/python3.6/dist-packages/plotly-4.9.0-py3.6.egg/plotly/io/_kaleido.py", line 251, in write_image
+    engine=engine,
+  File "/usr/local/lib/python3.6/dist-packages/plotly-4.9.0-py3.6.egg/plotly/io/_kaleido.py", line 108, in to_image
+    validate=validate,
+  File "/usr/local/lib/python3.6/dist-packages/plotly-4.9.0-py3.6.egg/plotly/io/_orca.py", line 1535, in to_image
+    ensure_server()
+  File "/usr/local/lib/python3.6/dist-packages/plotly-4.9.0-py3.6.egg/plotly/io/_orca.py", line 1390, in ensure_server
+    validate_executable()
+  File "/usr/local/lib/python3.6/dist-packages/plotly-4.9.0-py3.6.egg/plotly/io/_orca.py", line 1206, in validate_executable
+    executable=" ".join(executable_list), help_result=help_result
+ValueError: 
+The orca executable is required in order to export figures as static images,
+but the executable that was found at '/usr/bin/orca'
+does not seem to be a valid plotly orca executable. Please refer to the end of
+this message for details on what went wrong.
+
+If you haven't installed orca yet, you can do so using conda as follows:
+
+    $ conda install -c plotly plotly-orca
+
+Alternatively, see other installation methods in the orca project README at
+https://github.com/plotly/orca
+
+After installation is complete, no further configuration should be needed.
+
+If you have installed orca, then for some reason plotly.py was unable to
+locate it. In this case, set the `plotly.io.orca.config.executable`
+property to the full path of your orca executable. For example:
+
+    >>> plotly.io.orca.config.executable = '/path/to/orca'
+
+After updating this executable property, try the export operation again.
+If it is successful then you may want to save this configuration so that it
+will be applied automatically in future sessions. You can do this as follows:
+
+    >>> plotly.io.orca.config.save()
+
+If you're still having trouble, feel free to ask for help on the forums at
+https://community.plot.ly/c/api/python
+
+The error encountered is that unexpected output was returned by the command
+    $ /usr/bin/orca --help
+
+b'Usage: orca [-h] [-v] [-r] [-s] [-l] [-e OPTION] [-d OPTION] [-p NAME]\n            [-u DIR] [--debug-file FILE] [--debug]\n\nOptional arguments:\n  -h, --help                   Show this help message and exit\n  -v, --version                3.28.0\n  -r, --replace                Replace a currently running instance of this\n                               screen reader\n  -s, --setup                  Set up user preferences (GUI version)\n  -l, --list-apps              Print the known running applications\n  -e OPTION, --enable OPTION   Force use of option\n  -d OPTION, --disable OPTION  Prevent use of option\n  -p NAME, --profile NAME      Load profile\n  -u DIR, --user-prefs DIR     Use alternate directory for user preferences\n  --debug-file FILE            Send debug output to the specified file\n  --debug                      Send debug output to debug-YYYY-MM-DD-\n                               HH:MM:SS.out\n\nReport bugs to orca-list@gnome.org.\n'
+
+2020-09-01 21:21:55,306 Created length plots
+2020-09-01 21:21:55,307 NanoPlot:  Creating Read lengths vs Average read quality plots using statistics from 16059 reads.
+2020-09-01 21:21:56,370 Created LengthvsQual plot
+2020-09-01 21:21:56,370 Writing html report.
+2020-09-01 21:21:57,409 Finished!

@@ -1,0 +1,7 @@
+/home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000/Flyei3m5000/TandemQuastPolished/polished/Racon1/Racon2/Racon2.fasta /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000/Flyei3m5000/TandemQuastPolished/polished/Racon1/Racon2/Racon3/Racon3.fasta
+NUCMER
+
+[P1]	[SUB]	[SUB]	[P2]	[BUFF]	[DIST]	[FRM]	[TAGS]
+13500	T	G	13500	13500	13500	1	1	contig_3	contig_3
+46121	T	.	46120	1	46120	1	1	contig_3	contig_3
+46122	G	.	46120	1	46120	1	1	contig_3	contig_3

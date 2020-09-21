@@ -1,0 +1,13 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+Pox_AX_element       RF00384   Vaccinia             -          cm        1       62   116543   116482      -    no    1 0.31   0.0   94.8   6.5e-15 !   -
+#
+# Program:         cmscan
+# Version:         1.1.2 (July 2016)
+# Pipeline mode:   SCAN
+# Query file:      /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000FINAL/Flyei3m5000/TandemQuastPolished/polished/Racon1/Racon2/Racon3/Medaka_consensus/FinalDucapox.fasta
+# Target file:     /home/zack/structRNAfinder-master/Rfam.cm
+# Option settings: cmscan -o /home/zack/structRNAfinder-master/DucapoxOutput/Duxapox.out --tblout /home/zack/structRNAfinder-master/DucapoxOutput/DucapoxTable.tab --acc -E 0.01 --cpu 12 /home/zack/structRNAfinder-master/Rfam.cm /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000FINAL/Flyei3m5000/TandemQuastPolished/polished/Racon1/Racon2/Racon3/Medaka_consensus/FinalDucapox.fasta 
+# Current dir:     /home/zack/structRNAfinder-master/DucapoxOutput
+# Date:            Sat Aug 29 12:34:54 2020
+# [ok]

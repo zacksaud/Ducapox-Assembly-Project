@@ -1,0 +1,2 @@
+#Contigs	Family	ID	Score	E-value	from_seq	to_seq	type	domain	description
+Vaccinia	Pox_AX_element	RF00384	94.8	6.5e-15	116543	116482	Cis-reg;	Viruses; 	This family represents a cis-regulatory element present at the 3' ends of poxvirus late mRNAs and is known as the AX element.The AX element is involved in directing the efficient production and orientation-dependent formation of of late RNAs [1].

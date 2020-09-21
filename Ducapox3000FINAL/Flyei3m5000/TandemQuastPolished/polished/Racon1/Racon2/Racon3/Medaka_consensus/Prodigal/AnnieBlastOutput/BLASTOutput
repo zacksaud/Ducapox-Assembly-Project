@@ -1,0 +1,384 @@
+Vv.00g000010	name	C23L_0
+Vv.00g000010.m01	product	Inactive chemokine-binding protein
+Vv.00g000020	name	C23L_1
+Vv.00g000020.m01	product	Inactive chemokine-binding protein
+Vv.00g000030	name	CRMB1_0
+Vv.00g000030.m01	product	Soluble TNF receptor II
+Vv.00g000050	name	B24R_0
+Vv.00g000050.m01	product	Ankyrin repeat protein C18/B24
+Vv.00g000060	name	D4L_0
+Vv.00g000060.m01	product	Ankyrin repeat protein D4L/I2R
+Vv.00g000070	name	B23R_0
+Vv.00g000070.m01	product	Ankyrin repeat protein C17/B23
+Vv.00g000080	name	VACWR016
+Vv.00g000080.m01	product	Uncharacterized protein 16
+Vv.00g000090	name	VACWR017
+Vv.00g000090.m01	product	Uncharacterized protein 17
+Vv.00g000100	name	C9L_0
+Vv.00g000100.m01	product	Ankyrin repeat protein C9L
+Vv.00g000110	name	C9L_1
+Vv.00g000110.m01	product	Ankyrin repeat protein C9L
+Vv.00g000120	name	VACWR019
+Vv.00g000120.m01	product	Ankyrin repeat protein C9L
+Vv.00g000130	name	C8L
+Vv.00g000130.m01	product	Protein C8
+Vv.00g000140	name	VACWR021
+Vv.00g000140.m01	product	Interferon antagonist C7
+Vv.00g000160	name	C6L
+Vv.00g000160.m01	product	Protein C6
+Vv.00g000170	name	N1L
+Vv.00g000170.m01	product	Protein N1
+Vv.00g000180	name	VACWR029
+Vv.00g000180.m01	product	Protein N2
+Vv.00g000190	name	VACWR032
+Vv.00g000190.m01	product	Interferon antagonist K1L
+Vv.00g000200	name	SPI-3
+Vv.00g000200.m01	product	Protein K2
+Vv.00g000210	name	K3L
+Vv.00g000210.m01	product	Protein K3
+Vv.00g000220	name	K4L
+Vv.00g000220.m01	product	Phospholipase-D-like protein K4
+Vv.00g000230	name	K5L
+Vv.00g000230.m01	product	Protein K5
+Vv.00g000240	name	VACWR038
+Vv.00g000240.m01	product	Protein K6
+Vv.00g000250	name	VACWR039
+Vv.00g000250.m01	product	Protein K7
+Vv.00g000260	name	MVA029L
+Vv.00g000260.m01	product	Protein F1
+Vv.00g000270	name	DUT
+Vv.00g000270.m01	product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Vv.00g000280	name	MVA031L
+Vv.00g000280.m01	product	Kelch repeat protein F3
+Vv.00g000290	name	MVA032L
+Vv.00g000290.m01	product	Ribonucleoside-diphosphate reductase small chain
+Vv.00g000300	name	F12L
+Vv.00g000300.m01	product	Protein F6
+Vv.00g000310	name	VACWR046
+Vv.00g000310.m01	product	Protein F7
+Vv.00g000320	name	F8L
+Vv.00g000320.m01	product	Protein F8
+Vv.00g000330	name	F9
+Vv.00g000330.m01	product	Protein F9
+Vv.00g000340	name	VPK2
+Vv.00g000340.m01	product	Serine/threonine-protein kinase 2
+Vv.00g000350	name	VACWR050
+Vv.00g000350.m01	product	Protein F11
+Vv.00g000360	name	F11L
+Vv.00g000360.m01	product	Protein F11
+Vv.00g000370	name	MVA042L
+Vv.00g000370.m01	product	Protein F12
+Vv.00g000380	name	MVA043L
+Vv.00g000380.m01	product	Envelope phospholipase F13
+Vv.00g000390	name	VACWR053
+Vv.00g000390.m01	product	Protein F14
+Vv.00g000410	name	F15L
+Vv.00g000410.m01	product	Protein F15
+Vv.00g000420	name	VACWR055
+Vv.00g000420.m01	product	Protein F16
+Vv.00g000430	name	TF17R
+Vv.00g000430.m01	product	Phosphoprotein F17
+Vv.00g000440	name	PAPL
+Vv.00g000440.m01	product	Poly(A) polymerase catalytic subunit
+Vv.00g000450	name	VACWR058
+Vv.00g000450.m01	product	Protein E2
+Vv.00g000460	name	E3L
+Vv.00g000460.m01	product	Protein E3
+Vv.00g000470	name	RPO30
+Vv.00g000470.m01	product	DNA-directed RNA polymerase 30 kDa polypeptide
+Vv.00g000480	name	E5R
+Vv.00g000480.m01	product	Protein E5
+Vv.00g000490	name	E6R
+Vv.00g000490.m01	product	Protein E6
+Vv.00g000500	name	VACWR063
+Vv.00g000500.m01	product	Protein E7
+Vv.00g000510	name	E8R
+Vv.00g000510.m01	product	Protein E8
+Vv.00g000520	name	POL
+Vv.00g000520.m01	product	DNA polymerase
+Vv.00g000530	name	VACWR066
+Vv.00g000530.m01	product	Probable FAD-linked sulfhydryl oxidase E10
+Vv.00g000540	name	VACWR067
+Vv.00g000540.m01	product	Core protein E11
+Vv.00g000550	name	O1L_0
+Vv.00g000550.m01	product	Protein O1
+Vv.00g000560	name	O1L_1
+Vv.00g000560.m01	product	Protein O1
+Vv.00g000570	name	O2L
+Vv.00g000570.m01	product	Glutaredoxin-1
+Vv.00g000580	name	MVA062L
+Vv.00g000580.m01	product	Telomere-binding protein I1
+Vv.00g000590	name	VACWR071
+Vv.00g000590.m01	product	Protein I2
+Vv.00g000600	name	VACWR072
+Vv.00g000600.m01	product	Protein I3
+Vv.00g000610	name	I4L
+Vv.00g000610.m01	product	Ribonucleoside-diphosphate reductase large subunit
+Vv.00g000620	name	I5L
+Vv.00g000620.m01	product	Protein I5
+Vv.00g000630	name	VACWR075
+Vv.00g000630.m01	product	Telomere-binding protein I6
+Vv.00g000640	name	VACWR076
+Vv.00g000640.m01	product	Core protease I7
+Vv.00g000650	name	NPH2
+Vv.00g000650.m01	product	RNA helicase NPH-II
+Vv.00g000660	name	TG1L
+Vv.00g000660.m01	product	Metalloendopeptidase G1
+Vv.00g000670	name	VACWR079
+Vv.00g000670.m01	product	Protein G3
+Vv.00g000680	name	VACWR080
+Vv.00g000680.m01	product	Late transcription elongation factor G2
+Vv.00g000690	name	TG4R
+Vv.00g000690.m01	product	Glutaredoxin-2
+Vv.00g000700	name	G5R
+Vv.00g000700.m01	product	Putative nuclease G5
+Vv.00g000710	name	RPO7
+Vv.00g000710.m01	product	DNA-directed RNA polymerase 7 kDa subunit
+Vv.00g000720	name	VACWR084
+Vv.00g000720.m01	product	Uncharacterized protein G6
+Vv.00g000730	name	G7L
+Vv.00g000730.m01	product	Assembly protein G7
+Vv.00g000740	name	VLTF1
+Vv.00g000740.m01	product	Late transcription factor 1
+Vv.00g000750	name	MVA079R
+Vv.00g000750.m01	product	Myristoylated protein G9
+Vv.00g000760	name	L1R
+Vv.00g000760.m01	product	Protein L1
+Vv.00g000770	name	L2R
+Vv.00g000770.m01	product	Protein L2
+Vv.00g000780	name	VACWR090
+Vv.00g000780.m01	product	Protein L3
+Vv.00g000790	name	L4R
+Vv.00g000790.m01	product	Core protein VP8
+Vv.00g000800	name	VACWR092
+Vv.00g000800.m01	product	Protein L5
+Vv.00g000810	name	VACWR093
+Vv.00g000810.m01	product	Protein J1
+Vv.00g000820	name	TK
+Vv.00g000820.m01	product	Thymidine kinase
+Vv.00g000830	name	PAPS
+Vv.00g000830.m01	product	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase
+Vv.00g000840	name	RPO22
+Vv.00g000840.m01	product	DNA-directed RNA polymerase 22 kDa subunit
+Vv.00g000850	name	VACWR097
+Vv.00g000850.m01	product	Protein J5
+Vv.00g000860	name	RPO147
+Vv.00g000860.m01	product	DNA-directed RNA polymerase 147 kDa polypeptide
+Vv.00g000870	name	H1L
+Vv.00g000870.m01	product	Dual specificity protein phosphatase H1
+Vv.00g000880	name	VACWR100
+Vv.00g000880.m01	product	Protein H2
+Vv.00g000890	name	H3L
+Vv.00g000890.m01	product	Envelope protein H3
+Vv.00g000900	name	RAP94
+Vv.00g000900.m01	product	RNA polymerase-associated transcription-specificity factor RAP94
+Vv.00g000920	name	VACWR103
+Vv.00g000920.m01	product	Late transcription elongation factor H5
+Vv.00g000930	name	TOP1
+Vv.00g000930.m01	product	DNA topoisomerase 1B
+Vv.00g000940	name	MVA097R
+Vv.00g000940.m01	product	Late protein H7
+Vv.00g000950	name	MVA098R
+Vv.00g000950.m01	product	mRNA-capping enzyme catalytic subunit
+Vv.00g000960	name	D2L
+Vv.00g000960.m01	product	Core protein D2
+Vv.00g000970	name	MVA100R
+Vv.00g000970.m01	product	Core protein D3
+Vv.00g000980	name	UNG
+Vv.00g000980.m01	product	Uracil-DNA glycosylase
+Vv.00g000990	name	VACWR110
+Vv.00g000990.m01	product	Primase D5
+Vv.00g001000	name	D5R
+Vv.00g001000.m01	product	Primase D5
+Vv.00g001010	name	VETFS
+Vv.00g001010.m01	product	Early transcription factor 70 kDa subunit
+Vv.00g001020	name	RPO18
+Vv.00g001020.m01	product	DNA-directed RNA polymerase 18 kDa subunit
+Vv.00g001030	name	MVA105L
+Vv.00g001030.m01	product	Cell surface-binding protein
+Vv.00g001040	name	D9R
+Vv.00g001040.m01	product	mRNA-decapping protein D9
+Vv.00g001050	name	VACWR115
+Vv.00g001050.m01	product	mRNA-decapping protein D10
+Vv.00g001060	name	NPH1
+Vv.00g001060.m01	product	Nucleoside triphosphatase I
+Vv.00g001070	name	MVA109L
+Vv.00g001070.m01	product	mRNA-capping enzyme regulatory subunit
+Vv.00g001080	name	TD15L
+Vv.00g001080.m01	product	Scaffold protein D13
+Vv.00g001090	name	VLTF2
+Vv.00g001090.m01	product	Viral late gene transcription factor 2
+Vv.00g001100	name	VLTF3
+Vv.00g001100.m01	product	Viral late gene transcription factor 3
+Vv.00g001110	name	A2.5L
+Vv.00g001110.m01	product	Protein A2.5
+Vv.00g001120	name	A3L
+Vv.00g001120.m01	product	Major core protein 4b
+Vv.00g001130	name	A4L
+Vv.00g001130.m01	product	39kDa core protein
+Vv.00g001140	name	RPO19
+Vv.00g001140.m01	product	DNA-directed RNA polymerase 19 kDa subunit
+Vv.00g001150	name	A6L
+Vv.00g001150.m01	product	Protein A6
+Vv.00g001160	name	VETFL
+Vv.00g001160.m01	product	Early transcription factor 82 kDa subunit
+Vv.00g001170	name	VITF3S
+Vv.00g001170.m01	product	Intermediate transcription factor 3 small subunit
+Vv.00g001180	name	A9L
+Vv.00g001180.m01	product	Virion membrane protein A9
+Vv.00g001190	name	A10L
+Vv.00g001190.m01	product	Major core protein 4a precursor
+Vv.00g001200	name	A11R
+Vv.00g001200.m01	product	Protein A11
+Vv.00g001210	name	MVA123L
+Vv.00g001210.m01	product	25 kDa core protein A12L
+Vv.00g001220	name	VACWR132
+Vv.00g001220.m01	product	Virion membrane protein A13
+Vv.00g001230	name	VACWR133
+Vv.00g001230.m01	product	Virion membrane protein A14
+Vv.00g001240	name	A
+Vv.00g001240.m01	product	Virion membrane protein A14.5
+Vv.00g001250	name	VACWR135
+Vv.00g001250.m01	product	Core protein A15
+Vv.00g001260	name	MVA127L
+Vv.00g001260.m01	product	Virion membrane protein A16
+Vv.00g001270	name	A17L
+Vv.00g001270.m01	product	Virion membrane protein A17 precursor
+Vv.00g001280	name	MVA129R
+Vv.00g001280.m01	product	Transcript termination protein A18
+Vv.00g001290	name	VACWR139
+Vv.00g001290.m01	product	Protein A19
+Vv.00g001300	name	VACWR140
+Vv.00g001300.m01	product	Virion membrane protein A21
+Vv.00g001310	name	VACWR141
+Vv.00g001310.m01	product	DNA polymerase processivity factor component A20
+Vv.00g001320	name	MVA133R
+Vv.00g001320.m01	product	Holliday junction resolvase
+Vv.00g001330	name	VITF3L
+Vv.00g001330.m01	product	Intermediate transcription factor 3 large subunit
+Vv.00g001340	name	RPO132
+Vv.00g001340.m01	product	DNA-directed RNA polymerase 133 kDa polypeptide
+Vv.00g001350	name	ATI3
+Vv.00g001350.m01	product	7 kDa A-type inclusion protein
+Vv.00g001360	name	VACWR146
+Vv.00g001360.m01	product	17 kDa A-type inclusion protein
+Vv.00g001370	name	VACWR149_0
+Vv.00g001370.m01	product	Protein A26
+Vv.00g001380	name	VACWR149_1
+Vv.00g001380.m01	product	Protein A26
+Vv.00g001390	name	VACWR150
+Vv.00g001390.m01	product	Protein A27
+Vv.00g001400	name	VACWR151
+Vv.00g001400.m01	product	Envelope protein A28
+Vv.00g001410	name	RPO35
+Vv.00g001410.m01	product	DNA-directed RNA polymerase 35 kDa subunit
+Vv.00g001420	name	A30L
+Vv.00g001420.m01	product	Protein A30
+Vv.00g001430	name	VACWR153.5
+Vv.00g001430.m01	product	Uncharacterized protein A30.5
+Vv.00g001440	name	A31R
+Vv.00g001440.m01	product	Protein A31
+Vv.00g001450	name	VACWR155
+Vv.00g001450.m01	product	Protein A32
+Vv.00g001460	name	VACWR156
+Vv.00g001460.m01	product	Protein A33
+Vv.00g001470	name	VACWR157
+Vv.00g001470.m01	product	Protein A34
+Vv.00g001480	name	A35R
+Vv.00g001480.m01	product	Protein A35
+Vv.00g001490	name	VACWR159
+Vv.00g001490.m01	product	Protein A36
+Vv.00g001500	name	A37R
+Vv.00g001500.m01	product	Protein A37
+Vv.00g001520	name	A38L
+Vv.00g001520.m01	product	Protein A38
+Vv.00g001530	name	VACWR163
+Vv.00g001530.m01	product	Semaphorin-like protein A39
+Vv.00g001540	name	A39R
+Vv.00g001540.m01	product	Semaphorin-like protein A39
+Vv.00g001550	name	VACWR165
+Vv.00g001550.m01	product	Protein A40
+Vv.00g001560	name	A41L
+Vv.00g001560.m01	product	Protein A41
+Vv.00g001570	name	MVA154R
+Vv.00g001570.m01	product	Profilin
+Vv.00g001580	name	VACWR168
+Vv.00g001580.m01	product	Protein A43
+Vv.00g001590	name	VACWR169
+Vv.00g001590.m01	product	Protein 169
+Vv.00g001600	name	MVA157L
+Vv.00g001600.m01	product	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+Vv.00g001610	name	MVA158R
+Vv.00g001610.m01	product	Cu-Zn superoxide dismutase-like protein
+Vv.00g001620	name	VACWR172
+Vv.00g001620.m01	product	Protein A46
+Vv.00g001630	name	MVA160L
+Vv.00g001630.m01	product	Protein A47
+Vv.00g001640	name	TMK
+Vv.00g001640.m01	product	Thymidylate kinase
+Vv.00g001650	name	MVA162R
+Vv.00g001650.m01	product	Protein A49
+Vv.00g001660	name	LIG
+Vv.00g001660.m01	product	DNA ligase
+Vv.00g001670	name	MVA164R
+Vv.00g001670.m01	product	Protein A51
+Vv.00g001680	name	HA
+Vv.00g001680.m01	product	Protein A56
+Vv.00g001690	name	A57R
+Vv.00g001690.m01	product	Guanylate kinase homolog
+Vv.00g001700	name	VPK1
+Vv.00g001700.m01	product	B1 kinase
+Vv.00g001710	name	VACWR184
+Vv.00g001710.m01	product	Poxin
+Vv.00g001720	name	VACWR185
+Vv.00g001720.m01	product	Schlafen-like protein
+Vv.00g001730	name	SLFN12
+Vv.00g001730.m01	product	Schlafen family member 12
+Vv.00g001740	name	VACWR186
+Vv.00g001740.m01	product	Ankyrin repeat protein B4
+Vv.00g001750	name	PS/HR
+Vv.00g001750.m01	product	Protein B5
+Vv.00g001760	name	VACWR188
+Vv.00g001760.m01	product	Protein B6
+Vv.00g001770	name	VACWR189
+Vv.00g001770.m01	product	Protein B7
+Vv.00g001780	name	VACWR190
+Vv.00g001780.m01	product	Soluble interferon gamma receptor B8
+Vv.00g001790	name	MVA178R
+Vv.00g001790.m01	product	Kelch repeat protein B10
+Vv.00g001800	name	VACWR193
+Vv.00g001800.m01	product	Protein B11
+Vv.00g001810	name	MVA180R
+Vv.00g001810.m01	product	Probable serine/threonine-protein kinase B12
+Vv.00g001820	name	B13R
+Vv.00g001820.m01	product	Putative serine proteinase inhibitor 2 homolog first part
+Vv.00g001830	name	B14R
+Vv.00g001830.m01	product	Putative serine proteinase inhibitor 2 homolog second part
+Vv.00g001840	name	B15R
+Vv.00g001840.m01	product	Protein B14
+Vv.00g001850	name	MVA184R
+Vv.00g001850.m01	product	Interleukin-1-binding protein
+Vv.00g001860	name	B17L
+Vv.00g001860.m01	product	Protein B17
+Vv.00g001870	name	MVA186R
+Vv.00g001870.m01	product	Ankyrin repeat protein B18
+Vv.00g001880	name	B19R_0
+Vv.00g001880.m01	product	Surface antigen S
+Vv.00g001890	name	B19R_1
+Vv.00g001890.m01	product	Surface antigen S
+Vv.00g001910	name	B21R
+Vv.00g001910.m01	product	Protein C15/B21
+Vv.00g001930	name	B22R
+Vv.00g001930.m01	product	Protein C16/B22
+Vv.00g001940	name	B23R_1
+Vv.00g001940.m01	product	Ankyrin repeat protein C17/B23
+Vv.00g001950	name	D4L_1
+Vv.00g001950.m01	product	Ankyrin repeat protein D4L/I2R
+Vv.00g001960	name	B24R_1
+Vv.00g001960.m01	product	Ankyrin repeat protein C18/B24
+Vv.00g001980	name	CRMB1_1
+Vv.00g001980.m01	product	Soluble TNF receptor II
+Vv.00g001990	name	C23L_2
+Vv.00g001990.m01	product	Inactive chemokine-binding protein
+Vv.00g002000	name	C23L_3
+Vv.00g002000.m01	product	Inactive chemokine-binding protein

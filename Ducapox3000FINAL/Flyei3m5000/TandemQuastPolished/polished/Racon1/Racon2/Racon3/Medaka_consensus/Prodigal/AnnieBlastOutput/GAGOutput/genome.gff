@@ -1,0 +1,1190 @@
+##gff-version 3
+contig_3_segment0	.	gene	12500	13012	.	-	.	ID=Vv.00g000230;Name=K5L
+contig_3_segment0	.	mRNA	12500	13012	.	-	.	ID=Vv.00g000230.m01;Parent=Vv.00g000230;product=Protein K5;Dbxref=InterPro:IPR022742,PFAM:PF12146
+contig_3_segment0	.	exon	12500	13012	.	-	.	ID=Vv.00g000230.m01.exon01;Parent=Vv.00g000230.m01
+contig_3_segment0	.	CDS	12500	13012	.	-	0	ID=Vv.00g000230.m01.CDS01;Parent=Vv.00g000230.m01
+contig_3_segment0	.	start_codon	13010	13012	.	-	.	ID=Vv.00g000230.m01:start;Parent=Vv.00g000230.m01
+contig_3_segment0	.	stop_codon	12500	12502	.	-	.	ID=Vv.00g000230.m01:stop;Parent=Vv.00g000230.m01
+contig_3_segment0	.	gene	111876	112394	.	+	.	ID=Vv.00g001320;Name=MVA133R
+contig_3_segment0	.	mRNA	111876	112394	.	+	.	ID=Vv.00g001320.m01;Parent=Vv.00g001320;product=Holliday junction resolvase;Dbxref=GO:0006281, GO:0006310, GO:0016788, GO:0000400, GO:0000287,InterPro:IPR006932,PFAM:PF04848
+contig_3_segment0	.	exon	111876	112394	.	+	.	ID=Vv.00g001320.m01.exon01;Parent=Vv.00g001320.m01
+contig_3_segment0	.	CDS	111876	112394	.	+	0	ID=Vv.00g001320.m01.CDS01;Parent=Vv.00g001320.m01
+contig_3_segment0	.	start_codon	111876	111878	.	+	.	ID=Vv.00g001320.m01:start;Parent=Vv.00g001320.m01
+contig_3_segment0	.	stop_codon	112392	112394	.	+	.	ID=Vv.00g001320.m01:stop;Parent=Vv.00g001320.m01
+contig_3_segment0	.	gene	140535	141074	.	+	.	ID=Vv.00g001730;Name=SLFN12
+contig_3_segment0	.	mRNA	140535	141074	.	+	.	ID=Vv.00g001730.m01;Parent=Vv.00g001730;product=Schlafen family member 12;Dbxref=GO:0005524,InterPro:IPR007421,InterPro:IPR031450,PFAM:PF04326,PFAM:PF17057
+contig_3_segment0	.	exon	140535	141074	.	+	.	ID=Vv.00g001730.m01.exon01;Parent=Vv.00g001730.m01
+contig_3_segment0	.	CDS	140535	141074	.	+	0	ID=Vv.00g001730.m01.CDS01;Parent=Vv.00g001730.m01
+contig_3_segment0	.	start_codon	140535	140537	.	+	.	ID=Vv.00g001730.m01:start;Parent=Vv.00g001730.m01
+contig_3_segment0	.	stop_codon	141072	141074	.	+	.	ID=Vv.00g001730.m01:stop;Parent=Vv.00g001730.m01
+contig_3_segment0	.	gene	125375	126208	.	-	.	ID=Vv.00g001520;Name=A38L
+contig_3_segment0	.	mRNA	125375	126208	.	-	.	ID=Vv.00g001520.m01;Parent=Vv.00g001520;product=Protein A38;Dbxref=InterPro:IPR013147,InterPro:IPR013270,PFAM:PF04549,PFAM:PF08204
+contig_3_segment0	.	exon	125375	126208	.	-	.	ID=Vv.00g001520.m01.exon01;Parent=Vv.00g001520.m01
+contig_3_segment0	.	CDS	125375	126208	.	-	0	ID=Vv.00g001520.m01.CDS01;Parent=Vv.00g001520.m01
+contig_3_segment0	.	start_codon	126206	126208	.	-	.	ID=Vv.00g001520.m01:start;Parent=Vv.00g001520.m01
+contig_3_segment0	.	stop_codon	125375	125377	.	-	.	ID=Vv.00g001520.m01:stop;Parent=Vv.00g001520.m01
+contig_3_segment0	.	gene	54540	55844	.	+	.	ID=Vv.00g000700;Name=G5R
+contig_3_segment0	.	mRNA	54540	55844	.	+	.	ID=Vv.00g000700.m01;Parent=Vv.00g000700;product=Putative nuclease G5;Dbxref=InterPro:IPR007678,PFAM:PF04599
+contig_3_segment0	.	exon	54540	55844	.	+	.	ID=Vv.00g000700.m01.exon01;Parent=Vv.00g000700.m01
+contig_3_segment0	.	CDS	54540	55844	.	+	0	ID=Vv.00g000700.m01.CDS01;Parent=Vv.00g000700.m01
+contig_3_segment0	.	start_codon	54540	54542	.	+	.	ID=Vv.00g000700.m01:start;Parent=Vv.00g000700.m01
+contig_3_segment0	.	stop_codon	55842	55844	.	+	.	ID=Vv.00g000700.m01:stop;Parent=Vv.00g000700.m01
+contig_3_segment0	.	gene	106392	106553	.	-	.	ID=Vv.00g001240;Name=A
+contig_3_segment0	.	mRNA	106392	106553	.	-	.	ID=Vv.00g001240.m01;Parent=Vv.00g001240;product=Virion membrane protein A14.5;Dbxref=InterPro:IPR009372,PFAM:PF06269
+contig_3_segment0	.	exon	106392	106553	.	-	.	ID=Vv.00g001240.m01.exon01;Parent=Vv.00g001240.m01
+contig_3_segment0	.	CDS	106392	106553	.	-	0	ID=Vv.00g001240.m01.CDS01;Parent=Vv.00g001240.m01
+contig_3_segment0	.	start_codon	106551	106553	.	-	.	ID=Vv.00g001240.m01:start;Parent=Vv.00g001240.m01
+contig_3_segment0	.	stop_codon	106392	106394	.	-	.	ID=Vv.00g001240.m01:stop;Parent=Vv.00g001240.m01
+contig_3_segment0	.	gene	155516	156082	.	+	.	ID=Vv.00g001930;Name=B22R
+contig_3_segment0	.	mRNA	155516	156082	.	+	.	ID=Vv.00g001930.m01;Parent=Vv.00g001930;product=Protein C16/B22;Dbxref=InterPro:IPR022819,PFAM:PF06227
+contig_3_segment0	.	exon	155516	156082	.	+	.	ID=Vv.00g001930.m01.exon01;Parent=Vv.00g001930.m01
+contig_3_segment0	.	CDS	155516	156082	.	+	0	ID=Vv.00g001930.m01.CDS01;Parent=Vv.00g001930.m01
+contig_3_segment0	.	start_codon	155516	155518	.	+	.	ID=Vv.00g001930.m01:start;Parent=Vv.00g001930.m01
+contig_3_segment0	.	stop_codon	156080	156082	.	+	.	ID=Vv.00g001930.m01:stop;Parent=Vv.00g001930.m01
+contig_3_segment0	.	gene	83121	85034	.	+	.	ID=Vv.00g001010;Name=VETFS
+contig_3_segment0	.	mRNA	83121	85034	.	+	.	ID=Vv.00g001010.m01;Parent=Vv.00g001010;product=Early transcription factor 70 kDa subunit;Dbxref=GO:0016787, GO:0005524, GO:0003677,InterPro:IPR001650,InterPro:IPR006935,PFAM:PF00271,PFAM:PF04851
+contig_3_segment0	.	exon	83121	85034	.	+	.	ID=Vv.00g001010.m01.exon01;Parent=Vv.00g001010.m01
+contig_3_segment0	.	CDS	83121	85034	.	+	0	ID=Vv.00g001010.m01.CDS01;Parent=Vv.00g001010.m01
+contig_3_segment0	.	start_codon	83121	83123	.	+	.	ID=Vv.00g001010.m01:start;Parent=Vv.00g001010.m01
+contig_3_segment0	.	stop_codon	85032	85034	.	+	.	ID=Vv.00g001010.m01:stop;Parent=Vv.00g001010.m01
+contig_3_segment0	.	gene	18409	19047	.	-	.	ID=Vv.00g000330;Name=F9
+contig_3_segment0	.	mRNA	18409	19047	.	-	.	ID=Vv.00g000330.m01;Parent=Vv.00g000330;product=Protein F9;Dbxref=InterPro:IPR003472,PFAM:PF02442
+contig_3_segment0	.	exon	18409	19047	.	-	.	ID=Vv.00g000330.m01.exon01;Parent=Vv.00g000330.m01
+contig_3_segment0	.	CDS	18409	19047	.	-	0	ID=Vv.00g000330.m01.CDS01;Parent=Vv.00g000330.m01
+contig_3_segment0	.	start_codon	19045	19047	.	-	.	ID=Vv.00g000330.m01:start;Parent=Vv.00g000330.m01
+contig_3_segment0	.	stop_codon	18409	18411	.	-	.	ID=Vv.00g000330.m01:stop;Parent=Vv.00g000330.m01
+contig_3_segment0	.	gene	6336	6869	.	-	.	ID=Vv.00g000130;Name=C8L
+contig_3_segment0	.	mRNA	6336	6869	.	-	.	ID=Vv.00g000130.m01;Parent=Vv.00g000130;product=Protein C8;Dbxref=InterPro:IPR010806,PFAM:PF07190
+contig_3_segment0	.	exon	6336	6869	.	-	.	ID=Vv.00g000130.m01.exon01;Parent=Vv.00g000130.m01
+contig_3_segment0	.	CDS	6336	6869	.	-	0	ID=Vv.00g000130.m01.CDS01;Parent=Vv.00g000130.m01
+contig_3_segment0	.	start_codon	6867	6869	.	-	.	ID=Vv.00g000130.m01:start;Parent=Vv.00g000130.m01
+contig_3_segment0	.	stop_codon	6336	6338	.	-	.	ID=Vv.00g000130.m01:stop;Parent=Vv.00g000130.m01
+contig_3_segment0	.	gene	1237	1683	.	-	.	ID=Vv.00g000030;Name=CRMB1_0
+contig_3_segment0	.	mRNA	1237	1683	.	-	.	ID=Vv.00g000030.m01;Parent=Vv.00g000030;product=Soluble TNF receptor II;Dbxref=InterPro:IPR010806,PFAM:PF07190
+contig_3_segment0	.	exon	1237	1683	.	-	.	ID=Vv.00g000030.m01.exon01;Parent=Vv.00g000030.m01
+contig_3_segment0	.	CDS	1237	1683	.	-	0	ID=Vv.00g000030.m01.CDS01;Parent=Vv.00g000030.m01
+contig_3_segment0	.	start_codon	1681	1683	.	-	.	ID=Vv.00g000030.m01:start;Parent=Vv.00g000030.m01
+contig_3_segment0	.	stop_codon	1237	1239	.	-	.	ID=Vv.00g000030.m01:stop;Parent=Vv.00g000030.m01
+contig_3_segment0	.	gene	148381	149049	.	+	.	ID=Vv.00g001830;Name=B14R
+contig_3_segment0	.	mRNA	148381	149049	.	+	.	ID=Vv.00g001830.m01;Parent=Vv.00g001830;product=Putative serine proteinase inhibitor 2 homolog second part;Dbxref=GO:0005615,InterPro:IPR023796,PFAM:PF00079
+contig_3_segment0	.	exon	148381	149049	.	+	.	ID=Vv.00g001830.m01.exon01;Parent=Vv.00g001830.m01
+contig_3_segment0	.	CDS	148381	149049	.	+	0	ID=Vv.00g001830.m01.CDS01;Parent=Vv.00g001830.m01
+contig_3_segment0	.	start_codon	148381	148383	.	+	.	ID=Vv.00g001830.m01:start;Parent=Vv.00g001830.m01
+contig_3_segment0	.	stop_codon	149047	149049	.	+	.	ID=Vv.00g001830.m01:stop;Parent=Vv.00g001830.m01
+contig_3_segment0	.	gene	95729	96547	.	-	.	ID=Vv.00g001130;Name=A4L
+contig_3_segment0	.	mRNA	95729	96547	.	-	.	ID=Vv.00g001130.m01;Parent=Vv.00g001130;product=39kDa core protein;Dbxref=InterPro:IPR010396,PFAM:PF06193
+contig_3_segment0	.	exon	95729	96547	.	-	.	ID=Vv.00g001130.m01.exon01;Parent=Vv.00g001130.m01
+contig_3_segment0	.	CDS	95729	96547	.	-	0	ID=Vv.00g001130.m01.CDS01;Parent=Vv.00g001130.m01
+contig_3_segment0	.	start_codon	96545	96547	.	-	.	ID=Vv.00g001130.m01:start;Parent=Vv.00g001130.m01
+contig_3_segment0	.	stop_codon	95729	95731	.	-	.	ID=Vv.00g001130.m01:stop;Parent=Vv.00g001130.m01
+contig_3_segment0	.	gene	137034	137981	.	+	.	ID=Vv.00g001680;Name=HA
+contig_3_segment0	.	mRNA	137034	137981	.	+	.	ID=Vv.00g001680.m01;Parent=Vv.00g001680;product=Protein A56;Dbxref=InterPro:IPR013106,PFAM:PF07686
+contig_3_segment0	.	exon	137034	137981	.	+	.	ID=Vv.00g001680.m01.exon01;Parent=Vv.00g001680.m01
+contig_3_segment0	.	CDS	137034	137981	.	+	0	ID=Vv.00g001680.m01.CDS01;Parent=Vv.00g001680.m01
+contig_3_segment0	.	start_codon	137034	137036	.	+	.	ID=Vv.00g001680.m01:start;Parent=Vv.00g001680.m01
+contig_3_segment0	.	stop_codon	137979	137981	.	+	.	ID=Vv.00g001680.m01:stop;Parent=Vv.00g001680.m01
+contig_3_segment0	.	gene	74942	75886	.	+	.	ID=Vv.00g000930;Name=TOP1
+contig_3_segment0	.	mRNA	74942	75886	.	+	.	ID=Vv.00g000930.m01;Parent=Vv.00g000930;product=DNA topoisomerase 1B;Dbxref=GO:0003916, GO:0006265, GO:0003677, GO:0003917,InterPro:IPR013500,InterPro:IPR015346,PFAM:PF01028,PFAM:PF09266
+contig_3_segment0	.	exon	74942	75886	.	+	.	ID=Vv.00g000930.m01.exon01;Parent=Vv.00g000930.m01
+contig_3_segment0	.	CDS	74942	75886	.	+	0	ID=Vv.00g000930.m01.CDS01;Parent=Vv.00g000930.m01
+contig_3_segment0	.	start_codon	74942	74944	.	+	.	ID=Vv.00g000930.m01:start;Parent=Vv.00g000930.m01
+contig_3_segment0	.	stop_codon	75884	75886	.	+	.	ID=Vv.00g000930.m01:stop;Parent=Vv.00g000930.m01
+contig_3_segment0	.	gene	92826	93500	.	-	.	ID=Vv.00g001100;Name=VLTF3
+contig_3_segment0	.	mRNA	92826	93500	.	-	.	ID=Vv.00g001100.m01;Parent=Vv.00g001100;product=Viral late gene transcription factor 3;Dbxref=GO:0046782,InterPro:IPR007031,InterPro:IPR014900,PFAM:PF04947,PFAM:PF08792
+contig_3_segment0	.	exon	92826	93500	.	-	.	ID=Vv.00g001100.m01.exon01;Parent=Vv.00g001100.m01
+contig_3_segment0	.	CDS	92826	93500	.	-	0	ID=Vv.00g001100.m01.CDS01;Parent=Vv.00g001100.m01
+contig_3_segment0	.	start_codon	93498	93500	.	-	.	ID=Vv.00g001100.m01:start;Parent=Vv.00g001100.m01
+contig_3_segment0	.	stop_codon	92826	92828	.	-	.	ID=Vv.00g001100.m01:stop;Parent=Vv.00g001100.m01
+contig_3_segment0	.	gene	141725	142954	.	+	.	ID=Vv.00g001740;Name=VACWR186
+contig_3_segment0	.	mRNA	141725	142954	.	+	.	ID=Vv.00g001740.m01;Parent=Vv.00g001740;product=Ankyrin repeat protein B4;Dbxref=GO:0005515,InterPro:IPR018272,InterPro:IPR020683,PFAM:PF09372,PFAM:PF12796
+contig_3_segment0	.	exon	141725	142954	.	+	.	ID=Vv.00g001740.m01.exon01;Parent=Vv.00g001740.m01
+contig_3_segment0	.	CDS	141725	142954	.	+	0	ID=Vv.00g001740.m01.CDS01;Parent=Vv.00g001740.m01
+contig_3_segment0	.	start_codon	141725	141727	.	+	.	ID=Vv.00g001740.m01:start;Parent=Vv.00g001740.m01
+contig_3_segment0	.	stop_codon	142952	142954	.	+	.	ID=Vv.00g001740.m01:stop;Parent=Vv.00g001740.m01
+contig_3_segment0	.	gene	90674	92329	.	-	.	ID=Vv.00g001080;Name=TD15L
+contig_3_segment0	.	mRNA	90674	92329	.	-	.	ID=Vv.00g001080.m01;Parent=Vv.00g001080;product=Scaffold protein D13;Dbxref=GO:0046677,InterPro:IPR005008,PFAM:PF03340
+contig_3_segment0	.	exon	90674	92329	.	-	.	ID=Vv.00g001080.m01.exon01;Parent=Vv.00g001080.m01
+contig_3_segment0	.	CDS	90674	92329	.	-	0	ID=Vv.00g001080.m01.CDS01;Parent=Vv.00g001080.m01
+contig_3_segment0	.	start_codon	92327	92329	.	-	.	ID=Vv.00g001080.m01:start;Parent=Vv.00g001080.m01
+contig_3_segment0	.	stop_codon	90674	90676	.	-	.	ID=Vv.00g001080.m01:stop;Parent=Vv.00g001080.m01
+contig_3_segment0	.	gene	63776	64777	.	+	.	ID=Vv.00g000830;Name=PAPS
+contig_3_segment0	.	mRNA	63776	64777	.	+	.	ID=Vv.00g000830.m01;Parent=Vv.00g000830;product=Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase;Dbxref=GO:0004483, GO:0031440, GO:0003746, GO:0006370,InterPro:IPR000176,PFAM:PF01358
+contig_3_segment0	.	exon	63776	64777	.	+	.	ID=Vv.00g000830.m01.exon01;Parent=Vv.00g000830.m01
+contig_3_segment0	.	CDS	63776	64777	.	+	0	ID=Vv.00g000830.m01.CDS01;Parent=Vv.00g000830.m01
+contig_3_segment0	.	start_codon	63776	63778	.	+	.	ID=Vv.00g000830.m01:start;Parent=Vv.00g000830.m01
+contig_3_segment0	.	stop_codon	64775	64777	.	+	.	ID=Vv.00g000830.m01:stop;Parent=Vv.00g000830.m01
+contig_3_segment0	.	gene	36141	39161	.	-	.	ID=Vv.00g000520;Name=POL
+contig_3_segment0	.	mRNA	36141	39161	.	-	.	ID=Vv.00g000520.m01;Parent=Vv.00g000520;product=DNA polymerase;Dbxref=GO:0003676, GO:0003887, GO:0000166, GO:0003677,InterPro:IPR006133,InterPro:IPR006134,InterPro:IPR013617,InterPro:IPR013660,PFAM:PF00136,PFAM:PF03104,PFAM:PF08408,PFAM:PF08452
+contig_3_segment0	.	exon	36141	39161	.	-	.	ID=Vv.00g000520.m01.exon01;Parent=Vv.00g000520.m01
+contig_3_segment0	.	CDS	36141	39161	.	-	0	ID=Vv.00g000520.m01.CDS01;Parent=Vv.00g000520.m01
+contig_3_segment0	.	start_codon	39159	39161	.	-	.	ID=Vv.00g000520.m01:start;Parent=Vv.00g000520.m01
+contig_3_segment0	.	stop_codon	36141	36143	.	-	.	ID=Vv.00g000520.m01:stop;Parent=Vv.00g000520.m01
+contig_3_segment0	.	gene	85509	86423	.	-	.	ID=Vv.00g001030;Name=MVA105L
+contig_3_segment0	.	mRNA	85509	86423	.	-	.	ID=Vv.00g001030.m01;Parent=Vv.00g001030;product=Cell surface-binding protein;Dbxref=GO:0004089, GO:0008270,InterPro:IPR001148,PFAM:PF00194
+contig_3_segment0	.	exon	85509	86423	.	-	.	ID=Vv.00g001030.m01.exon01;Parent=Vv.00g001030.m01
+contig_3_segment0	.	CDS	85509	86423	.	-	0	ID=Vv.00g001030.m01.CDS01;Parent=Vv.00g001030.m01
+contig_3_segment0	.	start_codon	86421	86423	.	-	.	ID=Vv.00g001030.m01:start;Parent=Vv.00g001030.m01
+contig_3_segment0	.	stop_codon	85509	85511	.	-	.	ID=Vv.00g001030.m01:stop;Parent=Vv.00g001030.m01
+contig_3_segment0	.	gene	120239	120472	.	-	.	ID=Vv.00g001420;Name=A30L
+contig_3_segment0	.	mRNA	120239	120472	.	-	.	ID=Vv.00g001420.m01;Parent=Vv.00g001420;product=Protein A30;Dbxref=InterPro:IPR009257,PFAM:PF06015
+contig_3_segment0	.	exon	120239	120472	.	-	.	ID=Vv.00g001420.m01.exon01;Parent=Vv.00g001420.m01
+contig_3_segment0	.	CDS	120239	120472	.	-	0	ID=Vv.00g001420.m01.CDS01;Parent=Vv.00g001420.m01
+contig_3_segment0	.	start_codon	120470	120472	.	-	.	ID=Vv.00g001420.m01:start;Parent=Vv.00g001420.m01
+contig_3_segment0	.	stop_codon	120239	120241	.	-	.	ID=Vv.00g001420.m01:stop;Parent=Vv.00g001420.m01
+contig_3_segment0	.	gene	106103	106366	.	-	.	ID=Vv.00g001230;Name=VACWR133
+contig_3_segment0	.	mRNA	106103	106366	.	-	.	ID=Vv.00g001230.m01;Parent=Vv.00g001230;product=Virion membrane protein A14;Dbxref=GO:0019031,InterPro:IPR008785,PFAM:PF05767
+contig_3_segment0	.	exon	106103	106366	.	-	.	ID=Vv.00g001230.m01.exon01;Parent=Vv.00g001230.m01
+contig_3_segment0	.	CDS	106103	106366	.	-	0	ID=Vv.00g001230.m01.CDS01;Parent=Vv.00g001230.m01
+contig_3_segment0	.	start_codon	106364	106366	.	-	.	ID=Vv.00g001230.m01:start;Parent=Vv.00g001230.m01
+contig_3_segment0	.	stop_codon	106103	106105	.	-	.	ID=Vv.00g001230.m01:stop;Parent=Vv.00g001230.m01
+contig_3_segment0	.	gene	158008	158454	.	+	.	ID=Vv.00g001980;Name=CRMB1_1
+contig_3_segment0	.	mRNA	158008	158454	.	+	.	ID=Vv.00g001980.m01;Parent=Vv.00g001980;product=Soluble TNF receptor II;Dbxref=InterPro:IPR010806,PFAM:PF07190
+contig_3_segment0	.	exon	158008	158454	.	+	.	ID=Vv.00g001980.m01.exon01;Parent=Vv.00g001980.m01
+contig_3_segment0	.	CDS	158008	158454	.	+	0	ID=Vv.00g001980.m01.CDS01;Parent=Vv.00g001980.m01
+contig_3_segment0	.	start_codon	158008	158010	.	+	.	ID=Vv.00g001980.m01:start;Parent=Vv.00g001980.m01
+contig_3_segment0	.	stop_codon	158452	158454	.	+	.	ID=Vv.00g001980.m01:stop;Parent=Vv.00g001980.m01
+contig_3_segment0	.	gene	26539	27978	.	-	.	ID=Vv.00g000440;Name=PAPL
+contig_3_segment0	.	mRNA	26539	27978	.	-	.	ID=Vv.00g000440.m01;Parent=Vv.00g000440;product=Poly(A) polymerase catalytic subunit;Dbxref=GO:0006397, GO:0004652,InterPro:IPR024231,InterPro:IPR024397,InterPro:IPR024398,PFAM:PF03296,PFAM:PF12629,PFAM:PF12630
+contig_3_segment0	.	exon	26539	27978	.	-	.	ID=Vv.00g000440.m01.exon01;Parent=Vv.00g000440.m01
+contig_3_segment0	.	CDS	26539	27978	.	-	0	ID=Vv.00g000440.m01.CDS01;Parent=Vv.00g000440.m01
+contig_3_segment0	.	start_codon	27976	27978	.	-	.	ID=Vv.00g000440.m01:start;Parent=Vv.00g000440.m01
+contig_3_segment0	.	stop_codon	26539	26541	.	-	.	ID=Vv.00g000440.m01:stop;Parent=Vv.00g000440.m01
+contig_3_segment0	.	gene	46945	48126	.	-	.	ID=Vv.00g000630;Name=VACWR075
+contig_3_segment0	.	mRNA	46945	48126	.	-	.	ID=Vv.00g000630.m01;Parent=Vv.00g000630;product=Telomere-binding protein I6;Dbxref=GO:0016032,InterPro:IPR007674,PFAM:PF04595
+contig_3_segment0	.	exon	46945	48126	.	-	.	ID=Vv.00g000630.m01.exon01;Parent=Vv.00g000630.m01
+contig_3_segment0	.	CDS	46945	48126	.	-	0	ID=Vv.00g000630.m01.CDS01;Parent=Vv.00g000630.m01
+contig_3_segment0	.	start_codon	48124	48126	.	-	.	ID=Vv.00g000630.m01:start;Parent=Vv.00g000630.m01
+contig_3_segment0	.	stop_codon	46945	46947	.	-	.	ID=Vv.00g000630.m01:stop;Parent=Vv.00g000630.m01
+contig_3_segment0	.	gene	127440	127946	.	+	.	ID=Vv.00g001550;Name=VACWR165
+contig_3_segment0	.	mRNA	127440	127946	.	+	.	ID=Vv.00g001550.m01;Parent=Vv.00g001550;product=Protein A40
+contig_3_segment0	.	exon	127440	127946	.	+	.	ID=Vv.00g001550.m01.exon01;Parent=Vv.00g001550.m01
+contig_3_segment0	.	CDS	127440	127946	.	+	0	ID=Vv.00g001550.m01.CDS01;Parent=Vv.00g001550.m01
+contig_3_segment0	.	start_codon	127440	127442	.	+	.	ID=Vv.00g001550.m01:start;Parent=Vv.00g001550.m01
+contig_3_segment0	.	stop_codon	127944	127946	.	+	.	ID=Vv.00g001550.m01:stop;Parent=Vv.00g001550.m01
+contig_3_segment0	.	gene	153618	154322	.	+	.	ID=Vv.00g001880;Name=B19R_0
+contig_3_segment0	.	mRNA	153618	154322	.	+	.	ID=Vv.00g001880.m01;Parent=Vv.00g001880;product=Surface antigen S;Dbxref=InterPro:IPR007110,PFAM:PF13895
+contig_3_segment0	.	exon	153618	154322	.	+	.	ID=Vv.00g001880.m01.exon01;Parent=Vv.00g001880.m01
+contig_3_segment0	.	CDS	153618	154322	.	+	0	ID=Vv.00g001880.m01.CDS01;Parent=Vv.00g001880.m01
+contig_3_segment0	.	start_codon	153618	153620	.	+	.	ID=Vv.00g001880.m01:start;Parent=Vv.00g001880.m01
+contig_3_segment0	.	stop_codon	154320	154322	.	+	.	ID=Vv.00g001880.m01:stop;Parent=Vv.00g001880.m01
+contig_3_segment0	.	gene	39475	39864	.	-	.	ID=Vv.00g000540;Name=VACWR067
+contig_3_segment0	.	mRNA	39475	39864	.	-	.	ID=Vv.00g000540.m01;Parent=Vv.00g000540;product=Core protein E11;Dbxref=InterPro:IPR009201,PFAM:PF06138
+contig_3_segment0	.	exon	39475	39864	.	-	.	ID=Vv.00g000540.m01.exon01;Parent=Vv.00g000540.m01
+contig_3_segment0	.	CDS	39475	39864	.	-	0	ID=Vv.00g000540.m01.CDS01;Parent=Vv.00g000540.m01
+contig_3_segment0	.	start_codon	39862	39864	.	-	.	ID=Vv.00g000540.m01:start;Parent=Vv.00g000540.m01
+contig_3_segment0	.	stop_codon	39475	39477	.	-	.	ID=Vv.00g000540.m01:stop;Parent=Vv.00g000540.m01
+contig_3_segment0	.	gene	55852	56043	.	+	.	ID=Vv.00g000710;Name=RPO7
+contig_3_segment0	.	mRNA	55852	56043	.	+	.	ID=Vv.00g000710.m01;Parent=Vv.00g000710;product=DNA-directed RNA polymerase 7 kDa subunit;Dbxref=GO:0006351, GO:0003677, GO:0003899,InterPro:IPR008448,PFAM:PF05864
+contig_3_segment0	.	exon	55852	56043	.	+	.	ID=Vv.00g000710.m01.exon01;Parent=Vv.00g000710.m01
+contig_3_segment0	.	CDS	55852	56043	.	+	0	ID=Vv.00g000710.m01.CDS01;Parent=Vv.00g000710.m01
+contig_3_segment0	.	start_codon	55852	55854	.	+	.	ID=Vv.00g000710.m01:start;Parent=Vv.00g000710.m01
+contig_3_segment0	.	stop_codon	56041	56043	.	+	.	ID=Vv.00g000710.m01:stop;Parent=Vv.00g000710.m01
+contig_3_segment0	.	gene	140374	140565	.	+	.	ID=Vv.00g001720;Name=VACWR185
+contig_3_segment0	.	mRNA	140374	140565	.	+	.	ID=Vv.00g001720.m01;Parent=Vv.00g001720;product=Schlafen-like protein;Dbxref=InterPro:IPR031450,PFAM:PF17057
+contig_3_segment0	.	exon	140374	140565	.	+	.	ID=Vv.00g001720.m01.exon01;Parent=Vv.00g001720.m01
+contig_3_segment0	.	CDS	140374	140565	.	+	0	ID=Vv.00g001720.m01.CDS01;Parent=Vv.00g001720.m01
+contig_3_segment0	.	start_codon	140374	140376	.	+	.	ID=Vv.00g001720.m01:start;Parent=Vv.00g001720.m01
+contig_3_segment0	.	stop_codon	140563	140565	.	+	.	ID=Vv.00g001720.m01:stop;Parent=Vv.00g001720.m01
+contig_3_segment0	.	gene	155443	155535	.	+	.	ID=Vv.00g001920
+contig_3_segment0	.	mRNA	155443	155535	.	+	.	ID=Vv.00g001920.m01;Parent=Vv.00g001920
+contig_3_segment0	.	exon	155443	155535	.	+	.	ID=Vv.00g001920.m01.exon01;Parent=Vv.00g001920.m01
+contig_3_segment0	.	CDS	155443	155535	.	+	0	ID=Vv.00g001920.m01.CDS01;Parent=Vv.00g001920.m01
+contig_3_segment0	.	start_codon	155443	155445	.	+	.	ID=Vv.00g001920.m01:start;Parent=Vv.00g001920.m01
+contig_3_segment0	.	stop_codon	155533	155535	.	+	.	ID=Vv.00g001920.m01:stop;Parent=Vv.00g001920.m01
+contig_3_segment0	.	gene	70782	71756	.	-	.	ID=Vv.00g000890;Name=H3L
+contig_3_segment0	.	mRNA	70782	71756	.	-	.	ID=Vv.00g000890.m01;Parent=Vv.00g000890;product=Envelope protein H3;Dbxref=GO:0019031,InterPro:IPR004900,PFAM:PF03213
+contig_3_segment0	.	exon	70782	71756	.	-	.	ID=Vv.00g000890.m01.exon01;Parent=Vv.00g000890.m01
+contig_3_segment0	.	CDS	70782	71756	.	-	0	ID=Vv.00g000890.m01.CDS01;Parent=Vv.00g000890.m01
+contig_3_segment0	.	start_codon	71754	71756	.	-	.	ID=Vv.00g000890.m01:start;Parent=Vv.00g000890.m01
+contig_3_segment0	.	stop_codon	70782	70784	.	-	.	ID=Vv.00g000890.m01:stop;Parent=Vv.00g000890.m01
+contig_3_segment0	.	gene	49396	51426	.	+	.	ID=Vv.00g000650;Name=NPH2
+contig_3_segment0	.	mRNA	49396	51426	.	+	.	ID=Vv.00g000650.m01;Parent=Vv.00g000650;product=RNA helicase NPH-II;Dbxref=GO:0003676, GO:0005524, GO:0017111,InterPro:IPR001650,InterPro:IPR011545,InterPro:IPR021892,PFAM:PF00270,PFAM:PF00271,PFAM:PF12011
+contig_3_segment0	.	exon	49396	51426	.	+	.	ID=Vv.00g000650.m01.exon01;Parent=Vv.00g000650.m01
+contig_3_segment0	.	CDS	49396	51426	.	+	0	ID=Vv.00g000650.m01.CDS01;Parent=Vv.00g000650.m01
+contig_3_segment0	.	start_codon	49396	49398	.	+	.	ID=Vv.00g000650.m01:start;Parent=Vv.00g000650.m01
+contig_3_segment0	.	stop_codon	51424	51426	.	+	.	ID=Vv.00g000650.m01:stop;Parent=Vv.00g000650.m01
+contig_3_segment0	.	gene	17499	17747	.	-	.	ID=Vv.00g000300;Name=F12L
+contig_3_segment0	.	mRNA	17499	17747	.	-	.	ID=Vv.00g000300.m01;Parent=Vv.00g000300;product=Protein F6;Dbxref=InterPro:IPR009521,PFAM:PF06601
+contig_3_segment0	.	exon	17499	17747	.	-	.	ID=Vv.00g000300.m01.exon01;Parent=Vv.00g000300.m01
+contig_3_segment0	.	CDS	17499	17747	.	-	0	ID=Vv.00g000300.m01.CDS01;Parent=Vv.00g000300.m01
+contig_3_segment0	.	start_codon	17745	17747	.	-	.	ID=Vv.00g000300.m01:start;Parent=Vv.00g000300.m01
+contig_3_segment0	.	stop_codon	17499	17501	.	-	.	ID=Vv.00g000300.m01:stop;Parent=Vv.00g000300.m01
+contig_3_segment0	.	gene	106543	106827	.	-	.	ID=Vv.00g001250;Name=VACWR135
+contig_3_segment0	.	mRNA	106543	106827	.	-	.	ID=Vv.00g001250.m01;Parent=Vv.00g001250;product=Core protein A15;Dbxref=InterPro:IPR008445,PFAM:PF05846
+contig_3_segment0	.	exon	106543	106827	.	-	.	ID=Vv.00g001250.m01.exon01;Parent=Vv.00g001250.m01
+contig_3_segment0	.	CDS	106543	106827	.	-	0	ID=Vv.00g001250.m01.CDS01;Parent=Vv.00g001250.m01
+contig_3_segment0	.	start_codon	106825	106827	.	-	.	ID=Vv.00g001250.m01:start;Parent=Vv.00g001250.m01
+contig_3_segment0	.	stop_codon	106543	106545	.	-	.	ID=Vv.00g001250.m01:stop;Parent=Vv.00g001250.m01
+contig_3_segment0	.	gene	6941	7393	.	-	.	ID=Vv.00g000140;Name=VACWR021
+contig_3_segment0	.	mRNA	6941	7393	.	-	.	ID=Vv.00g000140.m01;Parent=Vv.00g000140;product=Interferon antagonist C7;Dbxref=GO:0016032,InterPro:IPR004967,PFAM:PF03287
+contig_3_segment0	.	exon	6941	7393	.	-	.	ID=Vv.00g000140.m01.exon01;Parent=Vv.00g000140.m01
+contig_3_segment0	.	CDS	6941	7393	.	-	0	ID=Vv.00g000140.m01.CDS01;Parent=Vv.00g000140.m01
+contig_3_segment0	.	start_codon	7391	7393	.	-	.	ID=Vv.00g000140.m01:start;Parent=Vv.00g000140.m01
+contig_3_segment0	.	stop_codon	6941	6943	.	-	.	ID=Vv.00g000140.m01:stop;Parent=Vv.00g000140.m01
+contig_3_segment0	.	gene	146806	147030	.	+	.	ID=Vv.00g001800;Name=VACWR193
+contig_3_segment0	.	mRNA	146806	147030	.	+	.	ID=Vv.00g001800.m01;Parent=Vv.00g001800;product=Protein B11;Dbxref=InterPro:IPR009754,PFAM:PF07033
+contig_3_segment0	.	exon	146806	147030	.	+	.	ID=Vv.00g001800.m01.exon01;Parent=Vv.00g001800.m01
+contig_3_segment0	.	CDS	146806	147030	.	+	0	ID=Vv.00g001800.m01.CDS01;Parent=Vv.00g001800.m01
+contig_3_segment0	.	start_codon	146806	146808	.	+	.	ID=Vv.00g001800.m01:start;Parent=Vv.00g001800.m01
+contig_3_segment0	.	stop_codon	147028	147030	.	+	.	ID=Vv.00g001800.m01:stop;Parent=Vv.00g001800.m01
+contig_3_segment0	.	gene	395	805	.	-	.	ID=Vv.00g000020;Name=C23L_1
+contig_3_segment0	.	mRNA	395	805	.	-	.	ID=Vv.00g000020.m01;Parent=Vv.00g000020;product=Inactive chemokine-binding protein;Dbxref=InterPro:IPR003184,PFAM:PF02250
+contig_3_segment0	.	exon	395	805	.	-	.	ID=Vv.00g000020.m01.exon01;Parent=Vv.00g000020.m01
+contig_3_segment0	.	CDS	395	805	.	-	0	ID=Vv.00g000020.m01.CDS01;Parent=Vv.00g000020.m01
+contig_3_segment0	.	start_codon	803	805	.	-	.	ID=Vv.00g000020.m01:start;Parent=Vv.00g000020.m01
+contig_3_segment0	.	stop_codon	395	397	.	-	.	ID=Vv.00g000020.m01:stop;Parent=Vv.00g000020.m01
+contig_3_segment0	.	gene	93742	95676	.	-	.	ID=Vv.00g001120;Name=A3L
+contig_3_segment0	.	mRNA	93742	95676	.	-	.	ID=Vv.00g001120.m01;Parent=Vv.00g001120;product=Major core protein 4b;Dbxref=InterPro:IPR004972,PFAM:PF03292
+contig_3_segment0	.	exon	93742	95676	.	-	.	ID=Vv.00g001120.m01.exon01;Parent=Vv.00g001120.m01
+contig_3_segment0	.	CDS	93742	95676	.	-	0	ID=Vv.00g001120.m01.CDS01;Parent=Vv.00g001120.m01
+contig_3_segment0	.	start_codon	95674	95676	.	-	.	ID=Vv.00g001120.m01:start;Parent=Vv.00g001120.m01
+contig_3_segment0	.	stop_codon	93742	93744	.	-	.	ID=Vv.00g001120.m01:stop;Parent=Vv.00g001120.m01
+contig_3_segment0	.	gene	144093	144614	.	+	.	ID=Vv.00g001760;Name=VACWR188
+contig_3_segment0	.	mRNA	144093	144614	.	+	.	ID=Vv.00g001760.m01;Parent=Vv.00g001760;product=Protein B6;Dbxref=InterPro:IPR009974,PFAM:PF07389
+contig_3_segment0	.	exon	144093	144614	.	+	.	ID=Vv.00g001760.m01.exon01;Parent=Vv.00g001760.m01
+contig_3_segment0	.	CDS	144093	144614	.	+	0	ID=Vv.00g001760.m01.CDS01;Parent=Vv.00g001760.m01
+contig_3_segment0	.	start_codon	144093	144095	.	+	.	ID=Vv.00g001760.m01:start;Parent=Vv.00g001760.m01
+contig_3_segment0	.	stop_codon	144612	144614	.	+	.	ID=Vv.00g001760.m01:stop;Parent=Vv.00g001760.m01
+contig_3_segment0	.	gene	75923	76363	.	+	.	ID=Vv.00g000940;Name=MVA097R
+contig_3_segment0	.	mRNA	75923	76363	.	+	.	ID=Vv.00g000940.m01;Parent=Vv.00g000940;product=Late protein H7;Dbxref=InterPro:IPR006872,PFAM:PF04787
+contig_3_segment0	.	exon	75923	76363	.	+	.	ID=Vv.00g000940.m01.exon01;Parent=Vv.00g000940.m01
+contig_3_segment0	.	CDS	75923	76363	.	+	0	ID=Vv.00g000940.m01.CDS01;Parent=Vv.00g000940.m01
+contig_3_segment0	.	start_codon	75923	75925	.	+	.	ID=Vv.00g000940.m01:start;Parent=Vv.00g000940.m01
+contig_3_segment0	.	stop_codon	76361	76363	.	+	.	ID=Vv.00g000940.m01:stop;Parent=Vv.00g000940.m01
+contig_3_segment0	.	gene	39193	39480	.	+	.	ID=Vv.00g000530;Name=VACWR066
+contig_3_segment0	.	mRNA	39193	39480	.	+	.	ID=Vv.00g000530.m01;Parent=Vv.00g000530;product=Probable FAD-linked sulfhydryl oxidase E10;Dbxref=GO:0016972, GO:0055114,InterPro:IPR006890,PFAM:PF04805
+contig_3_segment0	.	exon	39193	39480	.	+	.	ID=Vv.00g000530.m01.exon01;Parent=Vv.00g000530.m01
+contig_3_segment0	.	CDS	39193	39480	.	+	0	ID=Vv.00g000530.m01.CDS01;Parent=Vv.00g000530.m01
+contig_3_segment0	.	start_codon	39193	39195	.	+	.	ID=Vv.00g000530.m01:start;Parent=Vv.00g000530.m01
+contig_3_segment0	.	stop_codon	39478	39480	.	+	.	ID=Vv.00g000530.m01:stop;Parent=Vv.00g000530.m01
+contig_3_segment0	.	gene	60515	61567	.	-	.	ID=Vv.00g000780;Name=VACWR090
+contig_3_segment0	.	mRNA	60515	61567	.	-	.	ID=Vv.00g000780.m01;Parent=Vv.00g000780;product=Protein L3;Dbxref=InterPro:IPR005007,PFAM:PF03339
+contig_3_segment0	.	exon	60515	61567	.	-	.	ID=Vv.00g000780.m01.exon01;Parent=Vv.00g000780.m01
+contig_3_segment0	.	CDS	60515	61567	.	-	0	ID=Vv.00g000780.m01.CDS01;Parent=Vv.00g000780.m01
+contig_3_segment0	.	start_codon	61565	61567	.	-	.	ID=Vv.00g000780.m01:start;Parent=Vv.00g000780.m01
+contig_3_segment0	.	stop_codon	60515	60517	.	-	.	ID=Vv.00g000780.m01:stop;Parent=Vv.00g000780.m01
+contig_3_segment0	.	gene	151828	153552	.	+	.	ID=Vv.00g001870;Name=MVA186R
+contig_3_segment0	.	mRNA	151828	153552	.	+	.	ID=Vv.00g001870.m01;Parent=Vv.00g001870;product=Ankyrin repeat protein B18;Dbxref=GO:0005515,InterPro:IPR002110,InterPro:IPR018272,PFAM:PF00023,PFAM:PF09372,PFAM:PF13606
+contig_3_segment0	.	exon	151828	153552	.	+	.	ID=Vv.00g001870.m01.exon01;Parent=Vv.00g001870.m01
+contig_3_segment0	.	CDS	151828	153552	.	+	0	ID=Vv.00g001870.m01.CDS01;Parent=Vv.00g001870.m01
+contig_3_segment0	.	start_codon	151828	151830	.	+	.	ID=Vv.00g001870.m01:start;Parent=Vv.00g001870.m01
+contig_3_segment0	.	stop_codon	153550	153552	.	+	.	ID=Vv.00g001870.m01:stop;Parent=Vv.00g001870.m01
+contig_3_segment0	.	gene	63177	63710	.	+	.	ID=Vv.00g000820;Name=TK
+contig_3_segment0	.	mRNA	63177	63710	.	+	.	ID=Vv.00g000820.m01;Parent=Vv.00g000820;product=Thymidine kinase;Dbxref=GO:0004797, GO:0005524,InterPro:IPR001267,PFAM:PF00265
+contig_3_segment0	.	exon	63177	63710	.	+	.	ID=Vv.00g000820.m01.exon01;Parent=Vv.00g000820.m01
+contig_3_segment0	.	CDS	63177	63710	.	+	0	ID=Vv.00g000820.m01.CDS01;Parent=Vv.00g000820.m01
+contig_3_segment0	.	start_codon	63177	63179	.	+	.	ID=Vv.00g000820.m01:start;Parent=Vv.00g000820.m01
+contig_3_segment0	.	stop_codon	63708	63710	.	+	.	ID=Vv.00g000820.m01:stop;Parent=Vv.00g000820.m01
+contig_3_segment0	.	gene	26237	26542	.	+	.	ID=Vv.00g000430;Name=TF17R
+contig_3_segment0	.	mRNA	26237	26542	.	+	.	ID=Vv.00g000430.m01;Parent=Vv.00g000430;product=Phosphoprotein F17;Dbxref=GO:0003677, GO:0019082,InterPro:IPR006854,PFAM:PF04767
+contig_3_segment0	.	exon	26237	26542	.	+	.	ID=Vv.00g000430.m01.exon01;Parent=Vv.00g000430.m01
+contig_3_segment0	.	CDS	26237	26542	.	+	0	ID=Vv.00g000430.m01.CDS01;Parent=Vv.00g000430.m01
+contig_3_segment0	.	start_codon	26237	26239	.	+	.	ID=Vv.00g000430.m01:start;Parent=Vv.00g000430.m01
+contig_3_segment0	.	stop_codon	26540	26542	.	+	.	ID=Vv.00g000430.m01:stop;Parent=Vv.00g000430.m01
+contig_3_segment0	.	gene	46721	46960	.	-	.	ID=Vv.00g000620;Name=I5L
+contig_3_segment0	.	mRNA	46721	46960	.	-	.	ID=Vv.00g000620.m01;Parent=Vv.00g000620;product=Protein I5;Dbxref=InterPro:IPR006803,PFAM:PF04713
+contig_3_segment0	.	exon	46721	46960	.	-	.	ID=Vv.00g000620.m01.exon01;Parent=Vv.00g000620.m01
+contig_3_segment0	.	CDS	46721	46960	.	-	0	ID=Vv.00g000620.m01.CDS01;Parent=Vv.00g000620.m01
+contig_3_segment0	.	start_codon	46958	46960	.	-	.	ID=Vv.00g000620.m01:start;Parent=Vv.00g000620.m01
+contig_3_segment0	.	stop_codon	46721	46723	.	-	.	ID=Vv.00g000620.m01:stop;Parent=Vv.00g000620.m01
+contig_3_segment0	.	gene	120505	120624	.	-	.	ID=Vv.00g001430;Name=VACWR153.5
+contig_3_segment0	.	mRNA	120505	120624	.	-	.	ID=Vv.00g001430.m01;Parent=Vv.00g001430;product=Uncharacterized protein A30.5
+contig_3_segment0	.	exon	120505	120624	.	-	.	ID=Vv.00g001430.m01.exon01;Parent=Vv.00g001430.m01
+contig_3_segment0	.	CDS	120505	120624	.	-	0	ID=Vv.00g001430.m01.CDS01;Parent=Vv.00g001430.m01
+contig_3_segment0	.	start_codon	120622	120624	.	-	.	ID=Vv.00g001430.m01:start;Parent=Vv.00g001430.m01
+contig_3_segment0	.	stop_codon	120505	120507	.	-	.	ID=Vv.00g001430.m01:stop;Parent=Vv.00g001430.m01
+contig_3_segment0	.	gene	132367	133083	.	-	.	ID=Vv.00g001630;Name=MVA160L
+contig_3_segment0	.	mRNA	132367	133083	.	-	.	ID=Vv.00g001630.m01;Parent=Vv.00g001630;product=Protein A47;Dbxref=InterPro:IPR009402,PFAM:PF06334
+contig_3_segment0	.	exon	132367	133083	.	-	.	ID=Vv.00g001630.m01.exon01;Parent=Vv.00g001630.m01
+contig_3_segment0	.	CDS	132367	133083	.	-	0	ID=Vv.00g001630.m01.CDS01;Parent=Vv.00g001630.m01
+contig_3_segment0	.	start_codon	133081	133083	.	-	.	ID=Vv.00g001630.m01:start;Parent=Vv.00g001630.m01
+contig_3_segment0	.	stop_codon	132367	132369	.	-	.	ID=Vv.00g001630.m01:stop;Parent=Vv.00g001630.m01
+contig_3_segment0	.	gene	59478	60230	.	+	.	ID=Vv.00g000760;Name=L1R
+contig_3_segment0	.	mRNA	59478	60230	.	+	.	ID=Vv.00g000760.m01;Parent=Vv.00g000760;product=Protein L1;Dbxref=InterPro:IPR003472,PFAM:PF02442
+contig_3_segment0	.	exon	59478	60230	.	+	.	ID=Vv.00g000760.m01.exon01;Parent=Vv.00g000760.m01
+contig_3_segment0	.	CDS	59478	60230	.	+	0	ID=Vv.00g000760.m01.CDS01;Parent=Vv.00g000760.m01
+contig_3_segment0	.	start_codon	59478	59480	.	+	.	ID=Vv.00g000760.m01:start;Parent=Vv.00g000760.m01
+contig_3_segment0	.	stop_codon	60228	60230	.	+	.	ID=Vv.00g000760.m01:stop;Parent=Vv.00g000760.m01
+contig_3_segment0	.	gene	3739	3954	.	-	.	ID=Vv.00g000090;Name=VACWR017
+contig_3_segment0	.	mRNA	3739	3954	.	-	.	ID=Vv.00g000090.m01;Parent=Vv.00g000090;product=Uncharacterized protein 17
+contig_3_segment0	.	exon	3739	3954	.	-	.	ID=Vv.00g000090.m01.exon01;Parent=Vv.00g000090.m01
+contig_3_segment0	.	CDS	3739	3954	.	-	0	ID=Vv.00g000090.m01.CDS01;Parent=Vv.00g000090.m01
+contig_3_segment0	.	start_codon	3952	3954	.	-	.	ID=Vv.00g000090.m01:start;Parent=Vv.00g000090.m01
+contig_3_segment0	.	stop_codon	3739	3741	.	-	.	ID=Vv.00g000090.m01:stop;Parent=Vv.00g000090.m01
+contig_3_segment0	.	gene	126782	127414	.	+	.	ID=Vv.00g001540;Name=A39R
+contig_3_segment0	.	mRNA	126782	127414	.	+	.	ID=Vv.00g001540.m01;Parent=Vv.00g001540;product=Semaphorin-like protein A39;Dbxref=GO:0005515,InterPro:IPR001627,PFAM:PF01403
+contig_3_segment0	.	exon	126782	127414	.	+	.	ID=Vv.00g001540.m01.exon01;Parent=Vv.00g001540.m01
+contig_3_segment0	.	CDS	126782	127414	.	+	0	ID=Vv.00g001540.m01.CDS01;Parent=Vv.00g001540.m01
+contig_3_segment0	.	start_codon	126782	126784	.	+	.	ID=Vv.00g001540.m01:start;Parent=Vv.00g001540.m01
+contig_3_segment0	.	stop_codon	127412	127414	.	+	.	ID=Vv.00g001540.m01:stop;Parent=Vv.00g001540.m01
+contig_3_segment0	.	gene	70210	70779	.	+	.	ID=Vv.00g000880;Name=VACWR100
+contig_3_segment0	.	mRNA	70210	70779	.	+	.	ID=Vv.00g000880.m01;Parent=Vv.00g000880;product=Protein H2;Dbxref=InterPro:IPR005023,PFAM:PF03356
+contig_3_segment0	.	exon	70210	70779	.	+	.	ID=Vv.00g000880.m01.exon01;Parent=Vv.00g000880.m01
+contig_3_segment0	.	CDS	70210	70779	.	+	0	ID=Vv.00g000880.m01.CDS01;Parent=Vv.00g000880.m01
+contig_3_segment0	.	start_codon	70210	70212	.	+	.	ID=Vv.00g000880.m01:start;Parent=Vv.00g000880.m01
+contig_3_segment0	.	stop_codon	70777	70779	.	+	.	ID=Vv.00g000880.m01:stop;Parent=Vv.00g000880.m01
+contig_3_segment0	.	gene	39851	40309	.	-	.	ID=Vv.00g000550;Name=O1L_0
+contig_3_segment0	.	mRNA	39851	40309	.	-	.	ID=Vv.00g000550.m01;Parent=Vv.00g000550;product=Protein O1;Dbxref=InterPro:IPR021155,PFAM:PF04497
+contig_3_segment0	.	exon	39851	40309	.	-	.	ID=Vv.00g000550.m01.exon01;Parent=Vv.00g000550.m01
+contig_3_segment0	.	CDS	39851	40309	.	-	0	ID=Vv.00g000550.m01.CDS01;Parent=Vv.00g000550.m01
+contig_3_segment0	.	start_codon	40307	40309	.	-	.	ID=Vv.00g000550.m01:start;Parent=Vv.00g000550.m01
+contig_3_segment0	.	stop_codon	39851	39853	.	-	.	ID=Vv.00g000550.m01:stop;Parent=Vv.00g000550.m01
+contig_3_segment0	.	gene	17763	18005	.	-	.	ID=Vv.00g000310;Name=VACWR046
+contig_3_segment0	.	mRNA	17763	18005	.	-	.	ID=Vv.00g000310.m01;Parent=Vv.00g000310;product=Protein F7;Dbxref=InterPro:IPR008725,PFAM:PF05813
+contig_3_segment0	.	exon	17763	18005	.	-	.	ID=Vv.00g000310.m01.exon01;Parent=Vv.00g000310.m01
+contig_3_segment0	.	CDS	17763	18005	.	-	0	ID=Vv.00g000310.m01.CDS01;Parent=Vv.00g000310.m01
+contig_3_segment0	.	start_codon	18003	18005	.	-	.	ID=Vv.00g000310.m01:start;Parent=Vv.00g000310.m01
+contig_3_segment0	.	stop_codon	17763	17765	.	-	.	ID=Vv.00g000310.m01:stop;Parent=Vv.00g000310.m01
+contig_3_segment0	.	gene	106811	107944	.	-	.	ID=Vv.00g001260;Name=MVA127L
+contig_3_segment0	.	mRNA	106811	107944	.	-	.	ID=Vv.00g001260.m01;Parent=Vv.00g001260;product=Virion membrane protein A16;Dbxref=InterPro:IPR004251,PFAM:PF03003
+contig_3_segment0	.	exon	106811	107944	.	-	.	ID=Vv.00g001260.m01.exon01;Parent=Vv.00g001260.m01
+contig_3_segment0	.	CDS	106811	107944	.	-	0	ID=Vv.00g001260.m01.CDS01;Parent=Vv.00g001260.m01
+contig_3_segment0	.	start_codon	107942	107944	.	-	.	ID=Vv.00g001260.m01:start;Parent=Vv.00g001260.m01
+contig_3_segment0	.	stop_codon	106811	106813	.	-	.	ID=Vv.00g001260.m01:stop;Parent=Vv.00g001260.m01
+contig_3_segment0	.	gene	32930	34633	.	+	.	ID=Vv.00g000490;Name=E6R
+contig_3_segment0	.	mRNA	32930	34633	.	+	.	ID=Vv.00g000490.m01;Parent=Vv.00g000490;product=Protein E6;Dbxref=InterPro:IPR006749,PFAM:PF04656
+contig_3_segment0	.	exon	32930	34633	.	+	.	ID=Vv.00g000490.m01.exon01;Parent=Vv.00g000490.m01
+contig_3_segment0	.	CDS	32930	34633	.	+	0	ID=Vv.00g000490.m01.CDS01;Parent=Vv.00g000490.m01
+contig_3_segment0	.	start_codon	32930	32932	.	+	.	ID=Vv.00g000490.m01:start;Parent=Vv.00g000490.m01
+contig_3_segment0	.	stop_codon	34631	34633	.	+	.	ID=Vv.00g000490.m01:stop;Parent=Vv.00g000490.m01
+contig_3_segment0	.	gene	48119	49390	.	-	.	ID=Vv.00g000640;Name=VACWR076
+contig_3_segment0	.	mRNA	48119	49390	.	-	.	ID=Vv.00g000640.m01;Parent=Vv.00g000640;product=Core protease I7;Dbxref=InterPro:IPR004970,PFAM:PF03290
+contig_3_segment0	.	exon	48119	49390	.	-	.	ID=Vv.00g000640.m01.exon01;Parent=Vv.00g000640.m01
+contig_3_segment0	.	CDS	48119	49390	.	-	0	ID=Vv.00g000640.m01.CDS01;Parent=Vv.00g000640.m01
+contig_3_segment0	.	start_codon	49388	49390	.	-	.	ID=Vv.00g000640.m01:start;Parent=Vv.00g000640.m01
+contig_3_segment0	.	stop_codon	48119	48121	.	-	.	ID=Vv.00g000640.m01:stop;Parent=Vv.00g000640.m01
+contig_3_segment0	.	gene	7448	7537	.	-	.	ID=Vv.00g000150
+contig_3_segment0	.	mRNA	7448	7537	.	-	.	ID=Vv.00g000150.m01;Parent=Vv.00g000150
+contig_3_segment0	.	exon	7448	7537	.	-	.	ID=Vv.00g000150.m01.exon01;Parent=Vv.00g000150.m01
+contig_3_segment0	.	CDS	7448	7537	.	-	0	ID=Vv.00g000150.m01.CDS01;Parent=Vv.00g000150.m01
+contig_3_segment0	.	start_codon	7535	7537	.	-	.	ID=Vv.00g000150.m01:start;Parent=Vv.00g000150.m01
+contig_3_segment0	.	stop_codon	7448	7450	.	-	.	ID=Vv.00g000150.m01:stop;Parent=Vv.00g000150.m01
+contig_3_segment0	.	gene	147097	147948	.	+	.	ID=Vv.00g001810;Name=MVA180R
+contig_3_segment0	.	mRNA	147097	147948	.	+	.	ID=Vv.00g001810.m01;Parent=Vv.00g001810;product=Probable serine/threonine-protein kinase B12;Dbxref=GO:0004672, GO:0005524, GO:0006468,InterPro:IPR000719,PFAM:PF00069
+contig_3_segment0	.	exon	147097	147948	.	+	.	ID=Vv.00g001810.m01.exon01;Parent=Vv.00g001810.m01
+contig_3_segment0	.	CDS	147097	147948	.	+	0	ID=Vv.00g001810.m01.CDS01;Parent=Vv.00g001810.m01
+contig_3_segment0	.	start_codon	147097	147099	.	+	.	ID=Vv.00g001810.m01:start;Parent=Vv.00g001810.m01
+contig_3_segment0	.	stop_codon	147946	147948	.	+	.	ID=Vv.00g001810.m01:stop;Parent=Vv.00g001810.m01
+contig_3_segment0	.	gene	201	314	.	-	.	ID=Vv.00g000010;Name=C23L_0
+contig_3_segment0	.	mRNA	201	314	.	-	.	ID=Vv.00g000010.m01;Parent=Vv.00g000010;product=Inactive chemokine-binding protein;Dbxref=InterPro:IPR003184,PFAM:PF02250
+contig_3_segment0	.	exon	201	314	.	-	.	ID=Vv.00g000010.m01.exon01;Parent=Vv.00g000010.m01
+contig_3_segment0	.	CDS	201	314	.	-	0	ID=Vv.00g000010.m01.CDS01;Parent=Vv.00g000010.m01
+contig_3_segment0	.	start_codon	312	314	.	-	.	ID=Vv.00g000010.m01:start;Parent=Vv.00g000010.m01
+contig_3_segment0	.	stop_codon	201	203	.	-	.	ID=Vv.00g000010.m01:stop;Parent=Vv.00g000010.m01
+contig_3_segment0	.	gene	156838	157236	.	+	.	ID=Vv.00g001950;Name=D4L_1
+contig_3_segment0	.	mRNA	156838	157236	.	+	.	ID=Vv.00g001950.m01;Parent=Vv.00g001950;product=Ankyrin repeat protein D4L/I2R
+contig_3_segment0	.	exon	156838	157236	.	+	.	ID=Vv.00g001950.m01.exon01;Parent=Vv.00g001950.m01
+contig_3_segment0	.	CDS	156838	157236	.	+	0	ID=Vv.00g001950.m01.CDS01;Parent=Vv.00g001950.m01
+contig_3_segment0	.	stop_codon	157234	157236	.	+	.	ID=Vv.00g001950.m01:stop;Parent=Vv.00g001950.m01
+contig_3_segment0	.	gene	118585	118917	.	-	.	ID=Vv.00g001390;Name=VACWR150
+contig_3_segment0	.	mRNA	118585	118917	.	-	.	ID=Vv.00g001390.m01;Parent=Vv.00g001390;product=Protein A27;Dbxref=GO:0019064, GO:0019031,InterPro:IPR003436,PFAM:PF02346
+contig_3_segment0	.	exon	118585	118917	.	-	.	ID=Vv.00g001390.m01.exon01;Parent=Vv.00g001390.m01
+contig_3_segment0	.	CDS	118585	118917	.	-	0	ID=Vv.00g001390.m01.CDS01;Parent=Vv.00g001390.m01
+contig_3_segment0	.	start_codon	118915	118917	.	-	.	ID=Vv.00g001390.m01:start;Parent=Vv.00g001390.m01
+contig_3_segment0	.	stop_codon	118585	118587	.	-	.	ID=Vv.00g001390.m01:stop;Parent=Vv.00g001390.m01
+contig_3_segment0	.	gene	76407	78941	.	+	.	ID=Vv.00g000950;Name=MVA098R
+contig_3_segment0	.	mRNA	76407	78941	.	+	.	ID=Vv.00g000950.m01;Parent=Vv.00g000950;product=mRNA-capping enzyme catalytic subunit;Dbxref=GO:0004484, GO:0004651,InterPro:IPR004971,InterPro:IPR019602,PFAM:PF03291,PFAM:PF10640
+contig_3_segment0	.	exon	76407	78941	.	+	.	ID=Vv.00g000950.m01.exon01;Parent=Vv.00g000950.m01
+contig_3_segment0	.	CDS	76407	78941	.	+	0	ID=Vv.00g000950.m01.CDS01;Parent=Vv.00g000950.m01
+contig_3_segment0	.	start_codon	76407	76409	.	+	.	ID=Vv.00g000950.m01:start;Parent=Vv.00g000950.m01
+contig_3_segment0	.	stop_codon	78939	78941	.	+	.	ID=Vv.00g000950.m01:stop;Parent=Vv.00g000950.m01
+contig_3_segment0	.	gene	61592	62347	.	+	.	ID=Vv.00g000790;Name=L4R
+contig_3_segment0	.	mRNA	61592	62347	.	+	.	ID=Vv.00g000790.m01;Parent=Vv.00g000790;product=Core protein VP8;Dbxref=GO:0019028, GO:0005198,InterPro:IPR007586,PFAM:PF04498
+contig_3_segment0	.	exon	61592	62347	.	+	.	ID=Vv.00g000790.m01.exon01;Parent=Vv.00g000790.m01
+contig_3_segment0	.	CDS	61592	62347	.	+	0	ID=Vv.00g000790.m01.CDS01;Parent=Vv.00g000790.m01
+contig_3_segment0	.	start_codon	61592	61594	.	+	.	ID=Vv.00g000790.m01:start;Parent=Vv.00g000790.m01
+contig_3_segment0	.	stop_codon	62345	62347	.	+	.	ID=Vv.00g000790.m01:stop;Parent=Vv.00g000790.m01
+contig_3_segment0	.	gene	62700	63161	.	+	.	ID=Vv.00g000810;Name=VACWR093
+contig_3_segment0	.	mRNA	62700	63161	.	+	.	ID=Vv.00g000810.m01;Parent=Vv.00g000810;product=Protein J1;Dbxref=InterPro:IPR005006,PFAM:PF03338
+contig_3_segment0	.	exon	62700	63161	.	+	.	ID=Vv.00g000810.m01.exon01;Parent=Vv.00g000810.m01
+contig_3_segment0	.	CDS	62700	63161	.	+	0	ID=Vv.00g000810.m01.CDS01;Parent=Vv.00g000810.m01
+contig_3_segment0	.	start_codon	62700	62702	.	+	.	ID=Vv.00g000810.m01:start;Parent=Vv.00g000810.m01
+contig_3_segment0	.	stop_codon	63159	63161	.	+	.	ID=Vv.00g000810.m01:stop;Parent=Vv.00g000810.m01
+contig_3_segment0	.	gene	97076	98194	.	-	.	ID=Vv.00g001150;Name=A6L
+contig_3_segment0	.	mRNA	97076	98194	.	-	.	ID=Vv.00g001150.m01;Parent=Vv.00g001150;product=Protein A6;Dbxref=InterPro:IPR007008,PFAM:PF04924
+contig_3_segment0	.	exon	97076	98194	.	-	.	ID=Vv.00g001150.m01.exon01;Parent=Vv.00g001150.m01
+contig_3_segment0	.	CDS	97076	98194	.	-	0	ID=Vv.00g001150.m01.CDS01;Parent=Vv.00g001150.m01
+contig_3_segment0	.	start_codon	98192	98194	.	-	.	ID=Vv.00g001150.m01:start;Parent=Vv.00g001150.m01
+contig_3_segment0	.	stop_codon	97076	97078	.	-	.	ID=Vv.00g001150.m01:stop;Parent=Vv.00g001150.m01
+contig_3_segment0	.	gene	23366	24484	.	-	.	ID=Vv.00g000380;Name=MVA043L
+contig_3_segment0	.	mRNA	23366	24484	.	-	.	ID=Vv.00g000380.m01;Parent=Vv.00g000380;product=Envelope phospholipase F13;Dbxref=GO:0003824,InterPro:IPR001736,InterPro:IPR032803,PFAM:PF00614,PFAM:PF13918
+contig_3_segment0	.	exon	23366	24484	.	-	.	ID=Vv.00g000380.m01.exon01;Parent=Vv.00g000380.m01
+contig_3_segment0	.	CDS	23366	24484	.	-	0	ID=Vv.00g000380.m01.CDS01;Parent=Vv.00g000380.m01
+contig_3_segment0	.	start_codon	24482	24484	.	-	.	ID=Vv.00g000380.m01:start;Parent=Vv.00g000380.m01
+contig_3_segment0	.	stop_codon	23366	23368	.	-	.	ID=Vv.00g000380.m01:stop;Parent=Vv.00g000380.m01
+contig_3_segment0	.	gene	133182	133796	.	+	.	ID=Vv.00g001640;Name=TMK
+contig_3_segment0	.	mRNA	133182	133796	.	+	.	ID=Vv.00g001640.m01;Parent=Vv.00g001640;product=Thymidylate kinase;Dbxref=GO:0005524, GO:0004798, GO:0006233,InterPro:IPR018094,InterPro:noIPR,PFAM:PF02223,TIGRFAM:TIGR00041
+contig_3_segment0	.	exon	133182	133796	.	+	.	ID=Vv.00g001640.m01.exon01;Parent=Vv.00g001640.m01
+contig_3_segment0	.	CDS	133182	133796	.	+	0	ID=Vv.00g001640.m01.CDS01;Parent=Vv.00g001640.m01
+contig_3_segment0	.	start_codon	133182	133184	.	+	.	ID=Vv.00g001640.m01:start;Parent=Vv.00g001640.m01
+contig_3_segment0	.	stop_codon	133794	133796	.	+	.	ID=Vv.00g001640.m01:stop;Parent=Vv.00g001640.m01
+contig_3_segment0	.	gene	25478	26173	.	-	.	ID=Vv.00g000420;Name=VACWR055
+contig_3_segment0	.	mRNA	25478	26173	.	-	.	ID=Vv.00g000420.m01;Parent=Vv.00g000420;product=Protein F16;Dbxref=InterPro:IPR006798,PFAM:PF04708
+contig_3_segment0	.	exon	25478	26173	.	-	.	ID=Vv.00g000420.m01.exon01;Parent=Vv.00g000420.m01
+contig_3_segment0	.	CDS	25478	26173	.	-	0	ID=Vv.00g000420.m01.CDS01;Parent=Vv.00g000420.m01
+contig_3_segment0	.	start_codon	26171	26173	.	-	.	ID=Vv.00g000420.m01:start;Parent=Vv.00g000420.m01
+contig_3_segment0	.	stop_codon	25478	25480	.	-	.	ID=Vv.00g000420.m01:stop;Parent=Vv.00g000420.m01
+contig_3_segment0	.	gene	11198	12472	.	-	.	ID=Vv.00g000220;Name=K4L
+contig_3_segment0	.	mRNA	11198	12472	.	-	.	ID=Vv.00g000220.m01;Parent=Vv.00g000220;product=Phospholipase-D-like protein K4;Dbxref=GO:0003824,InterPro:IPR001736,InterPro:IPR032803,PFAM:PF00614,PFAM:PF13918
+contig_3_segment0	.	exon	11198	12472	.	-	.	ID=Vv.00g000220.m01.exon01;Parent=Vv.00g000220.m01
+contig_3_segment0	.	CDS	11198	12472	.	-	0	ID=Vv.00g000220.m01.CDS01;Parent=Vv.00g000220.m01
+contig_3_segment0	.	start_codon	12470	12472	.	-	.	ID=Vv.00g000220.m01:start;Parent=Vv.00g000220.m01
+contig_3_segment0	.	stop_codon	11198	11200	.	-	.	ID=Vv.00g000220.m01:stop;Parent=Vv.00g000220.m01
+contig_3_segment0	.	gene	110621	111901	.	+	.	ID=Vv.00g001310;Name=VACWR141
+contig_3_segment0	.	mRNA	110621	111901	.	+	.	ID=Vv.00g001310.m01;Parent=Vv.00g001310;product=DNA polymerase processivity factor component A20;Dbxref=InterPro:IPR010267,PFAM:PF05941
+contig_3_segment0	.	exon	110621	111901	.	+	.	ID=Vv.00g001310.m01.exon01;Parent=Vv.00g001310.m01
+contig_3_segment0	.	CDS	110621	111901	.	+	0	ID=Vv.00g001310.m01.CDS01;Parent=Vv.00g001310.m01
+contig_3_segment0	.	start_codon	110621	110623	.	+	.	ID=Vv.00g001310.m01:start;Parent=Vv.00g001310.m01
+contig_3_segment0	.	stop_codon	111899	111901	.	+	.	ID=Vv.00g001310.m01:stop;Parent=Vv.00g001310.m01
+contig_3_segment0	.	gene	40590	41807	.	-	.	ID=Vv.00g000560;Name=O1L_1
+contig_3_segment0	.	mRNA	40590	41807	.	-	.	ID=Vv.00g000560.m01;Parent=Vv.00g000560;product=Protein O1;Dbxref=InterPro:IPR021155,PFAM:PF04497
+contig_3_segment0	.	exon	40590	41807	.	-	.	ID=Vv.00g000560.m01.exon01;Parent=Vv.00g000560.m01
+contig_3_segment0	.	CDS	40590	41807	.	-	0	ID=Vv.00g000560.m01.CDS01;Parent=Vv.00g000560.m01
+contig_3_segment0	.	start_codon	41805	41807	.	-	.	ID=Vv.00g000560.m01:start;Parent=Vv.00g000560.m01
+contig_3_segment0	.	stop_codon	40590	40592	.	-	.	ID=Vv.00g000560.m01:stop;Parent=Vv.00g000560.m01
+contig_3_segment0	.	gene	60262	60525	.	+	.	ID=Vv.00g000770;Name=L2R
+contig_3_segment0	.	mRNA	60262	60525	.	+	.	ID=Vv.00g000770.m01;Parent=Vv.00g000770;product=Protein L2;Dbxref=InterPro:IPR008447,PFAM:PF05803
+contig_3_segment0	.	exon	60262	60525	.	+	.	ID=Vv.00g000770.m01.exon01;Parent=Vv.00g000770.m01
+contig_3_segment0	.	CDS	60262	60525	.	+	0	ID=Vv.00g000770.m01.CDS01;Parent=Vv.00g000770.m01
+contig_3_segment0	.	start_codon	60262	60264	.	+	.	ID=Vv.00g000770.m01:start;Parent=Vv.00g000770.m01
+contig_3_segment0	.	stop_codon	60523	60525	.	+	.	ID=Vv.00g000770.m01:stop;Parent=Vv.00g000770.m01
+contig_3_segment0	.	gene	121906	122463	.	+	.	ID=Vv.00g001460;Name=VACWR156
+contig_3_segment0	.	mRNA	121906	122463	.	+	.	ID=Vv.00g001460.m01;Parent=Vv.00g001460;product=Protein A33;Dbxref=InterPro:IPR009238,PFAM:PF05966
+contig_3_segment0	.	exon	121906	122463	.	+	.	ID=Vv.00g001460.m01.exon01;Parent=Vv.00g001460.m01
+contig_3_segment0	.	CDS	121906	122463	.	+	0	ID=Vv.00g001460.m01.CDS01;Parent=Vv.00g001460.m01
+contig_3_segment0	.	start_codon	121906	121908	.	+	.	ID=Vv.00g001460.m01:start;Parent=Vv.00g001460.m01
+contig_3_segment0	.	stop_codon	122461	122463	.	+	.	ID=Vv.00g001460.m01:stop;Parent=Vv.00g001460.m01
+contig_3_segment0	.	gene	107947	108534	.	-	.	ID=Vv.00g001270;Name=A17L
+contig_3_segment0	.	mRNA	107947	108534	.	-	.	ID=Vv.00g001270.m01;Parent=Vv.00g001270;product=Virion membrane protein A17 precursor;Dbxref=GO:0016021,InterPro:IPR007977,PFAM:PF05313
+contig_3_segment0	.	exon	107947	108534	.	-	.	ID=Vv.00g001270.m01.exon01;Parent=Vv.00g001270.m01
+contig_3_segment0	.	CDS	107947	108534	.	-	0	ID=Vv.00g001270.m01.CDS01;Parent=Vv.00g001270.m01
+contig_3_segment0	.	start_codon	108532	108534	.	-	.	ID=Vv.00g001270.m01:start;Parent=Vv.00g001270.m01
+contig_3_segment0	.	stop_codon	107947	107949	.	-	.	ID=Vv.00g001270.m01:stop;Parent=Vv.00g001270.m01
+contig_3_segment0	.	gene	31840	32793	.	+	.	ID=Vv.00g000480;Name=E5R
+contig_3_segment0	.	mRNA	31840	32793	.	+	.	ID=Vv.00g000480.m01;Parent=Vv.00g000480;product=Protein E5;Dbxref=InterPro:IPR018379,PFAM:PF10523
+contig_3_segment0	.	exon	31840	32793	.	+	.	ID=Vv.00g000480.m01.exon01;Parent=Vv.00g000480.m01
+contig_3_segment0	.	CDS	31840	32793	.	+	0	ID=Vv.00g000480.m01.CDS01;Parent=Vv.00g000480.m01
+contig_3_segment0	.	start_codon	31840	31842	.	+	.	ID=Vv.00g000480.m01:start;Parent=Vv.00g000480.m01
+contig_3_segment0	.	stop_codon	32791	32793	.	+	.	ID=Vv.00g000480.m01:stop;Parent=Vv.00g000480.m01
+contig_3_segment0	.	gene	53202	53441	.	-	.	ID=Vv.00g000670;Name=VACWR079
+contig_3_segment0	.	mRNA	53202	53441	.	-	.	ID=Vv.00g000670.m01;Parent=Vv.00g000670;product=Protein G3;Dbxref=InterPro:IPR010367,PFAM:PF06129
+contig_3_segment0	.	exon	53202	53441	.	-	.	ID=Vv.00g000670.m01.exon01;Parent=Vv.00g000670.m01
+contig_3_segment0	.	CDS	53202	53441	.	-	0	ID=Vv.00g000670.m01.CDS01;Parent=Vv.00g000670.m01
+contig_3_segment0	.	start_codon	53439	53441	.	-	.	ID=Vv.00g000670.m01:start;Parent=Vv.00g000670.m01
+contig_3_segment0	.	stop_codon	53202	53204	.	-	.	ID=Vv.00g000670.m01:stop;Parent=Vv.00g000670.m01
+contig_3_segment0	.	gene	117476	117838	.	-	.	ID=Vv.00g001370;Name=VACWR149_0
+contig_3_segment0	.	mRNA	117476	117838	.	-	.	ID=Vv.00g001370.m01;Parent=Vv.00g001370;product=Protein A26
+contig_3_segment0	.	exon	117476	117838	.	-	.	ID=Vv.00g001370.m01.exon01;Parent=Vv.00g001370.m01
+contig_3_segment0	.	CDS	117476	117838	.	-	0	ID=Vv.00g001370.m01.CDS01;Parent=Vv.00g001370.m01
+contig_3_segment0	.	stop_codon	117476	117478	.	-	.	ID=Vv.00g001370.m01:stop;Parent=Vv.00g001370.m01
+contig_3_segment0	.	gene	7602	8075	.	-	.	ID=Vv.00g000160;Name=C6L
+contig_3_segment0	.	mRNA	7602	8075	.	-	.	ID=Vv.00g000160.m01;Parent=Vv.00g000160;product=Protein C6;Dbxref=InterPro:IPR022819,PFAM:PF06227
+contig_3_segment0	.	exon	7602	8075	.	-	.	ID=Vv.00g000160.m01.exon01;Parent=Vv.00g000160.m01
+contig_3_segment0	.	CDS	7602	8075	.	-	0	ID=Vv.00g000160.m01.CDS01;Parent=Vv.00g000160.m01
+contig_3_segment0	.	start_codon	8073	8075	.	-	.	ID=Vv.00g000160.m01:start;Parent=Vv.00g000160.m01
+contig_3_segment0	.	stop_codon	7602	7604	.	-	.	ID=Vv.00g000160.m01:stop;Parent=Vv.00g000160.m01
+contig_3_segment0	.	gene	150666	151688	.	-	.	ID=Vv.00g001860;Name=B17L
+contig_3_segment0	.	mRNA	150666	151688	.	-	.	ID=Vv.00g001860.m01;Parent=Vv.00g001860;product=Protein B17;Dbxref=InterPro:IPR009633,PFAM:PF06802
+contig_3_segment0	.	exon	150666	151688	.	-	.	ID=Vv.00g001860.m01.exon01;Parent=Vv.00g001860.m01
+contig_3_segment0	.	CDS	150666	151688	.	-	0	ID=Vv.00g001860.m01.CDS01;Parent=Vv.00g001860.m01
+contig_3_segment0	.	start_codon	151686	151688	.	-	.	ID=Vv.00g001860.m01:start;Parent=Vv.00g001860.m01
+contig_3_segment0	.	stop_codon	150666	150668	.	-	.	ID=Vv.00g001860.m01:stop;Parent=Vv.00g001860.m01
+contig_3_segment0	.	gene	145240	145920	.	+	.	ID=Vv.00g001780;Name=VACWR190
+contig_3_segment0	.	mRNA	145240	145920	.	+	.	ID=Vv.00g001780.m01;Parent=Vv.00g001780;product=Soluble interferon gamma receptor B8;Dbxref=GO:0019955, GO:0016020, GO:0005515,InterPro:IPR021126,PFAM:PF07140
+contig_3_segment0	.	exon	145240	145920	.	+	.	ID=Vv.00g001780.m01.exon01;Parent=Vv.00g001780.m01
+contig_3_segment0	.	CDS	145240	145920	.	+	0	ID=Vv.00g001780.m01.CDS01;Parent=Vv.00g001780.m01
+contig_3_segment0	.	start_codon	145240	145242	.	+	.	ID=Vv.00g001780.m01:start;Parent=Vv.00g001780.m01
+contig_3_segment0	.	stop_codon	145918	145920	.	+	.	ID=Vv.00g001780.m01:stop;Parent=Vv.00g001780.m01
+contig_3_segment0	.	gene	21087	21389	.	-	.	ID=Vv.00g000360;Name=F11L
+contig_3_segment0	.	mRNA	21087	21389	.	-	.	ID=Vv.00g000360.m01;Parent=Vv.00g000360;product=Protein F11
+contig_3_segment0	.	exon	21087	21389	.	-	.	ID=Vv.00g000360.m01.exon01;Parent=Vv.00g000360.m01
+contig_3_segment0	.	CDS	21087	21389	.	-	0	ID=Vv.00g000360.m01.CDS01;Parent=Vv.00g000360.m01
+contig_3_segment0	.	start_codon	21387	21389	.	-	.	ID=Vv.00g000360.m01:start;Parent=Vv.00g000360.m01
+contig_3_segment0	.	stop_codon	21087	21089	.	-	.	ID=Vv.00g000360.m01:stop;Parent=Vv.00g000360.m01
+contig_3_segment0	.	gene	156150	156851	.	+	.	ID=Vv.00g001940;Name=B23R_1
+contig_3_segment0	.	mRNA	156150	156851	.	+	.	ID=Vv.00g001940.m01;Parent=Vv.00g001940;product=Ankyrin repeat protein C17/B23
+contig_3_segment0	.	exon	156150	156851	.	+	.	ID=Vv.00g001940.m01.exon01;Parent=Vv.00g001940.m01
+contig_3_segment0	.	CDS	156150	156851	.	+	0	ID=Vv.00g001940.m01.CDS01;Parent=Vv.00g001940.m01
+contig_3_segment0	.	start_codon	156150	156152	.	+	.	ID=Vv.00g001940.m01:start;Parent=Vv.00g001940.m01
+contig_3_segment0	.	stop_codon	156849	156851	.	+	.	ID=Vv.00g001940.m01:stop;Parent=Vv.00g001940.m01
+contig_3_segment0	.	gene	117843	118535	.	-	.	ID=Vv.00g001380;Name=VACWR149_1
+contig_3_segment0	.	mRNA	117843	118535	.	-	.	ID=Vv.00g001380.m01;Parent=Vv.00g001380;product=Protein A26;Dbxref=InterPro:IPR009285,PFAM:PF06086
+contig_3_segment0	.	exon	117843	118535	.	-	.	ID=Vv.00g001380.m01.exon01;Parent=Vv.00g001380.m01
+contig_3_segment0	.	CDS	117843	118535	.	-	0	ID=Vv.00g001380.m01.CDS01;Parent=Vv.00g001380.m01
+contig_3_segment0	.	start_codon	118533	118535	.	-	.	ID=Vv.00g001380.m01:start;Parent=Vv.00g001380.m01
+contig_3_segment0	.	stop_codon	117843	117845	.	-	.	ID=Vv.00g001380.m01:stop;Parent=Vv.00g001380.m01
+contig_3_segment0	.	gene	78900	79187	.	-	.	ID=Vv.00g000960;Name=D2L
+contig_3_segment0	.	mRNA	78900	79187	.	-	.	ID=Vv.00g000960.m01;Parent=Vv.00g000960;product=Core protein D2;Dbxref=InterPro:IPR006791,PFAM:PF04701
+contig_3_segment0	.	exon	78900	79187	.	-	.	ID=Vv.00g000960.m01.exon01;Parent=Vv.00g000960.m01
+contig_3_segment0	.	CDS	78900	79187	.	-	0	ID=Vv.00g000960.m01.CDS01;Parent=Vv.00g000960.m01
+contig_3_segment0	.	start_codon	79185	79187	.	-	.	ID=Vv.00g000960.m01:start;Parent=Vv.00g000960.m01
+contig_3_segment0	.	stop_codon	78900	78902	.	-	.	ID=Vv.00g000960.m01:stop;Parent=Vv.00g000960.m01
+contig_3_segment0	.	gene	87850	89745	.	-	.	ID=Vv.00g001060;Name=NPH1
+contig_3_segment0	.	mRNA	87850	89745	.	-	.	ID=Vv.00g001060.m01;Parent=Vv.00g001060;product=Nucleoside triphosphatase I;Dbxref=GO:0017111, GO:0006351, GO:0005524,InterPro:IPR000330,InterPro:IPR001650,InterPro:IPR013676,PFAM:PF00176,PFAM:PF00271,PFAM:PF08469
+contig_3_segment0	.	exon	87850	89745	.	-	.	ID=Vv.00g001060.m01.exon01;Parent=Vv.00g001060.m01
+contig_3_segment0	.	CDS	87850	89745	.	-	0	ID=Vv.00g001060.m01.CDS01;Parent=Vv.00g001060.m01
+contig_3_segment0	.	start_codon	89743	89745	.	-	.	ID=Vv.00g001060.m01:start;Parent=Vv.00g001060.m01
+contig_3_segment0	.	stop_codon	87850	87852	.	-	.	ID=Vv.00g001060.m01:stop;Parent=Vv.00g001060.m01
+contig_3_segment0	.	gene	62357	62743	.	+	.	ID=Vv.00g000800;Name=VACWR092
+contig_3_segment0	.	mRNA	62357	62743	.	+	.	ID=Vv.00g000800.m01;Parent=Vv.00g000800;product=Protein L5;Dbxref=InterPro:IPR006956,PFAM:PF04872
+contig_3_segment0	.	exon	62357	62743	.	+	.	ID=Vv.00g000800.m01.exon01;Parent=Vv.00g000800.m01
+contig_3_segment0	.	CDS	62357	62743	.	+	0	ID=Vv.00g000800.m01.CDS01;Parent=Vv.00g000800.m01
+contig_3_segment0	.	start_codon	62357	62359	.	+	.	ID=Vv.00g000800.m01:start;Parent=Vv.00g000800.m01
+contig_3_segment0	.	stop_codon	62741	62743	.	+	.	ID=Vv.00g000800.m01:stop;Parent=Vv.00g000800.m01
+contig_3_segment0	.	gene	24502	24723	.	-	.	ID=Vv.00g000390;Name=VACWR053
+contig_3_segment0	.	mRNA	24502	24723	.	-	.	ID=Vv.00g000390.m01;Parent=Vv.00g000390;product=Protein F14;Dbxref=InterPro:IPR009280,PFAM:PF06076
+contig_3_segment0	.	exon	24502	24723	.	-	.	ID=Vv.00g000390.m01.exon01;Parent=Vv.00g000390.m01
+contig_3_segment0	.	CDS	24502	24723	.	-	0	ID=Vv.00g000390.m01.CDS01;Parent=Vv.00g000390.m01
+contig_3_segment0	.	start_codon	24721	24723	.	-	.	ID=Vv.00g000390.m01:start;Parent=Vv.00g000390.m01
+contig_3_segment0	.	stop_codon	24502	24504	.	-	.	ID=Vv.00g000390.m01:stop;Parent=Vv.00g000390.m01
+contig_3_segment0	.	gene	82139	83080	.	+	.	ID=Vv.00g001000;Name=D5R
+contig_3_segment0	.	mRNA	82139	83080	.	+	.	ID=Vv.00g001000.m01;Parent=Vv.00g001000;product=Primase D5;Dbxref=InterPro:IPR004968,PFAM:PF03288
+contig_3_segment0	.	exon	82139	83080	.	+	.	ID=Vv.00g001000.m01.exon01;Parent=Vv.00g001000.m01
+contig_3_segment0	.	CDS	82139	83080	.	+	0	ID=Vv.00g001000.m01.CDS01;Parent=Vv.00g001000.m01
+contig_3_segment0	.	start_codon	82139	82141	.	+	.	ID=Vv.00g001000.m01:start;Parent=Vv.00g001000.m01
+contig_3_segment0	.	stop_codon	83078	83080	.	+	.	ID=Vv.00g001000.m01:stop;Parent=Vv.00g001000.m01
+contig_3_segment0	.	gene	24995	25471	.	-	.	ID=Vv.00g000410;Name=F15L
+contig_3_segment0	.	mRNA	24995	25471	.	-	.	ID=Vv.00g000410.m01;Parent=Vv.00g000410;product=Protein F15;Dbxref=InterPro:IPR007675,PFAM:PF04596
+contig_3_segment0	.	exon	24995	25471	.	-	.	ID=Vv.00g000410.m01.exon01;Parent=Vv.00g000410.m01
+contig_3_segment0	.	CDS	24995	25471	.	-	0	ID=Vv.00g000410.m01.CDS01;Parent=Vv.00g000410.m01
+contig_3_segment0	.	start_codon	25469	25471	.	-	.	ID=Vv.00g000410.m01:start;Parent=Vv.00g000410.m01
+contig_3_segment0	.	stop_codon	24995	24997	.	-	.	ID=Vv.00g000410.m01:stop;Parent=Vv.00g000410.m01
+contig_3_segment0	.	gene	96585	97079	.	+	.	ID=Vv.00g001140;Name=RPO19
+contig_3_segment0	.	mRNA	96585	97079	.	+	.	ID=Vv.00g001140.m01;Parent=Vv.00g001140;product=DNA-directed RNA polymerase 19 kDa subunit;Dbxref=GO:0003677, GO:0003899, GO:0006351,InterPro:IPR007984,PFAM:PF05320
+contig_3_segment0	.	exon	96585	97079	.	+	.	ID=Vv.00g001140.m01.exon01;Parent=Vv.00g001140.m01
+contig_3_segment0	.	CDS	96585	97079	.	+	0	ID=Vv.00g001140.m01.CDS01;Parent=Vv.00g001140.m01
+contig_3_segment0	.	start_codon	96585	96587	.	+	.	ID=Vv.00g001140.m01:start;Parent=Vv.00g001140.m01
+contig_3_segment0	.	stop_codon	97077	97079	.	+	.	ID=Vv.00g001140.m01:stop;Parent=Vv.00g001140.m01
+contig_3_segment0	.	gene	13398	13847	.	+	.	ID=Vv.00g000250;Name=VACWR039
+contig_3_segment0	.	mRNA	13398	13847	.	+	.	ID=Vv.00g000250.m01;Parent=Vv.00g000250;product=Protein K7;Dbxref=InterPro:IPR022819,PFAM:PF06227
+contig_3_segment0	.	exon	13398	13847	.	+	.	ID=Vv.00g000250.m01.exon01;Parent=Vv.00g000250.m01
+contig_3_segment0	.	CDS	13398	13847	.	+	0	ID=Vv.00g000250.m01.CDS01;Parent=Vv.00g000250.m01
+contig_3_segment0	.	start_codon	13398	13400	.	+	.	ID=Vv.00g000250.m01:start;Parent=Vv.00g000250.m01
+contig_3_segment0	.	stop_codon	13845	13847	.	+	.	ID=Vv.00g000250.m01:stop;Parent=Vv.00g000250.m01
+contig_3_segment0	.	gene	110269	110547	.	-	.	ID=Vv.00g001300;Name=VACWR140
+contig_3_segment0	.	mRNA	110269	110547	.	-	.	ID=Vv.00g001300.m01;Parent=Vv.00g001300;product=Virion membrane protein A21;Dbxref=InterPro:IPR007987,PFAM:PF05323
+contig_3_segment0	.	exon	110269	110547	.	-	.	ID=Vv.00g001300.m01.exon01;Parent=Vv.00g001300.m01
+contig_3_segment0	.	CDS	110269	110547	.	-	0	ID=Vv.00g001300.m01.CDS01;Parent=Vv.00g001300.m01
+contig_3_segment0	.	start_codon	110545	110547	.	-	.	ID=Vv.00g001300.m01:start;Parent=Vv.00g001300.m01
+contig_3_segment0	.	stop_codon	110269	110271	.	-	.	ID=Vv.00g001300.m01:stop;Parent=Vv.00g001300.m01
+contig_3_segment0	.	gene	133820	134308	.	+	.	ID=Vv.00g001650;Name=MVA162R
+contig_3_segment0	.	mRNA	133820	134308	.	+	.	ID=Vv.00g001650.m01;Parent=Vv.00g001650;product=Protein A49;Dbxref=InterPro:IPR009473,PFAM:PF06489
+contig_3_segment0	.	exon	133820	134308	.	+	.	ID=Vv.00g001650.m01.exon01;Parent=Vv.00g001650.m01
+contig_3_segment0	.	CDS	133820	134308	.	+	0	ID=Vv.00g001650.m01.CDS01;Parent=Vv.00g001650.m01
+contig_3_segment0	.	start_codon	133820	133822	.	+	.	ID=Vv.00g001650.m01:start;Parent=Vv.00g001650.m01
+contig_3_segment0	.	stop_codon	134306	134308	.	+	.	ID=Vv.00g001650.m01:stop;Parent=Vv.00g001650.m01
+contig_3_segment0	.	gene	154270	154659	.	+	.	ID=Vv.00g001890;Name=B19R_1
+contig_3_segment0	.	mRNA	154270	154659	.	+	.	ID=Vv.00g001890.m01;Parent=Vv.00g001890;product=Surface antigen S
+contig_3_segment0	.	exon	154270	154659	.	+	.	ID=Vv.00g001890.m01.exon01;Parent=Vv.00g001890.m01
+contig_3_segment0	.	CDS	154270	154659	.	+	0	ID=Vv.00g001890.m01.CDS01;Parent=Vv.00g001890.m01
+contig_3_segment0	.	stop_codon	154657	154659	.	+	.	ID=Vv.00g001890.m01:stop;Parent=Vv.00g001890.m01
+contig_3_segment0	.	gene	104238	105194	.	+	.	ID=Vv.00g001200;Name=A11R
+contig_3_segment0	.	mRNA	104238	105194	.	+	.	ID=Vv.00g001200.m01;Parent=Vv.00g001200;product=Protein A11;Dbxref=InterPro:IPR007755,PFAM:PF05061
+contig_3_segment0	.	exon	104238	105194	.	+	.	ID=Vv.00g001200.m01.exon01;Parent=Vv.00g001200.m01
+contig_3_segment0	.	CDS	104238	105194	.	+	0	ID=Vv.00g001200.m01.CDS01;Parent=Vv.00g001200.m01
+contig_3_segment0	.	start_codon	104238	104240	.	+	.	ID=Vv.00g001200.m01:start;Parent=Vv.00g001200.m01
+contig_3_segment0	.	stop_codon	105192	105194	.	+	.	ID=Vv.00g001200.m01:stop;Parent=Vv.00g001200.m01
+contig_3_segment0	.	gene	30942	31721	.	-	.	ID=Vv.00g000470;Name=RPO30
+contig_3_segment0	.	mRNA	30942	31721	.	-	.	ID=Vv.00g000470.m01;Parent=Vv.00g000470;product=DNA-directed RNA polymerase 30 kDa polypeptide;Dbxref=GO:0006351, GO:0003676, GO:0008270, GO:0003677, GO:0003899,InterPro:IPR001222,InterPro:IPR024394,PFAM:PF01096,PFAM:PF12410
+contig_3_segment0	.	exon	30942	31721	.	-	.	ID=Vv.00g000470.m01.exon01;Parent=Vv.00g000470.m01
+contig_3_segment0	.	CDS	30942	31721	.	-	0	ID=Vv.00g000470.m01.CDS01;Parent=Vv.00g000470.m01
+contig_3_segment0	.	start_codon	31719	31721	.	-	.	ID=Vv.00g000470.m01:start;Parent=Vv.00g000470.m01
+contig_3_segment0	.	stop_codon	30942	30944	.	-	.	ID=Vv.00g000470.m01:stop;Parent=Vv.00g000470.m01
+contig_3_segment0	.	gene	51430	53205	.	-	.	ID=Vv.00g000660;Name=TG1L
+contig_3_segment0	.	mRNA	51430	53205	.	-	.	ID=Vv.00g000660.m01;Parent=Vv.00g000660;product=Metalloendopeptidase G1;Dbxref=GO:0008270, GO:0019058, GO:0004222, GO:0003824, GO:0046872,InterPro:IPR005072,PFAM:PF03410
+contig_3_segment0	.	exon	51430	53205	.	-	.	ID=Vv.00g000660.m01.exon01;Parent=Vv.00g000660.m01
+contig_3_segment0	.	CDS	51430	53205	.	-	0	ID=Vv.00g000660.m01.CDS01;Parent=Vv.00g000660.m01
+contig_3_segment0	.	start_codon	53203	53205	.	-	.	ID=Vv.00g000660.m01:start;Parent=Vv.00g000660.m01
+contig_3_segment0	.	stop_codon	51430	51432	.	-	.	ID=Vv.00g000660.m01:stop;Parent=Vv.00g000660.m01
+contig_3_segment0	.	gene	122487	122993	.	+	.	ID=Vv.00g001470;Name=VACWR157
+contig_3_segment0	.	mRNA	122487	122993	.	+	.	ID=Vv.00g001470.m01;Parent=Vv.00g001470;product=Protein A34;Dbxref=InterPro:IPR001304,PFAM:PF00059
+contig_3_segment0	.	exon	122487	122993	.	+	.	ID=Vv.00g001470.m01.exon01;Parent=Vv.00g001470.m01
+contig_3_segment0	.	CDS	122487	122993	.	+	0	ID=Vv.00g001470.m01.CDS01;Parent=Vv.00g001470.m01
+contig_3_segment0	.	start_codon	122487	122489	.	+	.	ID=Vv.00g001470.m01:start;Parent=Vv.00g001470.m01
+contig_3_segment0	.	stop_codon	122991	122993	.	+	.	ID=Vv.00g001470.m01:stop;Parent=Vv.00g001470.m01
+contig_3_segment0	.	gene	8218	8559	.	-	.	ID=Vv.00g000170;Name=N1L
+contig_3_segment0	.	mRNA	8218	8559	.	-	.	ID=Vv.00g000170.m01;Parent=Vv.00g000170;product=Protein N1;Dbxref=InterPro:IPR022819,PFAM:PF06227
+contig_3_segment0	.	exon	8218	8559	.	-	.	ID=Vv.00g000170.m01.exon01;Parent=Vv.00g000170.m01
+contig_3_segment0	.	CDS	8218	8559	.	-	0	ID=Vv.00g000170.m01.CDS01;Parent=Vv.00g000170.m01
+contig_3_segment0	.	start_codon	8557	8559	.	-	.	ID=Vv.00g000170.m01:start;Parent=Vv.00g000170.m01
+contig_3_segment0	.	stop_codon	8218	8220	.	-	.	ID=Vv.00g000170.m01:stop;Parent=Vv.00g000170.m01
+contig_3_segment0	.	gene	80034	80690	.	+	.	ID=Vv.00g000980;Name=UNG
+contig_3_segment0	.	mRNA	80034	80690	.	+	.	ID=Vv.00g000980.m01;Parent=Vv.00g000980;product=Uracil-DNA glycosylase
+contig_3_segment0	.	exon	80034	80690	.	+	.	ID=Vv.00g000980.m01.exon01;Parent=Vv.00g000980.m01
+contig_3_segment0	.	CDS	80034	80690	.	+	0	ID=Vv.00g000980.m01.CDS01;Parent=Vv.00g000980.m01
+contig_3_segment0	.	start_codon	80034	80036	.	+	.	ID=Vv.00g000980.m01:start;Parent=Vv.00g000980.m01
+contig_3_segment0	.	stop_codon	80688	80690	.	+	.	ID=Vv.00g000980.m01:stop;Parent=Vv.00g000980.m01
+contig_3_segment0	.	gene	139937	140338	.	+	.	ID=Vv.00g001710;Name=VACWR184
+contig_3_segment0	.	mRNA	139937	140338	.	+	.	ID=Vv.00g001710.m01;Parent=Vv.00g001710;product=Poxin
+contig_3_segment0	.	exon	139937	140338	.	+	.	ID=Vv.00g001710.m01.exon01;Parent=Vv.00g001710.m01
+contig_3_segment0	.	CDS	139937	140338	.	+	0	ID=Vv.00g001710.m01.CDS01;Parent=Vv.00g001710.m01
+contig_3_segment0	.	start_codon	139937	139939	.	+	.	ID=Vv.00g001710.m01:start;Parent=Vv.00g001710.m01
+contig_3_segment0	.	stop_codon	140336	140338	.	+	.	ID=Vv.00g001710.m01:stop;Parent=Vv.00g001710.m01
+contig_3_segment0	.	gene	117226	117522	.	-	.	ID=Vv.00g001360;Name=VACWR146
+contig_3_segment0	.	mRNA	117226	117522	.	-	.	ID=Vv.00g001360.m01;Parent=Vv.00g001360;product=17 kDa A-type inclusion protein
+contig_3_segment0	.	exon	117226	117522	.	-	.	ID=Vv.00g001360.m01.exon01;Parent=Vv.00g001360.m01
+contig_3_segment0	.	CDS	117226	117522	.	-	0	ID=Vv.00g001360.m01.CDS01;Parent=Vv.00g001360.m01
+contig_3_segment0	.	stop_codon	117226	117228	.	-	.	ID=Vv.00g001360.m01:stop;Parent=Vv.00g001360.m01
+contig_3_segment0	.	gene	2840	3499	.	-	.	ID=Vv.00g000070;Name=B23R_0
+contig_3_segment0	.	mRNA	2840	3499	.	-	.	ID=Vv.00g000070.m01;Parent=Vv.00g000070;product=Ankyrin repeat protein C17/B23
+contig_3_segment0	.	exon	2840	3499	.	-	.	ID=Vv.00g000070.m01.exon01;Parent=Vv.00g000070.m01
+contig_3_segment0	.	CDS	2840	3499	.	-	0	ID=Vv.00g000070.m01.CDS01;Parent=Vv.00g000070.m01
+contig_3_segment0	.	stop_codon	2840	2842	.	-	.	ID=Vv.00g000070.m01:stop;Parent=Vv.00g000070.m01
+contig_3_segment0	.	gene	101263	101547	.	-	.	ID=Vv.00g001180;Name=A9L
+contig_3_segment0	.	mRNA	101263	101547	.	-	.	ID=Vv.00g001180.m01;Parent=Vv.00g001180;product=Virion membrane protein A9;Dbxref=InterPro:IPR006920,PFAM:PF04835
+contig_3_segment0	.	exon	101263	101547	.	-	.	ID=Vv.00g001180.m01.exon01;Parent=Vv.00g001180.m01
+contig_3_segment0	.	CDS	101263	101547	.	-	0	ID=Vv.00g001180.m01.CDS01;Parent=Vv.00g001180.m01
+contig_3_segment0	.	start_codon	101545	101547	.	-	.	ID=Vv.00g001180.m01:start;Parent=Vv.00g001180.m01
+contig_3_segment0	.	stop_codon	101263	101265	.	-	.	ID=Vv.00g001180.m01:stop;Parent=Vv.00g001180.m01
+contig_3_segment0	.	gene	157745	157903	.	-	.	ID=Vv.00g001970
+contig_3_segment0	.	mRNA	157745	157903	.	-	.	ID=Vv.00g001970.m01;Parent=Vv.00g001970
+contig_3_segment0	.	exon	157745	157903	.	-	.	ID=Vv.00g001970.m01.exon01;Parent=Vv.00g001970.m01
+contig_3_segment0	.	CDS	157745	157903	.	-	0	ID=Vv.00g001970.m01.CDS01;Parent=Vv.00g001970.m01
+contig_3_segment0	.	start_codon	157901	157903	.	-	.	ID=Vv.00g001970.m01:start;Parent=Vv.00g001970.m01
+contig_3_segment0	.	stop_codon	157745	157747	.	-	.	ID=Vv.00g001970.m01:stop;Parent=Vv.00g001970.m01
+contig_3_segment0	.	gene	21432	23339	.	-	.	ID=Vv.00g000370;Name=MVA042L
+contig_3_segment0	.	mRNA	21432	23339	.	-	.	ID=Vv.00g000370.m01;Parent=Vv.00g000370;product=Protein F12;Dbxref=GO:0016032,InterPro:IPR005005,PFAM:PF03337
+contig_3_segment0	.	exon	21432	23339	.	-	.	ID=Vv.00g000370.m01.exon01;Parent=Vv.00g000370.m01
+contig_3_segment0	.	CDS	21432	23339	.	-	0	ID=Vv.00g000370.m01.CDS01;Parent=Vv.00g000370.m01
+contig_3_segment0	.	start_codon	23337	23339	.	-	.	ID=Vv.00g000370.m01:start;Parent=Vv.00g000370.m01
+contig_3_segment0	.	stop_codon	21432	21434	.	-	.	ID=Vv.00g000370.m01:stop;Parent=Vv.00g000370.m01
+contig_3_segment0	.	gene	79333	80034	.	+	.	ID=Vv.00g000970;Name=MVA100R
+contig_3_segment0	.	mRNA	79333	80034	.	+	.	ID=Vv.00g000970.m01;Parent=Vv.00g000970;product=Core protein D3;Dbxref=InterPro:IPR007660,PFAM:PF04580
+contig_3_segment0	.	exon	79333	80034	.	+	.	ID=Vv.00g000970.m01.exon01;Parent=Vv.00g000970.m01
+contig_3_segment0	.	CDS	79333	80034	.	+	0	ID=Vv.00g000970.m01.CDS01;Parent=Vv.00g000970.m01
+contig_3_segment0	.	start_codon	79333	79335	.	+	.	ID=Vv.00g000970.m01:start;Parent=Vv.00g000970.m01
+contig_3_segment0	.	stop_codon	80032	80034	.	+	.	ID=Vv.00g000970.m01:stop;Parent=Vv.00g000970.m01
+contig_3_segment0	.	gene	69681	70196	.	-	.	ID=Vv.00g000870;Name=H1L
+contig_3_segment0	.	mRNA	69681	70196	.	-	.	ID=Vv.00g000870.m01;Parent=Vv.00g000870;product=Dual specificity protein phosphatase H1;Dbxref=GO:0008138, GO:0006470, GO:0016311, GO:0004725,InterPro:IPR000340,PFAM:PF00782
+contig_3_segment0	.	exon	69681	70196	.	-	.	ID=Vv.00g000870.m01.exon01;Parent=Vv.00g000870.m01
+contig_3_segment0	.	CDS	69681	70196	.	-	0	ID=Vv.00g000870.m01.CDS01;Parent=Vv.00g000870.m01
+contig_3_segment0	.	start_codon	70194	70196	.	-	.	ID=Vv.00g000870.m01:start;Parent=Vv.00g000870.m01
+contig_3_segment0	.	stop_codon	69681	69683	.	-	.	ID=Vv.00g000870.m01:stop;Parent=Vv.00g000870.m01
+contig_3_segment0	.	gene	89780	90643	.	-	.	ID=Vv.00g001070;Name=MVA109L
+contig_3_segment0	.	mRNA	89780	90643	.	-	.	ID=Vv.00g001070.m01;Parent=Vv.00g001070;product=mRNA-capping enzyme regulatory subunit;Dbxref=GO:0004482, GO:0006370,InterPro:IPR005009,PFAM:PF03341
+contig_3_segment0	.	exon	89780	90643	.	-	.	ID=Vv.00g001070.m01.exon01;Parent=Vv.00g001070.m01
+contig_3_segment0	.	CDS	89780	90643	.	-	0	ID=Vv.00g001070.m01.CDS01;Parent=Vv.00g001070.m01
+contig_3_segment0	.	start_codon	90641	90643	.	-	.	ID=Vv.00g001070.m01:start;Parent=Vv.00g001070.m01
+contig_3_segment0	.	stop_codon	89780	89782	.	-	.	ID=Vv.00g001070.m01:stop;Parent=Vv.00g001070.m01
+contig_3_segment0	.	gene	92353	92805	.	-	.	ID=Vv.00g001090;Name=VLTF2
+contig_3_segment0	.	mRNA	92353	92805	.	-	.	ID=Vv.00g001090.m01;Parent=Vv.00g001090;product=Viral late gene transcription factor 2;Dbxref=GO:0008270,InterPro:IPR004975,InterPro:IPR010507,PFAM:PF03295,PFAM:PF06467
+contig_3_segment0	.	exon	92353	92805	.	-	.	ID=Vv.00g001090.m01.exon01;Parent=Vv.00g001090.m01
+contig_3_segment0	.	CDS	92353	92805	.	-	0	ID=Vv.00g001090.m01.CDS01;Parent=Vv.00g001090.m01
+contig_3_segment0	.	start_codon	92803	92805	.	-	.	ID=Vv.00g001090.m01:start;Parent=Vv.00g001090.m01
+contig_3_segment0	.	stop_codon	92353	92355	.	-	.	ID=Vv.00g001090.m01:stop;Parent=Vv.00g001090.m01
+contig_3_segment0	.	gene	24773	24922	.	-	.	ID=Vv.00g000400
+contig_3_segment0	.	mRNA	24773	24922	.	-	.	ID=Vv.00g000400.m01;Parent=Vv.00g000400
+contig_3_segment0	.	exon	24773	24922	.	-	.	ID=Vv.00g000400.m01.exon01;Parent=Vv.00g000400.m01
+contig_3_segment0	.	CDS	24773	24922	.	-	0	ID=Vv.00g000400.m01.CDS01;Parent=Vv.00g000400.m01
+contig_3_segment0	.	start_codon	24920	24922	.	-	.	ID=Vv.00g000400.m01:start;Parent=Vv.00g000400.m01
+contig_3_segment0	.	stop_codon	24773	24775	.	-	.	ID=Vv.00g000400.m01:stop;Parent=Vv.00g000400.m01
+contig_3_segment0	.	gene	100404	101270	.	+	.	ID=Vv.00g001170;Name=VITF3S
+contig_3_segment0	.	mRNA	100404	101270	.	+	.	ID=Vv.00g001170.m01;Parent=Vv.00g001170;product=Intermediate transcription factor 3 small subunit;Dbxref=InterPro:IPR006834,PFAM:PF04745
+contig_3_segment0	.	exon	100404	101270	.	+	.	ID=Vv.00g001170.m01.exon01;Parent=Vv.00g001170.m01
+contig_3_segment0	.	CDS	100404	101270	.	+	0	ID=Vv.00g001170.m01.CDS01;Parent=Vv.00g001170.m01
+contig_3_segment0	.	start_codon	100404	100406	.	+	.	ID=Vv.00g001170.m01:start;Parent=Vv.00g001170.m01
+contig_3_segment0	.	stop_codon	101268	101270	.	+	.	ID=Vv.00g001170.m01:stop;Parent=Vv.00g001170.m01
+contig_3_segment0	.	gene	134340	135998	.	+	.	ID=Vv.00g001660;Name=LIG
+contig_3_segment0	.	mRNA	134340	135998	.	+	.	ID=Vv.00g001660.m01;Parent=Vv.00g001660;product=DNA ligase;Dbxref=GO:0003677, GO:0006310, GO:0006281, GO:0003910, GO:0071897, GO:0005524, GO:0003909, GO:0051103,InterPro:IPR000977,InterPro:IPR012308,InterPro:IPR012309,InterPro:IPR012310,PFAM:PF01068,PFAM:PF04675,PFAM:PF04679,TIGRFAM:TIGR00574
+contig_3_segment0	.	exon	134340	135998	.	+	.	ID=Vv.00g001660.m01.exon01;Parent=Vv.00g001660.m01
+contig_3_segment0	.	CDS	134340	135998	.	+	0	ID=Vv.00g001660.m01.CDS01;Parent=Vv.00g001660.m01
+contig_3_segment0	.	start_codon	134340	134342	.	+	.	ID=Vv.00g001660.m01:start;Parent=Vv.00g001660.m01
+contig_3_segment0	.	stop_codon	135996	135998	.	+	.	ID=Vv.00g001660.m01:stop;Parent=Vv.00g001660.m01
+contig_3_segment0	.	gene	123634	124260	.	+	.	ID=Vv.00g001490;Name=VACWR159
+contig_3_segment0	.	mRNA	123634	124260	.	+	.	ID=Vv.00g001490.m01;Parent=Vv.00g001490;product=Protein A36;Dbxref=InterPro:IPR010274,PFAM:PF05950
+contig_3_segment0	.	exon	123634	124260	.	+	.	ID=Vv.00g001490.m01.exon01;Parent=Vv.00g001490.m01
+contig_3_segment0	.	CDS	123634	124260	.	+	0	ID=Vv.00g001490.m01.CDS01;Parent=Vv.00g001490.m01
+contig_3_segment0	.	start_codon	123634	123636	.	+	.	ID=Vv.00g001490.m01:start;Parent=Vv.00g001490.m01
+contig_3_segment0	.	stop_codon	124258	124260	.	+	.	ID=Vv.00g001490.m01:stop;Parent=Vv.00g001490.m01
+contig_3_segment0	.	gene	13034	13228	.	-	.	ID=Vv.00g000240;Name=VACWR038
+contig_3_segment0	.	mRNA	13034	13228	.	-	.	ID=Vv.00g000240.m01;Parent=Vv.00g000240;product=Protein K6;Dbxref=InterPro:IPR022742,PFAM:PF12146
+contig_3_segment0	.	exon	13034	13228	.	-	.	ID=Vv.00g000240.m01.exon01;Parent=Vv.00g000240.m01
+contig_3_segment0	.	CDS	13034	13228	.	-	0	ID=Vv.00g000240.m01.CDS01;Parent=Vv.00g000240.m01
+contig_3_segment0	.	start_codon	13226	13228	.	-	.	ID=Vv.00g000240.m01:start;Parent=Vv.00g000240.m01
+contig_3_segment0	.	stop_codon	13034	13036	.	-	.	ID=Vv.00g000240.m01:stop;Parent=Vv.00g000240.m01
+contig_3_segment0	.	gene	3496	3717	.	-	.	ID=Vv.00g000080;Name=VACWR016
+contig_3_segment0	.	mRNA	3496	3717	.	-	.	ID=Vv.00g000080.m01;Parent=Vv.00g000080;product=Uncharacterized protein 16
+contig_3_segment0	.	exon	3496	3717	.	-	.	ID=Vv.00g000080.m01.exon01;Parent=Vv.00g000080.m01
+contig_3_segment0	.	CDS	3496	3717	.	-	0	ID=Vv.00g000080.m01.CDS01;Parent=Vv.00g000080.m01
+contig_3_segment0	.	start_codon	3715	3717	.	-	.	ID=Vv.00g000080.m01:start;Parent=Vv.00g000080.m01
+contig_3_segment0	.	stop_codon	3496	3498	.	-	.	ID=Vv.00g000080.m01:stop;Parent=Vv.00g000080.m01
+contig_3_segment0	.	gene	128816	129202	.	+	.	ID=Vv.00g001570;Name=MVA154R
+contig_3_segment0	.	mRNA	128816	129202	.	+	.	ID=Vv.00g001570.m01;Parent=Vv.00g001570;product=Profilin;Dbxref=GO:0003779,InterPro:IPR005455,PFAM:PF00235
+contig_3_segment0	.	exon	128816	129202	.	+	.	ID=Vv.00g001570.m01.exon01;Parent=Vv.00g001570.m01
+contig_3_segment0	.	CDS	128816	129202	.	+	0	ID=Vv.00g001570.m01.CDS01;Parent=Vv.00g001570.m01
+contig_3_segment0	.	start_codon	128816	128818	.	+	.	ID=Vv.00g001570.m01:start;Parent=Vv.00g001570.m01
+contig_3_segment0	.	stop_codon	129200	129202	.	+	.	ID=Vv.00g001570.m01:stop;Parent=Vv.00g001570.m01
+contig_3_segment0	.	gene	44378	46693	.	-	.	ID=Vv.00g000610;Name=I4L
+contig_3_segment0	.	mRNA	44378	46693	.	-	.	ID=Vv.00g000610.m01;Parent=Vv.00g000610;product=Ribonucleoside-diphosphate reductase large subunit;Dbxref=GO:0055114, GO:0004748, GO:0005524, GO:0006260,InterPro:IPR000788,InterPro:IPR005144,InterPro:IPR013346,InterPro:IPR013509,PFAM:PF00317,PFAM:PF02867,PFAM:PF03477,TIGRFAM:TIGR02506
+contig_3_segment0	.	exon	44378	46693	.	-	.	ID=Vv.00g000610.m01.exon01;Parent=Vv.00g000610.m01
+contig_3_segment0	.	CDS	44378	46693	.	-	0	ID=Vv.00g000610.m01.CDS01;Parent=Vv.00g000610.m01
+contig_3_segment0	.	start_codon	46691	46693	.	-	.	ID=Vv.00g000610.m01:start;Parent=Vv.00g000610.m01
+contig_3_segment0	.	stop_codon	44378	44380	.	-	.	ID=Vv.00g000610.m01:stop;Parent=Vv.00g000610.m01
+contig_3_segment0	.	gene	120632	121009	.	+	.	ID=Vv.00g001440;Name=A31R
+contig_3_segment0	.	mRNA	120632	121009	.	+	.	ID=Vv.00g001440.m01;Parent=Vv.00g001440;product=Protein A31;Dbxref=InterPro:IPR008786,PFAM:PF05771
+contig_3_segment0	.	exon	120632	121009	.	+	.	ID=Vv.00g001440.m01.exon01;Parent=Vv.00g001440.m01
+contig_3_segment0	.	CDS	120632	121009	.	+	0	ID=Vv.00g001440.m01.CDS01;Parent=Vv.00g001440.m01
+contig_3_segment0	.	start_codon	120632	120634	.	+	.	ID=Vv.00g001440.m01:start;Parent=Vv.00g001440.m01
+contig_3_segment0	.	stop_codon	121007	121009	.	+	.	ID=Vv.00g001440.m01:stop;Parent=Vv.00g001440.m01
+contig_3_segment0	.	gene	105196	105759	.	-	.	ID=Vv.00g001210;Name=MVA123L
+contig_3_segment0	.	mRNA	105196	105759	.	-	.	ID=Vv.00g001210.m01;Parent=Vv.00g001210;product=25 kDa core protein A12L;Dbxref=InterPro:IPR006744,PFAM:PF04651
+contig_3_segment0	.	exon	105196	105759	.	-	.	ID=Vv.00g001210.m01.exon01;Parent=Vv.00g001210.m01
+contig_3_segment0	.	CDS	105196	105759	.	-	0	ID=Vv.00g001210.m01.CDS01;Parent=Vv.00g001210.m01
+contig_3_segment0	.	start_codon	105757	105759	.	-	.	ID=Vv.00g001210.m01:start;Parent=Vv.00g001210.m01
+contig_3_segment0	.	stop_codon	105196	105198	.	-	.	ID=Vv.00g001210.m01:stop;Parent=Vv.00g001210.m01
+contig_3_segment0	.	gene	8678	9190	.	-	.	ID=Vv.00g000180;Name=VACWR029
+contig_3_segment0	.	mRNA	8678	9190	.	-	.	ID=Vv.00g000180.m01;Parent=Vv.00g000180;product=Protein N2;Dbxref=InterPro:IPR022819,PFAM:PF06227
+contig_3_segment0	.	exon	8678	9190	.	-	.	ID=Vv.00g000180.m01.exon01;Parent=Vv.00g000180.m01
+contig_3_segment0	.	CDS	8678	9190	.	-	0	ID=Vv.00g000180.m01.CDS01;Parent=Vv.00g000180.m01
+contig_3_segment0	.	start_codon	9188	9190	.	-	.	ID=Vv.00g000180.m01:start;Parent=Vv.00g000180.m01
+contig_3_segment0	.	stop_codon	8678	8680	.	-	.	ID=Vv.00g000180.m01:stop;Parent=Vv.00g000180.m01
+contig_3_segment0	.	gene	30315	30887	.	-	.	ID=Vv.00g000460;Name=E3L
+contig_3_segment0	.	mRNA	30315	30887	.	-	.	ID=Vv.00g000460.m01;Parent=Vv.00g000460;product=Protein E3;Dbxref=GO:0003726, GO:0003723, GO:0039503,InterPro:IPR000607,InterPro:IPR014720,PFAM:PF00035,PFAM:PF02295
+contig_3_segment0	.	exon	30315	30887	.	-	.	ID=Vv.00g000460.m01.exon01;Parent=Vv.00g000460.m01
+contig_3_segment0	.	CDS	30315	30887	.	-	0	ID=Vv.00g000460.m01.CDS01;Parent=Vv.00g000460.m01
+contig_3_segment0	.	start_codon	30885	30887	.	-	.	ID=Vv.00g000460.m01:start;Parent=Vv.00g000460.m01
+contig_3_segment0	.	stop_codon	30315	30317	.	-	.	ID=Vv.00g000460.m01:stop;Parent=Vv.00g000460.m01
+contig_3_segment0	.	gene	117060	117257	.	-	.	ID=Vv.00g001350;Name=ATI3
+contig_3_segment0	.	mRNA	117060	117257	.	-	.	ID=Vv.00g001350.m01;Parent=Vv.00g001350;product=7 kDa A-type inclusion protein
+contig_3_segment0	.	exon	117060	117257	.	-	.	ID=Vv.00g001350.m01.exon01;Parent=Vv.00g001350.m01
+contig_3_segment0	.	CDS	117060	117257	.	-	0	ID=Vv.00g001350.m01.CDS01;Parent=Vv.00g001350.m01
+contig_3_segment0	.	start_codon	117255	117257	.	-	.	ID=Vv.00g001350.m01:start;Parent=Vv.00g001350.m01
+contig_3_segment0	.	stop_codon	117060	117062	.	-	.	ID=Vv.00g001350.m01:stop;Parent=Vv.00g001350.m01
+contig_3_segment0	.	gene	125205	125378	.	+	.	ID=Vv.00g001510
+contig_3_segment0	.	mRNA	125205	125378	.	+	.	ID=Vv.00g001510.m01;Parent=Vv.00g001510
+contig_3_segment0	.	exon	125205	125378	.	+	.	ID=Vv.00g001510.m01.exon01;Parent=Vv.00g001510.m01
+contig_3_segment0	.	CDS	125205	125378	.	+	0	ID=Vv.00g001510.m01.CDS01;Parent=Vv.00g001510.m01
+contig_3_segment0	.	start_codon	125205	125207	.	+	.	ID=Vv.00g001510.m01:start;Parent=Vv.00g001510.m01
+contig_3_segment0	.	stop_codon	125376	125378	.	+	.	ID=Vv.00g001510.m01:stop;Parent=Vv.00g001510.m01
+contig_3_segment0	.	gene	149080	149556	.	+	.	ID=Vv.00g001840;Name=B15R
+contig_3_segment0	.	mRNA	149080	149556	.	+	.	ID=Vv.00g001840.m01;Parent=Vv.00g001840;product=Protein B14;Dbxref=InterPro:IPR022819,PFAM:PF06227
+contig_3_segment0	.	exon	149080	149556	.	+	.	ID=Vv.00g001840.m01.exon01;Parent=Vv.00g001840.m01
+contig_3_segment0	.	CDS	149080	149556	.	+	0	ID=Vv.00g001840.m01.CDS01;Parent=Vv.00g001840.m01
+contig_3_segment0	.	stop_codon	149554	149556	.	+	.	ID=Vv.00g001840.m01:stop;Parent=Vv.00g001840.m01
+contig_3_segment0	.	gene	80722	82185	.	+	.	ID=Vv.00g000990;Name=VACWR110
+contig_3_segment0	.	mRNA	80722	82185	.	+	.	ID=Vv.00g000990.m01;Parent=Vv.00g000990;product=Primase D5;Dbxref=InterPro:IPR014818,PFAM:PF08706
+contig_3_segment0	.	exon	80722	82185	.	+	.	ID=Vv.00g000990.m01.exon01;Parent=Vv.00g000990.m01
+contig_3_segment0	.	CDS	80722	82185	.	+	0	ID=Vv.00g000990.m01.CDS01;Parent=Vv.00g000990.m01
+contig_3_segment0	.	start_codon	80722	80724	.	+	.	ID=Vv.00g000990.m01:start;Parent=Vv.00g000990.m01
+contig_3_segment0	.	stop_codon	82183	82185	.	+	.	ID=Vv.00g000990.m01:stop;Parent=Vv.00g000990.m01
+contig_3_segment0	.	gene	42319	43257	.	-	.	ID=Vv.00g000580;Name=MVA062L
+contig_3_segment0	.	mRNA	42319	43257	.	-	.	ID=Vv.00g000580.m01;Parent=Vv.00g000580;product=Telomere-binding protein I1;Dbxref=InterPro:IPR004969,PFAM:PF03289
+contig_3_segment0	.	exon	42319	43257	.	-	.	ID=Vv.00g000580.m01.exon01;Parent=Vv.00g000580.m01
+contig_3_segment0	.	CDS	42319	43257	.	-	0	ID=Vv.00g000580.m01.CDS01;Parent=Vv.00g000580.m01
+contig_3_segment0	.	start_codon	43255	43257	.	-	.	ID=Vv.00g000580.m01:start;Parent=Vv.00g000580.m01
+contig_3_segment0	.	stop_codon	42319	42321	.	-	.	ID=Vv.00g000580.m01:stop;Parent=Vv.00g000580.m01
+contig_3_segment0	.	gene	2455	2853	.	-	.	ID=Vv.00g000060;Name=D4L_0
+contig_3_segment0	.	mRNA	2455	2853	.	-	.	ID=Vv.00g000060.m01;Parent=Vv.00g000060;product=Ankyrin repeat protein D4L/I2R
+contig_3_segment0	.	exon	2455	2853	.	-	.	ID=Vv.00g000060.m01.exon01;Parent=Vv.00g000060.m01
+contig_3_segment0	.	CDS	2455	2853	.	-	0	ID=Vv.00g000060.m01.CDS01;Parent=Vv.00g000060.m01
+contig_3_segment0	.	stop_codon	2455	2457	.	-	.	ID=Vv.00g000060.m01:stop;Parent=Vv.00g000060.m01
+contig_3_segment0	.	gene	157266	157403	.	+	.	ID=Vv.00g001960;Name=B24R_1
+contig_3_segment0	.	mRNA	157266	157403	.	+	.	ID=Vv.00g001960.m01;Parent=Vv.00g001960;product=Ankyrin repeat protein C18/B24
+contig_3_segment0	.	exon	157266	157403	.	+	.	ID=Vv.00g001960.m01.exon01;Parent=Vv.00g001960.m01
+contig_3_segment0	.	CDS	157266	157403	.	+	0	ID=Vv.00g001960.m01.CDS01;Parent=Vv.00g001960.m01
+contig_3_segment0	.	start_codon	157266	157268	.	+	.	ID=Vv.00g001960.m01:start;Parent=Vv.00g001960.m01
+contig_3_segment0	.	stop_codon	157401	157403	.	+	.	ID=Vv.00g001960.m01:stop;Parent=Vv.00g001960.m01
+contig_3_segment0	.	gene	19034	20353	.	-	.	ID=Vv.00g000340;Name=VPK2
+contig_3_segment0	.	mRNA	19034	20353	.	-	.	ID=Vv.00g000340.m01;Parent=Vv.00g000340;product=Serine/threonine-protein kinase 2;Dbxref=GO:0005524, GO:0004672, GO:0006468,InterPro:IPR008790,PFAM:PF05445
+contig_3_segment0	.	exon	19034	20353	.	-	.	ID=Vv.00g000340.m01.exon01;Parent=Vv.00g000340.m01
+contig_3_segment0	.	CDS	19034	20353	.	-	0	ID=Vv.00g000340.m01.CDS01;Parent=Vv.00g000340.m01
+contig_3_segment0	.	start_codon	20351	20353	.	-	.	ID=Vv.00g000340.m01:start;Parent=Vv.00g000340.m01
+contig_3_segment0	.	stop_codon	19034	19036	.	-	.	ID=Vv.00g000340.m01:stop;Parent=Vv.00g000340.m01
+contig_3_segment0	.	gene	4410	4901	.	-	.	ID=Vv.00g000100;Name=C9L_0
+contig_3_segment0	.	mRNA	4410	4901	.	-	.	ID=Vv.00g000100.m01;Parent=Vv.00g000100;product=Ankyrin repeat protein C9L
+contig_3_segment0	.	exon	4410	4901	.	-	.	ID=Vv.00g000100.m01.exon01;Parent=Vv.00g000100.m01
+contig_3_segment0	.	CDS	4410	4901	.	-	0	ID=Vv.00g000100.m01.CDS01;Parent=Vv.00g000100.m01
+contig_3_segment0	.	stop_codon	4410	4412	.	-	.	ID=Vv.00g000100.m01:stop;Parent=Vv.00g000100.m01
+contig_3_segment0	.	gene	86477	87106	.	+	.	ID=Vv.00g001040;Name=D9R
+contig_3_segment0	.	mRNA	86477	87106	.	+	.	ID=Vv.00g001040.m01;Parent=Vv.00g001040;product=mRNA-decapping protein D9;Dbxref=GO:0016787,InterPro:IPR000086,PFAM:PF00293
+contig_3_segment0	.	exon	86477	87106	.	+	.	ID=Vv.00g001040.m01.exon01;Parent=Vv.00g001040.m01
+contig_3_segment0	.	CDS	86477	87106	.	+	0	ID=Vv.00g001040.m01.CDS01;Parent=Vv.00g001040.m01
+contig_3_segment0	.	start_codon	86477	86479	.	+	.	ID=Vv.00g001040.m01:start;Parent=Vv.00g001040.m01
+contig_3_segment0	.	stop_codon	87104	87106	.	+	.	ID=Vv.00g001040.m01:stop;Parent=Vv.00g001040.m01
+contig_3_segment0	.	gene	108588	110054	.	+	.	ID=Vv.00g001280;Name=MVA129R
+contig_3_segment0	.	mRNA	108588	110054	.	+	.	ID=Vv.00g001280.m01;Parent=Vv.00g001280;product=Transcript termination protein A18;Dbxref=GO:0016787, GO:0005524, GO:0003677,InterPro:IPR006935,PFAM:PF04851
+contig_3_segment0	.	exon	108588	110054	.	+	.	ID=Vv.00g001280.m01.exon01;Parent=Vv.00g001280.m01
+contig_3_segment0	.	CDS	108588	110054	.	+	0	ID=Vv.00g001280.m01.CDS01;Parent=Vv.00g001280.m01
+contig_3_segment0	.	start_codon	108588	108590	.	+	.	ID=Vv.00g001280.m01:start;Parent=Vv.00g001280.m01
+contig_3_segment0	.	stop_codon	110052	110054	.	+	.	ID=Vv.00g001280.m01:stop;Parent=Vv.00g001280.m01
+contig_3_segment0	.	gene	131242	131607	.	+	.	ID=Vv.00g001610;Name=MVA158R
+contig_3_segment0	.	mRNA	131242	131607	.	+	.	ID=Vv.00g001610.m01;Parent=Vv.00g001610;product=Cu-Zn superoxide dismutase-like protein
+contig_3_segment0	.	exon	131242	131607	.	+	.	ID=Vv.00g001610.m01.exon01;Parent=Vv.00g001610.m01
+contig_3_segment0	.	CDS	131242	131607	.	+	0	ID=Vv.00g001610.m01.CDS01;Parent=Vv.00g001610.m01
+contig_3_segment0	.	start_codon	131242	131244	.	+	.	ID=Vv.00g001610.m01:start;Parent=Vv.00g001610.m01
+contig_3_segment0	.	stop_codon	131605	131607	.	+	.	ID=Vv.00g001610.m01:stop;Parent=Vv.00g001610.m01
+contig_3_segment0	.	gene	65824	69684	.	+	.	ID=Vv.00g000860;Name=RPO147
+contig_3_segment0	.	mRNA	65824	69684	.	+	.	ID=Vv.00g000860.m01;Parent=Vv.00g000860;product=DNA-directed RNA polymerase 147 kDa polypeptide;Dbxref=GO:0003899, GO:0003677, GO:0006351,InterPro:IPR000722,InterPro:IPR007066,InterPro:IPR007080,InterPro:IPR007081,InterPro:IPR007083,PFAM:PF00623,PFAM:PF04983,PFAM:PF04997,PFAM:PF04998,PFAM:PF05000
+contig_3_segment0	.	exon	65824	69684	.	+	.	ID=Vv.00g000860.m01.exon01;Parent=Vv.00g000860.m01
+contig_3_segment0	.	CDS	65824	69684	.	+	0	ID=Vv.00g000860.m01.CDS01;Parent=Vv.00g000860.m01
+contig_3_segment0	.	start_codon	65824	65826	.	+	.	ID=Vv.00g000860.m01:start;Parent=Vv.00g000860.m01
+contig_3_segment0	.	stop_codon	69682	69684	.	+	.	ID=Vv.00g000860.m01:stop;Parent=Vv.00g000860.m01
+contig_3_segment0	.	gene	98218	100350	.	-	.	ID=Vv.00g001160;Name=VETFL
+contig_3_segment0	.	mRNA	98218	100350	.	-	.	ID=Vv.00g001160.m01;Parent=Vv.00g001160;product=Early transcription factor 82 kDa subunit;Dbxref=GO:0045893,InterPro:IPR007532,PFAM:PF04441
+contig_3_segment0	.	exon	98218	100350	.	-	.	ID=Vv.00g001160.m01.exon01;Parent=Vv.00g001160.m01
+contig_3_segment0	.	CDS	98218	100350	.	-	0	ID=Vv.00g001160.m01.CDS01;Parent=Vv.00g001160.m01
+contig_3_segment0	.	start_codon	100348	100350	.	-	.	ID=Vv.00g001160.m01:start;Parent=Vv.00g001160.m01
+contig_3_segment0	.	stop_codon	98218	98220	.	-	.	ID=Vv.00g001160.m01:stop;Parent=Vv.00g001160.m01
+contig_3_segment0	.	gene	138700	139623	.	+	.	ID=Vv.00g001700;Name=VPK1
+contig_3_segment0	.	mRNA	138700	139623	.	+	.	ID=Vv.00g001700.m01;Parent=Vv.00g001700;product=B1 kinase;Dbxref=GO:0004672, GO:0005524, GO:0006468,InterPro:IPR000719,PFAM:PF00069
+contig_3_segment0	.	exon	138700	139623	.	+	.	ID=Vv.00g001700.m01.exon01;Parent=Vv.00g001700.m01
+contig_3_segment0	.	CDS	138700	139623	.	+	0	ID=Vv.00g001700.m01.CDS01;Parent=Vv.00g001700.m01
+contig_3_segment0	.	stop_codon	139621	139623	.	+	.	ID=Vv.00g001700.m01:stop;Parent=Vv.00g001700.m01
+contig_3_segment0	.	gene	136044	136976	.	+	.	ID=Vv.00g001670;Name=MVA164R
+contig_3_segment0	.	mRNA	136044	136976	.	+	.	ID=Vv.00g001670.m01;Parent=Vv.00g001670;product=Protein A51;Dbxref=InterPro:IPR007032,PFAM:PF04948
+contig_3_segment0	.	exon	136044	136976	.	+	.	ID=Vv.00g001670.m01.exon01;Parent=Vv.00g001670.m01
+contig_3_segment0	.	CDS	136044	136976	.	+	0	ID=Vv.00g001670.m01.CDS01;Parent=Vv.00g001670.m01
+contig_3_segment0	.	start_codon	136044	136046	.	+	.	ID=Vv.00g001670.m01:start;Parent=Vv.00g001670.m01
+contig_3_segment0	.	stop_codon	136974	136976	.	+	.	ID=Vv.00g001670.m01:stop;Parent=Vv.00g001670.m01
+contig_3_segment0	.	gene	71757	74144	.	-	.	ID=Vv.00g000900;Name=RAP94
+contig_3_segment0	.	mRNA	71757	74144	.	-	.	ID=Vv.00g000900.m01;Parent=Vv.00g000900;product=RNA polymerase-associated transcription-specificity factor RAP94;Dbxref=GO:0003700,InterPro:IPR004974,PFAM:PF03294
+contig_3_segment0	.	exon	71757	74144	.	-	.	ID=Vv.00g000900.m01.exon01;Parent=Vv.00g000900.m01
+contig_3_segment0	.	CDS	71757	74144	.	-	0	ID=Vv.00g000900.m01.CDS01;Parent=Vv.00g000900.m01
+contig_3_segment0	.	start_codon	74142	74144	.	-	.	ID=Vv.00g000900.m01:start;Parent=Vv.00g000900.m01
+contig_3_segment0	.	stop_codon	71757	71759	.	-	.	ID=Vv.00g000900.m01:stop;Parent=Vv.00g000900.m01
+contig_3_segment0	.	gene	14592	15035	.	-	.	ID=Vv.00g000270;Name=DUT
+contig_3_segment0	.	mRNA	14592	15035	.	-	.	ID=Vv.00g000270.m01;Parent=Vv.00g000270;product=Deoxyuridine 5'-triphosphate nucleotidohydrolase;Dbxref=GO:0046080, GO:0004170,InterPro:IPR008181,InterPro:IPR029054,PFAM:PF00692,TIGRFAM:TIGR00576
+contig_3_segment0	.	exon	14592	15035	.	-	.	ID=Vv.00g000270.m01.exon01;Parent=Vv.00g000270.m01
+contig_3_segment0	.	CDS	14592	15035	.	-	0	ID=Vv.00g000270.m01.CDS01;Parent=Vv.00g000270.m01
+contig_3_segment0	.	start_codon	15033	15035	.	-	.	ID=Vv.00g000270.m01:start;Parent=Vv.00g000270.m01
+contig_3_segment0	.	stop_codon	14592	14594	.	-	.	ID=Vv.00g000270.m01:stop;Parent=Vv.00g000270.m01
+contig_3_segment0	.	gene	144652	145185	.	+	.	ID=Vv.00g001770;Name=VACWR189
+contig_3_segment0	.	mRNA	144652	145185	.	+	.	ID=Vv.00g001770.m01;Parent=Vv.00g001770;product=Protein B7;Dbxref=InterPro:IPR010806,PFAM:PF07190
+contig_3_segment0	.	exon	144652	145185	.	+	.	ID=Vv.00g001770.m01.exon01;Parent=Vv.00g001770.m01
+contig_3_segment0	.	CDS	144652	145185	.	+	0	ID=Vv.00g001770.m01.CDS01;Parent=Vv.00g001770.m01
+contig_3_segment0	.	start_codon	144652	144654	.	+	.	ID=Vv.00g001770.m01:start;Parent=Vv.00g001770.m01
+contig_3_segment0	.	stop_codon	145183	145185	.	+	.	ID=Vv.00g001770.m01:stop;Parent=Vv.00g001770.m01
+contig_3_segment0	.	gene	127985	128617	.	-	.	ID=Vv.00g001560;Name=A41L
+contig_3_segment0	.	mRNA	127985	128617	.	-	.	ID=Vv.00g001560.m01;Parent=Vv.00g001560;product=Protein A41;Dbxref=InterPro:IPR003184,PFAM:PF02250
+contig_3_segment0	.	exon	127985	128617	.	-	.	ID=Vv.00g001560.m01.exon01;Parent=Vv.00g001560.m01
+contig_3_segment0	.	CDS	127985	128617	.	-	0	ID=Vv.00g001560.m01.CDS01;Parent=Vv.00g001560.m01
+contig_3_segment0	.	start_codon	128615	128617	.	-	.	ID=Vv.00g001560.m01:start;Parent=Vv.00g001560.m01
+contig_3_segment0	.	stop_codon	127985	127987	.	-	.	ID=Vv.00g001560.m01:stop;Parent=Vv.00g001560.m01
+contig_3_segment0	.	gene	41847	42173	.	-	.	ID=Vv.00g000570;Name=O2L
+contig_3_segment0	.	mRNA	41847	42173	.	-	.	ID=Vv.00g000570.m01;Parent=Vv.00g000570;product=Glutaredoxin-1;Dbxref=GO:0045454, GO:0009055, GO:0015035,InterPro:IPR002109,InterPro:IPR011899,PFAM:PF00462,TIGRFAM:TIGR02180
+contig_3_segment0	.	exon	41847	42173	.	-	.	ID=Vv.00g000570.m01.exon01;Parent=Vv.00g000570.m01
+contig_3_segment0	.	CDS	41847	42173	.	-	0	ID=Vv.00g000570.m01.CDS01;Parent=Vv.00g000570.m01
+contig_3_segment0	.	start_codon	42171	42173	.	-	.	ID=Vv.00g000570.m01:start;Parent=Vv.00g000570.m01
+contig_3_segment0	.	stop_codon	41847	41849	.	-	.	ID=Vv.00g000570.m01:stop;Parent=Vv.00g000570.m01
+contig_3_segment0	.	gene	57653	58435	.	+	.	ID=Vv.00g000740;Name=VLTF1
+contig_3_segment0	.	mRNA	57653	58435	.	+	.	ID=Vv.00g000740.m01;Parent=Vv.00g000740;product=Late transcription factor 1;Dbxref=GO:0006355,InterPro:IPR005022,PFAM:PF03355
+contig_3_segment0	.	exon	57653	58435	.	+	.	ID=Vv.00g000740.m01.exon01;Parent=Vv.00g000740.m01
+contig_3_segment0	.	CDS	57653	58435	.	+	0	ID=Vv.00g000740.m01.CDS01;Parent=Vv.00g000740.m01
+contig_3_segment0	.	start_codon	57653	57655	.	+	.	ID=Vv.00g000740.m01:start;Parent=Vv.00g000740.m01
+contig_3_segment0	.	stop_codon	58433	58435	.	+	.	ID=Vv.00g000740.m01:stop;Parent=Vv.00g000740.m01
+contig_3_segment0	.	gene	118918	119358	.	-	.	ID=Vv.00g001400;Name=VACWR151
+contig_3_segment0	.	mRNA	118918	119358	.	-	.	ID=Vv.00g001400.m01;Parent=Vv.00g001400;product=Envelope protein A28;Dbxref=GO:0016032, GO:0019031,InterPro:IPR007664,PFAM:PF04584
+contig_3_segment0	.	exon	118918	119358	.	-	.	ID=Vv.00g001400.m01.exon01;Parent=Vv.00g001400.m01
+contig_3_segment0	.	CDS	118918	119358	.	-	0	ID=Vv.00g001400.m01.CDS01;Parent=Vv.00g001400.m01
+contig_3_segment0	.	start_codon	119356	119358	.	-	.	ID=Vv.00g001400.m01:start;Parent=Vv.00g001400.m01
+contig_3_segment0	.	stop_codon	118918	118920	.	-	.	ID=Vv.00g001400.m01:stop;Parent=Vv.00g001400.m01
+contig_3_segment0	.	gene	101548	104220	.	-	.	ID=Vv.00g001190;Name=A10L
+contig_3_segment0	.	mRNA	101548	104220	.	-	.	ID=Vv.00g001190.m01;Parent=Vv.00g001190;product=Major core protein 4a precursor;Dbxref=GO:0005198, GO:0019012,InterPro:IPR005058,PFAM:PF03395
+contig_3_segment0	.	exon	101548	104220	.	-	.	ID=Vv.00g001190.m01.exon01;Parent=Vv.00g001190.m01
+contig_3_segment0	.	CDS	101548	104220	.	-	0	ID=Vv.00g001190.m01.CDS01;Parent=Vv.00g001190.m01
+contig_3_segment0	.	start_codon	104218	104220	.	-	.	ID=Vv.00g001190.m01:start;Parent=Vv.00g001190.m01
+contig_3_segment0	.	stop_codon	101548	101550	.	-	.	ID=Vv.00g001190.m01:stop;Parent=Vv.00g001190.m01
+contig_3_segment0	.	gene	27975	30188	.	-	.	ID=Vv.00g000450;Name=VACWR058
+contig_3_segment0	.	mRNA	27975	30188	.	-	.	ID=Vv.00g000450.m01;Parent=Vv.00g000450;product=Protein E2;Dbxref=InterPro:IPR021155,PFAM:PF04497
+contig_3_segment0	.	exon	27975	30188	.	-	.	ID=Vv.00g000450.m01.exon01;Parent=Vv.00g000450.m01
+contig_3_segment0	.	CDS	27975	30188	.	-	0	ID=Vv.00g000450.m01.CDS01;Parent=Vv.00g000450.m01
+contig_3_segment0	.	start_codon	30186	30188	.	-	.	ID=Vv.00g000450.m01:start;Parent=Vv.00g000450.m01
+contig_3_segment0	.	stop_codon	27975	27977	.	-	.	ID=Vv.00g000450.m01:stop;Parent=Vv.00g000450.m01
+contig_3_segment0	.	gene	43486	44295	.	-	.	ID=Vv.00g000600;Name=VACWR072
+contig_3_segment0	.	mRNA	43486	44295	.	-	.	ID=Vv.00g000600.m01;Parent=Vv.00g000600;product=Protein I3;Dbxref=GO:0003697,InterPro:IPR006754,PFAM:PF04661
+contig_3_segment0	.	exon	43486	44295	.	-	.	ID=Vv.00g000600.m01.exon01;Parent=Vv.00g000600.m01
+contig_3_segment0	.	CDS	43486	44295	.	-	0	ID=Vv.00g000600.m01.CDS01;Parent=Vv.00g000600.m01
+contig_3_segment0	.	start_codon	44293	44295	.	-	.	ID=Vv.00g000600.m01:start;Parent=Vv.00g000600.m01
+contig_3_segment0	.	stop_codon	43486	43488	.	-	.	ID=Vv.00g000600.m01:stop;Parent=Vv.00g000600.m01
+contig_3_segment0	.	gene	10880	11146	.	-	.	ID=Vv.00g000210;Name=K3L
+contig_3_segment0	.	mRNA	10880	11146	.	-	.	ID=Vv.00g000210.m01;Parent=Vv.00g000210;product=Protein K3;Dbxref=GO:0003676, GO:0030414,InterPro:IPR003029,PFAM:PF00575
+contig_3_segment0	.	exon	10880	11146	.	-	.	ID=Vv.00g000210.m01.exon01;Parent=Vv.00g000210.m01
+contig_3_segment0	.	CDS	10880	11146	.	-	0	ID=Vv.00g000210.m01.CDS01;Parent=Vv.00g000210.m01
+contig_3_segment0	.	start_codon	11144	11146	.	-	.	ID=Vv.00g000210.m01:start;Parent=Vv.00g000210.m01
+contig_3_segment0	.	stop_codon	10880	10882	.	-	.	ID=Vv.00g000210.m01:stop;Parent=Vv.00g000210.m01
+contig_3_segment0	.	gene	113585	117055	.	+	.	ID=Vv.00g001340;Name=RPO132
+contig_3_segment0	.	mRNA	113585	117055	.	+	.	ID=Vv.00g001340.m01;Parent=Vv.00g001340;product=DNA-directed RNA polymerase 133 kDa polypeptide;Dbxref=GO:0006351, GO:0003899, GO:0003677, GO:0032549,InterPro:IPR007120,InterPro:IPR007641,InterPro:IPR007645,InterPro:IPR007647,InterPro:IPR024390,PFAM:PF00562,PFAM:PF04560,PFAM:PF04565,PFAM:PF04567,PFAM:PF12415
+contig_3_segment0	.	exon	113585	117055	.	+	.	ID=Vv.00g001340.m01.exon01;Parent=Vv.00g001340.m01
+contig_3_segment0	.	CDS	113585	117055	.	+	0	ID=Vv.00g001340.m01.CDS01;Parent=Vv.00g001340.m01
+contig_3_segment0	.	start_codon	113585	113587	.	+	.	ID=Vv.00g001340.m01:start;Parent=Vv.00g001340.m01
+contig_3_segment0	.	stop_codon	117053	117055	.	+	.	ID=Vv.00g001340.m01:stop;Parent=Vv.00g001340.m01
+contig_3_segment0	.	gene	9219	9515	.	-	.	ID=Vv.00g000190;Name=VACWR032
+contig_3_segment0	.	mRNA	9219	9515	.	-	.	ID=Vv.00g000190.m01;Parent=Vv.00g000190;product=Interferon antagonist K1L;Dbxref=GO:0005515,InterPro:IPR020683,PFAM:PF12796
+contig_3_segment0	.	exon	9219	9515	.	-	.	ID=Vv.00g000190.m01.exon01;Parent=Vv.00g000190.m01
+contig_3_segment0	.	CDS	9219	9515	.	-	0	ID=Vv.00g000190.m01.CDS01;Parent=Vv.00g000190.m01
+contig_3_segment0	.	start_codon	9513	9515	.	-	.	ID=Vv.00g000190.m01:start;Parent=Vv.00g000190.m01
+contig_3_segment0	.	stop_codon	9219	9221	.	-	.	ID=Vv.00g000190.m01:stop;Parent=Vv.00g000190.m01
+contig_3_segment0	.	gene	149640	150620	.	+	.	ID=Vv.00g001850;Name=MVA184R
+contig_3_segment0	.	mRNA	149640	150620	.	+	.	ID=Vv.00g001850.m01;Parent=Vv.00g001850;product=Interleukin-1-binding protein;Dbxref=InterPro:IPR013151,PFAM:PF00047
+contig_3_segment0	.	exon	149640	150620	.	+	.	ID=Vv.00g001850.m01.exon01;Parent=Vv.00g001850.m01
+contig_3_segment0	.	CDS	149640	150620	.	+	0	ID=Vv.00g001850.m01.CDS01;Parent=Vv.00g001850.m01
+contig_3_segment0	.	start_codon	149640	149642	.	+	.	ID=Vv.00g001850.m01:start;Parent=Vv.00g001850.m01
+contig_3_segment0	.	stop_codon	150618	150620	.	+	.	ID=Vv.00g001850.m01:stop;Parent=Vv.00g001850.m01
+contig_3_segment0	.	gene	56045	56542	.	+	.	ID=Vv.00g000720;Name=VACWR084
+contig_3_segment0	.	mRNA	56045	56542	.	+	.	ID=Vv.00g000720.m01;Parent=Vv.00g000720;product=Uncharacterized protein G6;Dbxref=InterPro:IPR024453,PFAM:PF05708
+contig_3_segment0	.	exon	56045	56542	.	+	.	ID=Vv.00g000720.m01.exon01;Parent=Vv.00g000720.m01
+contig_3_segment0	.	CDS	56045	56542	.	+	0	ID=Vv.00g000720.m01.CDS01;Parent=Vv.00g000720.m01
+contig_3_segment0	.	start_codon	56045	56047	.	+	.	ID=Vv.00g000720.m01:start;Parent=Vv.00g000720.m01
+contig_3_segment0	.	stop_codon	56540	56542	.	+	.	ID=Vv.00g000720.m01:stop;Parent=Vv.00g000720.m01
+contig_3_segment0	.	gene	2288	2425	.	-	.	ID=Vv.00g000050;Name=B24R_0
+contig_3_segment0	.	mRNA	2288	2425	.	-	.	ID=Vv.00g000050.m01;Parent=Vv.00g000050;product=Ankyrin repeat protein C18/B24
+contig_3_segment0	.	exon	2288	2425	.	-	.	ID=Vv.00g000050.m01.exon01;Parent=Vv.00g000050.m01
+contig_3_segment0	.	CDS	2288	2425	.	-	0	ID=Vv.00g000050.m01.CDS01;Parent=Vv.00g000050.m01
+contig_3_segment0	.	start_codon	2423	2425	.	-	.	ID=Vv.00g000050.m01:start;Parent=Vv.00g000050.m01
+contig_3_segment0	.	stop_codon	2288	2290	.	-	.	ID=Vv.00g000050.m01:stop;Parent=Vv.00g000050.m01
+contig_3_segment0	.	gene	124324	125115	.	+	.	ID=Vv.00g001500;Name=A37R
+contig_3_segment0	.	mRNA	124324	125115	.	+	.	ID=Vv.00g001500.m01;Parent=Vv.00g001500;product=Protein A37;Dbxref=InterPro:IPR009641,PFAM:PF06822
+contig_3_segment0	.	exon	124324	125115	.	+	.	ID=Vv.00g001500.m01.exon01;Parent=Vv.00g001500.m01
+contig_3_segment0	.	CDS	124324	125115	.	+	0	ID=Vv.00g001500.m01.CDS01;Parent=Vv.00g001500.m01
+contig_3_segment0	.	start_codon	124324	124326	.	+	.	ID=Vv.00g001500.m01:start;Parent=Vv.00g001500.m01
+contig_3_segment0	.	stop_codon	125113	125115	.	+	.	ID=Vv.00g001500.m01:stop;Parent=Vv.00g001500.m01
+contig_3_segment0	.	gene	155179	155277	.	+	.	ID=Vv.00g001910;Name=B21R
+contig_3_segment0	.	mRNA	155179	155277	.	+	.	ID=Vv.00g001910.m01;Parent=Vv.00g001910;product=Protein C15/B21
+contig_3_segment0	.	exon	155179	155277	.	+	.	ID=Vv.00g001910.m01.exon01;Parent=Vv.00g001910.m01
+contig_3_segment0	.	CDS	155179	155277	.	+	0	ID=Vv.00g001910.m01.CDS01;Parent=Vv.00g001910.m01
+contig_3_segment0	.	start_codon	155179	155181	.	+	.	ID=Vv.00g001910.m01:start;Parent=Vv.00g001910.m01
+contig_3_segment0	.	stop_codon	155275	155277	.	+	.	ID=Vv.00g001910.m01:stop;Parent=Vv.00g001910.m01
+contig_3_segment0	.	gene	43264	43485	.	-	.	ID=Vv.00g000590;Name=VACWR071
+contig_3_segment0	.	mRNA	43264	43485	.	-	.	ID=Vv.00g000590.m01;Parent=Vv.00g000590;product=Protein I2;Dbxref=InterPro:IPR009175,PFAM:PF12575
+contig_3_segment0	.	exon	43264	43485	.	-	.	ID=Vv.00g000590.m01.exon01;Parent=Vv.00g000590.m01
+contig_3_segment0	.	CDS	43264	43485	.	-	0	ID=Vv.00g000590.m01.CDS01;Parent=Vv.00g000590.m01
+contig_3_segment0	.	start_codon	43483	43485	.	-	.	ID=Vv.00g000590.m01:start;Parent=Vv.00g000590.m01
+contig_3_segment0	.	stop_codon	43264	43266	.	-	.	ID=Vv.00g000590.m01:stop;Parent=Vv.00g000590.m01
+contig_3_segment0	.	gene	20376	20819	.	-	.	ID=Vv.00g000350;Name=VACWR050
+contig_3_segment0	.	mRNA	20376	20819	.	-	.	ID=Vv.00g000350.m01;Parent=Vv.00g000350;product=Protein F11
+contig_3_segment0	.	exon	20376	20819	.	-	.	ID=Vv.00g000350.m01.exon01;Parent=Vv.00g000350.m01
+contig_3_segment0	.	CDS	20376	20819	.	-	0	ID=Vv.00g000350.m01.CDS01;Parent=Vv.00g000350.m01
+contig_3_segment0	.	stop_codon	20376	20378	.	-	.	ID=Vv.00g000350.m01:stop;Parent=Vv.00g000350.m01
+contig_3_segment0	.	gene	130155	131195	.	-	.	ID=Vv.00g001600;Name=MVA157L
+contig_3_segment0	.	mRNA	130155	131195	.	-	.	ID=Vv.00g001600.m01;Parent=Vv.00g001600;product=3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase;Dbxref=GO:0016616, GO:0003854, GO:0055114, GO:0006694,InterPro:IPR002225,PFAM:PF01073
+contig_3_segment0	.	exon	130155	131195	.	-	.	ID=Vv.00g001600.m01.exon01;Parent=Vv.00g001600.m01
+contig_3_segment0	.	CDS	130155	131195	.	-	0	ID=Vv.00g001600.m01.CDS01;Parent=Vv.00g001600.m01
+contig_3_segment0	.	start_codon	131193	131195	.	-	.	ID=Vv.00g001600.m01:start;Parent=Vv.00g001600.m01
+contig_3_segment0	.	stop_codon	130155	130157	.	-	.	ID=Vv.00g001600.m01:stop;Parent=Vv.00g001600.m01
+contig_3_segment0	.	gene	16500	17459	.	-	.	ID=Vv.00g000290;Name=MVA032L
+contig_3_segment0	.	mRNA	16500	17459	.	-	.	ID=Vv.00g000290.m01;Parent=Vv.00g000290;product=Ribonucleoside-diphosphate reductase small chain;Dbxref=GO:0016491, GO:0055114,InterPro:IPR000358,PFAM:PF00268
+contig_3_segment0	.	exon	16500	17459	.	-	.	ID=Vv.00g000290.m01.exon01;Parent=Vv.00g000290.m01
+contig_3_segment0	.	CDS	16500	17459	.	-	0	ID=Vv.00g000290.m01.CDS01;Parent=Vv.00g000290.m01
+contig_3_segment0	.	start_codon	17457	17459	.	-	.	ID=Vv.00g000290.m01:start;Parent=Vv.00g000290.m01
+contig_3_segment0	.	stop_codon	16500	16502	.	-	.	ID=Vv.00g000290.m01:stop;Parent=Vv.00g000290.m01
+contig_3_segment0	.	gene	146192	146734	.	+	.	ID=Vv.00g001790;Name=MVA178R
+contig_3_segment0	.	mRNA	146192	146734	.	+	.	ID=Vv.00g001790.m01;Parent=Vv.00g001790;product=Kelch repeat protein B10
+contig_3_segment0	.	exon	146192	146734	.	+	.	ID=Vv.00g001790.m01.exon01;Parent=Vv.00g001790.m01
+contig_3_segment0	.	CDS	146192	146734	.	+	0	ID=Vv.00g001790.m01.CDS01;Parent=Vv.00g001790.m01
+contig_3_segment0	.	stop_codon	146732	146734	.	+	.	ID=Vv.00g001790.m01:stop;Parent=Vv.00g001790.m01
+contig_3_segment0	.	gene	5030	5320	.	-	.	ID=Vv.00g000110;Name=C9L_1
+contig_3_segment0	.	mRNA	5030	5320	.	-	.	ID=Vv.00g000110.m01;Parent=Vv.00g000110;product=Ankyrin repeat protein C9L
+contig_3_segment0	.	exon	5030	5320	.	-	.	ID=Vv.00g000110.m01.exon01;Parent=Vv.00g000110.m01
+contig_3_segment0	.	CDS	5030	5320	.	-	0	ID=Vv.00g000110.m01.CDS01;Parent=Vv.00g000110.m01
+contig_3_segment0	.	start_codon	5318	5320	.	-	.	ID=Vv.00g000110.m01:start;Parent=Vv.00g000110.m01
+contig_3_segment0	.	stop_codon	5030	5032	.	-	.	ID=Vv.00g000110.m01:stop;Parent=Vv.00g000110.m01
+contig_3_segment0	.	gene	87103	87849	.	+	.	ID=Vv.00g001050;Name=VACWR115
+contig_3_segment0	.	mRNA	87103	87849	.	+	.	ID=Vv.00g001050.m01;Parent=Vv.00g001050;product=mRNA-decapping protein D10;Dbxref=GO:0016791, GO:0016787,InterPro:IPR013683,PFAM:PF08476
+contig_3_segment0	.	exon	87103	87849	.	+	.	ID=Vv.00g001050.m01.exon01;Parent=Vv.00g001050.m01
+contig_3_segment0	.	CDS	87103	87849	.	+	0	ID=Vv.00g001050.m01.CDS01;Parent=Vv.00g001050.m01
+contig_3_segment0	.	start_codon	87103	87105	.	+	.	ID=Vv.00g001050.m01:start;Parent=Vv.00g001050.m01
+contig_3_segment0	.	stop_codon	87847	87849	.	+	.	ID=Vv.00g001050.m01:stop;Parent=Vv.00g001050.m01
+contig_3_segment0	.	gene	65317	65718	.	-	.	ID=Vv.00g000850;Name=VACWR097
+contig_3_segment0	.	mRNA	65317	65718	.	-	.	ID=Vv.00g000850.m01;Parent=Vv.00g000850;product=Protein J5;Dbxref=InterPro:IPR004251,PFAM:PF03003
+contig_3_segment0	.	exon	65317	65718	.	-	.	ID=Vv.00g000850.m01.exon01;Parent=Vv.00g000850.m01
+contig_3_segment0	.	CDS	65317	65718	.	-	0	ID=Vv.00g000850.m01.CDS01;Parent=Vv.00g000850.m01
+contig_3_segment0	.	start_codon	65716	65718	.	-	.	ID=Vv.00g000850.m01:start;Parent=Vv.00g000850.m01
+contig_3_segment0	.	stop_codon	65317	65319	.	-	.	ID=Vv.00g000850.m01:stop;Parent=Vv.00g000850.m01
+contig_3_segment0	.	gene	119359	120276	.	-	.	ID=Vv.00g001410;Name=RPO35
+contig_3_segment0	.	mRNA	119359	120276	.	-	.	ID=Vv.00g001410.m01;Parent=Vv.00g001410;product=DNA-directed RNA polymerase 35 kDa subunit;Dbxref=GO:0003677, GO:0003899, GO:0019083,InterPro:IPR005059,PFAM:PF03396
+contig_3_segment0	.	exon	119359	120276	.	-	.	ID=Vv.00g001410.m01.exon01;Parent=Vv.00g001410.m01
+contig_3_segment0	.	CDS	119359	120276	.	-	0	ID=Vv.00g001410.m01.CDS01;Parent=Vv.00g001410.m01
+contig_3_segment0	.	start_codon	120274	120276	.	-	.	ID=Vv.00g001410.m01:start;Parent=Vv.00g001410.m01
+contig_3_segment0	.	stop_codon	119359	119361	.	-	.	ID=Vv.00g001410.m01:stop;Parent=Vv.00g001410.m01
+contig_3_segment0	.	gene	54163	54537	.	-	.	ID=Vv.00g000690;Name=TG4R
+contig_3_segment0	.	mRNA	54163	54537	.	-	.	ID=Vv.00g000690.m01;Parent=Vv.00g000690;product=Glutaredoxin-2;Dbxref=InterPro:IPR008554,PFAM:PF05768
+contig_3_segment0	.	exon	54163	54537	.	-	.	ID=Vv.00g000690.m01.exon01;Parent=Vv.00g000690.m01
+contig_3_segment0	.	CDS	54163	54537	.	-	0	ID=Vv.00g000690.m01.CDS01;Parent=Vv.00g000690.m01
+contig_3_segment0	.	start_codon	54535	54537	.	-	.	ID=Vv.00g000690.m01:start;Parent=Vv.00g000690.m01
+contig_3_segment0	.	stop_codon	54163	54165	.	-	.	ID=Vv.00g000690.m01:stop;Parent=Vv.00g000690.m01
+contig_3_segment0	.	gene	110035	110268	.	-	.	ID=Vv.00g001290;Name=VACWR139
+contig_3_segment0	.	mRNA	110035	110268	.	-	.	ID=Vv.00g001290.m01;Parent=Vv.00g001290;product=Protein A19;Dbxref=InterPro:IPR007769,PFAM:PF05077
+contig_3_segment0	.	exon	110035	110268	.	-	.	ID=Vv.00g001290.m01.exon01;Parent=Vv.00g001290.m01
+contig_3_segment0	.	CDS	110035	110268	.	-	0	ID=Vv.00g001290.m01.CDS01;Parent=Vv.00g001290.m01
+contig_3_segment0	.	start_codon	110266	110268	.	-	.	ID=Vv.00g001290.m01:start;Parent=Vv.00g001290.m01
+contig_3_segment0	.	stop_codon	110035	110037	.	-	.	ID=Vv.00g001290.m01:stop;Parent=Vv.00g001290.m01
+contig_3_segment0	.	gene	13912	14571	.	-	.	ID=Vv.00g000260;Name=MVA029L
+contig_3_segment0	.	mRNA	13912	14571	.	-	.	ID=Vv.00g000260.m01;Parent=Vv.00g000260;product=Protein F1;Dbxref=GO:0019050,InterPro:IPR021119,PFAM:PF11099
+contig_3_segment0	.	exon	13912	14571	.	-	.	ID=Vv.00g000260.m01.exon01;Parent=Vv.00g000260.m01
+contig_3_segment0	.	CDS	13912	14571	.	-	0	ID=Vv.00g000260.m01.CDS01;Parent=Vv.00g000260.m01
+contig_3_segment0	.	start_codon	14569	14571	.	-	.	ID=Vv.00g000260.m01:start;Parent=Vv.00g000260.m01
+contig_3_segment0	.	stop_codon	13912	13914	.	-	.	ID=Vv.00g000260.m01:stop;Parent=Vv.00g000260.m01
+contig_3_segment0	.	gene	129820	130056	.	+	.	ID=Vv.00g001590;Name=VACWR169
+contig_3_segment0	.	mRNA	129820	130056	.	+	.	ID=Vv.00g001590.m01;Parent=Vv.00g001590;product=Protein 169
+contig_3_segment0	.	exon	129820	130056	.	+	.	ID=Vv.00g001590.m01.exon01;Parent=Vv.00g001590.m01
+contig_3_segment0	.	CDS	129820	130056	.	+	0	ID=Vv.00g001590.m01.CDS01;Parent=Vv.00g001590.m01
+contig_3_segment0	.	start_codon	129820	129822	.	+	.	ID=Vv.00g001590.m01:start;Parent=Vv.00g001590.m01
+contig_3_segment0	.	stop_codon	130054	130056	.	+	.	ID=Vv.00g001590.m01:stop;Parent=Vv.00g001590.m01
+contig_3_segment0	.	gene	74228	74317	.	+	.	ID=Vv.00g000910
+contig_3_segment0	.	mRNA	74228	74317	.	+	.	ID=Vv.00g000910.m01;Parent=Vv.00g000910
+contig_3_segment0	.	exon	74228	74317	.	+	.	ID=Vv.00g000910.m01.exon01;Parent=Vv.00g000910.m01
+contig_3_segment0	.	CDS	74228	74317	.	+	0	ID=Vv.00g000910.m01.CDS01;Parent=Vv.00g000910.m01
+contig_3_segment0	.	start_codon	74228	74230	.	+	.	ID=Vv.00g000910.m01:start;Parent=Vv.00g000910.m01
+contig_3_segment0	.	stop_codon	74315	74317	.	+	.	ID=Vv.00g000910.m01:stop;Parent=Vv.00g000910.m01
+contig_3_segment0	.	gene	34700	35200	.	+	.	ID=Vv.00g000500;Name=VACWR063
+contig_3_segment0	.	mRNA	34700	35200	.	+	.	ID=Vv.00g000500.m01;Parent=Vv.00g000500;product=Protein E7;Dbxref=InterPro:IPR035345,PFAM:PF17467
+contig_3_segment0	.	exon	34700	35200	.	+	.	ID=Vv.00g000500.m01.exon01;Parent=Vv.00g000500.m01
+contig_3_segment0	.	CDS	34700	35200	.	+	0	ID=Vv.00g000500.m01.CDS01;Parent=Vv.00g000500.m01
+contig_3_segment0	.	start_codon	34700	34702	.	+	.	ID=Vv.00g000500.m01:start;Parent=Vv.00g000500.m01
+contig_3_segment0	.	stop_codon	35198	35200	.	+	.	ID=Vv.00g000500.m01:stop;Parent=Vv.00g000500.m01
+contig_3_segment0	.	gene	58455	59477	.	+	.	ID=Vv.00g000750;Name=MVA079R
+contig_3_segment0	.	mRNA	58455	59477	.	+	.	ID=Vv.00g000750.m01;Parent=Vv.00g000750;product=Myristoylated protein G9;Dbxref=InterPro:IPR004251,PFAM:PF03003
+contig_3_segment0	.	exon	58455	59477	.	+	.	ID=Vv.00g000750.m01.exon01;Parent=Vv.00g000750.m01
+contig_3_segment0	.	CDS	58455	59477	.	+	0	ID=Vv.00g000750.m01.CDS01;Parent=Vv.00g000750.m01
+contig_3_segment0	.	start_codon	58455	58457	.	+	.	ID=Vv.00g000750.m01:start;Parent=Vv.00g000750.m01
+contig_3_segment0	.	stop_codon	59475	59477	.	+	.	ID=Vv.00g000750.m01:stop;Parent=Vv.00g000750.m01
+contig_3_segment0	.	gene	138277	138570	.	+	.	ID=Vv.00g001690;Name=A57R
+contig_3_segment0	.	mRNA	138277	138570	.	+	.	ID=Vv.00g001690.m01;Parent=Vv.00g001690;product=Guanylate kinase homolog;Dbxref=InterPro:IPR008145,PFAM:PF00625
+contig_3_segment0	.	exon	138277	138570	.	+	.	ID=Vv.00g001690.m01.exon01;Parent=Vv.00g001690.m01
+contig_3_segment0	.	CDS	138277	138570	.	+	0	ID=Vv.00g001690.m01.CDS01;Parent=Vv.00g001690.m01
+contig_3_segment0	.	start_codon	138277	138279	.	+	.	ID=Vv.00g001690.m01:start;Parent=Vv.00g001690.m01
+contig_3_segment0	.	stop_codon	138568	138570	.	+	.	ID=Vv.00g001690.m01:stop;Parent=Vv.00g001690.m01
+contig_3_segment0	.	gene	112414	113562	.	+	.	ID=Vv.00g001330;Name=VITF3L
+contig_3_segment0	.	mRNA	112414	113562	.	+	.	ID=Vv.00g001330.m01;Parent=Vv.00g001330;product=Intermediate transcription factor 3 large subunit;Dbxref=InterPro:IPR008789,PFAM:PF05718
+contig_3_segment0	.	exon	112414	113562	.	+	.	ID=Vv.00g001330.m01.exon01;Parent=Vv.00g001330.m01
+contig_3_segment0	.	CDS	112414	113562	.	+	0	ID=Vv.00g001330.m01.CDS01;Parent=Vv.00g001330.m01
+contig_3_segment0	.	start_codon	112414	112416	.	+	.	ID=Vv.00g001330.m01:start;Parent=Vv.00g001330.m01
+contig_3_segment0	.	stop_codon	113560	113562	.	+	.	ID=Vv.00g001330.m01:stop;Parent=Vv.00g001330.m01
+contig_3_segment0	.	gene	131597	132319	.	+	.	ID=Vv.00g001620;Name=VACWR172
+contig_3_segment0	.	mRNA	131597	132319	.	+	.	ID=Vv.00g001620.m01;Parent=Vv.00g001620;product=Protein A46;Dbxref=InterPro:IPR022819,PFAM:PF06227
+contig_3_segment0	.	exon	131597	132319	.	+	.	ID=Vv.00g001620.m01.exon01;Parent=Vv.00g001620.m01
+contig_3_segment0	.	CDS	131597	132319	.	+	0	ID=Vv.00g001620.m01.CDS01;Parent=Vv.00g001620.m01
+contig_3_segment0	.	start_codon	131597	131599	.	+	.	ID=Vv.00g001620.m01:start;Parent=Vv.00g001620.m01
+contig_3_segment0	.	stop_codon	132317	132319	.	+	.	ID=Vv.00g001620.m01:stop;Parent=Vv.00g001620.m01
+contig_3_segment0	.	gene	9721	10830	.	-	.	ID=Vv.00g000200;Name=SPI-3
+contig_3_segment0	.	mRNA	9721	10830	.	-	.	ID=Vv.00g000200.m01;Parent=Vv.00g000200;product=Protein K2;Dbxref=GO:0005615,InterPro:IPR023796,PFAM:PF00079
+contig_3_segment0	.	exon	9721	10830	.	-	.	ID=Vv.00g000200.m01.exon01;Parent=Vv.00g000200.m01
+contig_3_segment0	.	CDS	9721	10830	.	-	0	ID=Vv.00g000200.m01.CDS01;Parent=Vv.00g000200.m01
+contig_3_segment0	.	start_codon	10828	10830	.	-	.	ID=Vv.00g000200.m01:start;Parent=Vv.00g000200.m01
+contig_3_segment0	.	stop_codon	9721	9723	.	-	.	ID=Vv.00g000200.m01:stop;Parent=Vv.00g000200.m01
+contig_3_segment0	.	gene	1788	1946	.	+	.	ID=Vv.00g000040
+contig_3_segment0	.	mRNA	1788	1946	.	+	.	ID=Vv.00g000040.m01;Parent=Vv.00g000040
+contig_3_segment0	.	exon	1788	1946	.	+	.	ID=Vv.00g000040.m01.exon01;Parent=Vv.00g000040.m01
+contig_3_segment0	.	CDS	1788	1946	.	+	0	ID=Vv.00g000040.m01.CDS01;Parent=Vv.00g000040.m01
+contig_3_segment0	.	start_codon	1788	1790	.	+	.	ID=Vv.00g000040.m01:start;Parent=Vv.00g000040.m01
+contig_3_segment0	.	stop_codon	1944	1946	.	+	.	ID=Vv.00g000040.m01:stop;Parent=Vv.00g000040.m01
+contig_3_segment0	.	gene	126225	126476	.	+	.	ID=Vv.00g001530;Name=VACWR163
+contig_3_segment0	.	mRNA	126225	126476	.	+	.	ID=Vv.00g001530.m01;Parent=Vv.00g001530;product=Semaphorin-like protein A39
+contig_3_segment0	.	exon	126225	126476	.	+	.	ID=Vv.00g001530.m01.exon01;Parent=Vv.00g001530.m01
+contig_3_segment0	.	CDS	126225	126476	.	+	0	ID=Vv.00g001530.m01.CDS01;Parent=Vv.00g001530.m01
+contig_3_segment0	.	start_codon	126225	126227	.	+	.	ID=Vv.00g001530.m01:start;Parent=Vv.00g001530.m01
+contig_3_segment0	.	stop_codon	126474	126476	.	+	.	ID=Vv.00g001530.m01:stop;Parent=Vv.00g001530.m01
+contig_3_segment0	.	gene	56507	57622	.	-	.	ID=Vv.00g000730;Name=G7L
+contig_3_segment0	.	mRNA	56507	57622	.	-	.	ID=Vv.00g000730.m01;Parent=Vv.00g000730;product=Assembly protein G7;Dbxref=InterPro:IPR008787,PFAM:PF05503
+contig_3_segment0	.	exon	56507	57622	.	-	.	ID=Vv.00g000730.m01.exon01;Parent=Vv.00g000730.m01
+contig_3_segment0	.	CDS	56507	57622	.	-	0	ID=Vv.00g000730.m01.CDS01;Parent=Vv.00g000730.m01
+contig_3_segment0	.	start_codon	57620	57622	.	-	.	ID=Vv.00g000730.m01:start;Parent=Vv.00g000730.m01
+contig_3_segment0	.	stop_codon	56507	56509	.	-	.	ID=Vv.00g000730.m01:stop;Parent=Vv.00g000730.m01
+contig_3_segment0	.	gene	18152	18349	.	-	.	ID=Vv.00g000320;Name=F8L
+contig_3_segment0	.	mRNA	18152	18349	.	-	.	ID=Vv.00g000320.m01;Parent=Vv.00g000320;product=Protein F8;Dbxref=InterPro:IPR008726,PFAM:PF05886
+contig_3_segment0	.	exon	18152	18349	.	-	.	ID=Vv.00g000320.m01.exon01;Parent=Vv.00g000320.m01
+contig_3_segment0	.	CDS	18152	18349	.	-	0	ID=Vv.00g000320.m01.CDS01;Parent=Vv.00g000320.m01
+contig_3_segment0	.	start_codon	18347	18349	.	-	.	ID=Vv.00g000320.m01:start;Parent=Vv.00g000320.m01
+contig_3_segment0	.	stop_codon	18152	18154	.	-	.	ID=Vv.00g000320.m01:stop;Parent=Vv.00g000320.m01
+contig_3_segment0	.	gene	154821	155033	.	+	.	ID=Vv.00g001900
+contig_3_segment0	.	mRNA	154821	155033	.	+	.	ID=Vv.00g001900.m01;Parent=Vv.00g001900
+contig_3_segment0	.	exon	154821	155033	.	+	.	ID=Vv.00g001900.m01.exon01;Parent=Vv.00g001900.m01
+contig_3_segment0	.	CDS	154821	155033	.	+	0	ID=Vv.00g001900.m01.CDS01;Parent=Vv.00g001900.m01
+contig_3_segment0	.	start_codon	154821	154823	.	+	.	ID=Vv.00g001900.m01:start;Parent=Vv.00g001900.m01
+contig_3_segment0	.	stop_codon	155031	155033	.	+	.	ID=Vv.00g001900.m01:stop;Parent=Vv.00g001900.m01
+contig_3_segment0	.	gene	123037	123567	.	+	.	ID=Vv.00g001480;Name=A35R
+contig_3_segment0	.	mRNA	123037	123567	.	+	.	ID=Vv.00g001480.m01;Parent=Vv.00g001480;product=Protein A35;Dbxref=InterPro:IPR009247,PFAM:PF05989
+contig_3_segment0	.	exon	123037	123567	.	+	.	ID=Vv.00g001480.m01.exon01;Parent=Vv.00g001480.m01
+contig_3_segment0	.	CDS	123037	123567	.	+	0	ID=Vv.00g001480.m01.CDS01;Parent=Vv.00g001480.m01
+contig_3_segment0	.	start_codon	123037	123039	.	+	.	ID=Vv.00g001480.m01:start;Parent=Vv.00g001480.m01
+contig_3_segment0	.	stop_codon	123565	123567	.	+	.	ID=Vv.00g001480.m01:stop;Parent=Vv.00g001480.m01
+contig_3_segment0	.	gene	5400	6293	.	-	.	ID=Vv.00g000120;Name=VACWR019
+contig_3_segment0	.	mRNA	5400	6293	.	-	.	ID=Vv.00g000120.m01;Parent=Vv.00g000120;product=Ankyrin repeat protein C9L
+contig_3_segment0	.	exon	5400	6293	.	-	.	ID=Vv.00g000120.m01.exon01;Parent=Vv.00g000120.m01
+contig_3_segment0	.	CDS	5400	6293	.	-	0	ID=Vv.00g000120.m01.CDS01;Parent=Vv.00g000120.m01
+contig_3_segment0	.	start_codon	6291	6293	.	-	.	ID=Vv.00g000120.m01:start;Parent=Vv.00g000120.m01
+contig_3_segment0	.	stop_codon	5400	5402	.	-	.	ID=Vv.00g000120.m01:stop;Parent=Vv.00g000120.m01
+contig_3_segment0	.	gene	159377	159490	.	+	.	ID=Vv.00g002000;Name=C23L_3
+contig_3_segment0	.	mRNA	159377	159490	.	+	.	ID=Vv.00g002000.m01;Parent=Vv.00g002000;product=Inactive chemokine-binding protein;Dbxref=InterPro:IPR003184,PFAM:PF02250
+contig_3_segment0	.	exon	159377	159490	.	+	.	ID=Vv.00g002000.m01.exon01;Parent=Vv.00g002000.m01
+contig_3_segment0	.	CDS	159377	159490	.	+	0	ID=Vv.00g002000.m01.CDS01;Parent=Vv.00g002000.m01
+contig_3_segment0	.	start_codon	159377	159379	.	+	.	ID=Vv.00g002000.m01:start;Parent=Vv.00g002000.m01
+contig_3_segment0	.	stop_codon	159488	159490	.	+	.	ID=Vv.00g002000.m01:stop;Parent=Vv.00g002000.m01
+contig_3_segment0	.	gene	148056	148406	.	+	.	ID=Vv.00g001820;Name=B13R
+contig_3_segment0	.	mRNA	148056	148406	.	+	.	ID=Vv.00g001820.m01;Parent=Vv.00g001820;product=Putative serine proteinase inhibitor 2 homolog first part;Dbxref=GO:0005615,InterPro:IPR023796,PFAM:PF00079
+contig_3_segment0	.	exon	148056	148406	.	+	.	ID=Vv.00g001820.m01.exon01;Parent=Vv.00g001820.m01
+contig_3_segment0	.	CDS	148056	148406	.	+	0	ID=Vv.00g001820.m01.CDS01;Parent=Vv.00g001820.m01
+contig_3_segment0	.	start_codon	148056	148058	.	+	.	ID=Vv.00g001820.m01:start;Parent=Vv.00g001820.m01
+contig_3_segment0	.	stop_codon	148404	148406	.	+	.	ID=Vv.00g001820.m01:stop;Parent=Vv.00g001820.m01
+contig_3_segment0	.	gene	15059	16489	.	-	.	ID=Vv.00g000280;Name=MVA031L
+contig_3_segment0	.	mRNA	15059	16489	.	-	.	ID=Vv.00g000280.m01;Parent=Vv.00g000280;product=Kelch repeat protein F3;Dbxref=GO:0005515,InterPro:IPR000210,InterPro:IPR006652,InterPro:IPR011705,PFAM:PF00651,PFAM:PF01344,PFAM:PF07707
+contig_3_segment0	.	exon	15059	16489	.	-	.	ID=Vv.00g000280.m01.exon01;Parent=Vv.00g000280.m01
+contig_3_segment0	.	CDS	15059	16489	.	-	0	ID=Vv.00g000280.m01.CDS01;Parent=Vv.00g000280.m01
+contig_3_segment0	.	start_codon	16487	16489	.	-	.	ID=Vv.00g000280.m01:start;Parent=Vv.00g000280.m01
+contig_3_segment0	.	stop_codon	15059	15061	.	-	.	ID=Vv.00g000280.m01:stop;Parent=Vv.00g000280.m01
+contig_3_segment0	.	gene	64860	65249	.	+	.	ID=Vv.00g000840;Name=RPO22
+contig_3_segment0	.	mRNA	64860	65249	.	+	.	ID=Vv.00g000840.m01;Parent=Vv.00g000840;product=DNA-directed RNA polymerase 22 kDa subunit;Dbxref=GO:0003677, GO:0003899, GO:0019083,InterPro:IPR007937,PFAM:PF05273
+contig_3_segment0	.	exon	64860	65249	.	+	.	ID=Vv.00g000840.m01.exon01;Parent=Vv.00g000840.m01
+contig_3_segment0	.	CDS	64860	65249	.	+	0	ID=Vv.00g000840.m01.CDS01;Parent=Vv.00g000840.m01
+contig_3_segment0	.	start_codon	64860	64862	.	+	.	ID=Vv.00g000840.m01:start;Parent=Vv.00g000840.m01
+contig_3_segment0	.	stop_codon	65247	65249	.	+	.	ID=Vv.00g000840.m01:stop;Parent=Vv.00g000840.m01
+contig_3_segment0	.	gene	53531	54193	.	+	.	ID=Vv.00g000680;Name=VACWR080
+contig_3_segment0	.	mRNA	53531	54193	.	+	.	ID=Vv.00g000680.m01;Parent=Vv.00g000680;product=Late transcription elongation factor G2;Dbxref=InterPro:IPR008446,PFAM:PF05796
+contig_3_segment0	.	exon	53531	54193	.	+	.	ID=Vv.00g000680.m01.exon01;Parent=Vv.00g000680.m01
+contig_3_segment0	.	CDS	53531	54193	.	+	0	ID=Vv.00g000680.m01.CDS01;Parent=Vv.00g000680.m01
+contig_3_segment0	.	start_codon	53531	53533	.	+	.	ID=Vv.00g000680.m01:start;Parent=Vv.00g000680.m01
+contig_3_segment0	.	stop_codon	54191	54193	.	+	.	ID=Vv.00g000680.m01:stop;Parent=Vv.00g000680.m01
+contig_3_segment0	.	gene	93497	93727	.	-	.	ID=Vv.00g001110;Name=A2.5L
+contig_3_segment0	.	mRNA	93497	93727	.	-	.	ID=Vv.00g001110.m01;Parent=Vv.00g001110;product=Protein A2.5;Dbxref=InterPro:IPR007952,PFAM:PF05288
+contig_3_segment0	.	exon	93497	93727	.	-	.	ID=Vv.00g001110.m01.exon01;Parent=Vv.00g001110.m01
+contig_3_segment0	.	CDS	93497	93727	.	-	0	ID=Vv.00g001110.m01.CDS01;Parent=Vv.00g001110.m01
+contig_3_segment0	.	start_codon	93725	93727	.	-	.	ID=Vv.00g001110.m01:start;Parent=Vv.00g001110.m01
+contig_3_segment0	.	stop_codon	93497	93499	.	-	.	ID=Vv.00g001110.m01:stop;Parent=Vv.00g001110.m01
+contig_3_segment0	.	gene	74330	74941	.	+	.	ID=Vv.00g000920;Name=VACWR103
+contig_3_segment0	.	mRNA	74330	74941	.	+	.	ID=Vv.00g000920.m01;Parent=Vv.00g000920;product=Late transcription elongation factor H5;Dbxref=GO:0019031,InterPro:IPR004966,PFAM:PF03286
+contig_3_segment0	.	exon	74330	74941	.	+	.	ID=Vv.00g000920.m01.exon01;Parent=Vv.00g000920.m01
+contig_3_segment0	.	CDS	74330	74941	.	+	0	ID=Vv.00g000920.m01.CDS01;Parent=Vv.00g000920.m01
+contig_3_segment0	.	start_codon	74330	74332	.	+	.	ID=Vv.00g000920.m01:start;Parent=Vv.00g000920.m01
+contig_3_segment0	.	stop_codon	74939	74941	.	+	.	ID=Vv.00g000920.m01:stop;Parent=Vv.00g000920.m01
+contig_3_segment0	.	gene	85061	85546	.	+	.	ID=Vv.00g001020;Name=RPO18
+contig_3_segment0	.	mRNA	85061	85546	.	+	.	ID=Vv.00g001020.m01;Parent=Vv.00g001020;product=DNA-directed RNA polymerase 18 kDa subunit;Dbxref=GO:0019083, GO:0003677, GO:0003899,InterPro:IPR004973,PFAM:PF03293
+contig_3_segment0	.	exon	85061	85546	.	+	.	ID=Vv.00g001020.m01.exon01;Parent=Vv.00g001020.m01
+contig_3_segment0	.	CDS	85061	85546	.	+	0	ID=Vv.00g001020.m01.CDS01;Parent=Vv.00g001020.m01
+contig_3_segment0	.	start_codon	85061	85063	.	+	.	ID=Vv.00g001020.m01:start;Parent=Vv.00g001020.m01
+contig_3_segment0	.	stop_codon	85544	85546	.	+	.	ID=Vv.00g001020.m01:stop;Parent=Vv.00g001020.m01
+contig_3_segment0	.	gene	143042	143974	.	+	.	ID=Vv.00g001750;Name=PS/HR
+contig_3_segment0	.	mRNA	143042	143974	.	+	.	ID=Vv.00g001750.m01;Parent=Vv.00g001750;product=Protein B5;Dbxref=GO:0045916, GO:0016021, GO:0001848,InterPro:IPR000436,PFAM:PF00084
+contig_3_segment0	.	exon	143042	143974	.	+	.	ID=Vv.00g001750.m01.exon01;Parent=Vv.00g001750.m01
+contig_3_segment0	.	CDS	143042	143974	.	+	0	ID=Vv.00g001750.m01.CDS01;Parent=Vv.00g001750.m01
+contig_3_segment0	.	start_codon	143042	143044	.	+	.	ID=Vv.00g001750.m01:start;Parent=Vv.00g001750.m01
+contig_3_segment0	.	stop_codon	143972	143974	.	+	.	ID=Vv.00g001750.m01:stop;Parent=Vv.00g001750.m01
+contig_3_segment0	.	gene	129240	129812	.	+	.	ID=Vv.00g001580;Name=VACWR168
+contig_3_segment0	.	mRNA	129240	129812	.	+	.	ID=Vv.00g001580.m01;Parent=Vv.00g001580;product=Protein A43;Dbxref=InterPro:IPR009487,PFAM:PF06517
+contig_3_segment0	.	exon	129240	129812	.	+	.	ID=Vv.00g001580.m01.exon01;Parent=Vv.00g001580.m01
+contig_3_segment0	.	CDS	129240	129812	.	+	0	ID=Vv.00g001580.m01.CDS01;Parent=Vv.00g001580.m01
+contig_3_segment0	.	start_codon	129240	129242	.	+	.	ID=Vv.00g001580.m01:start;Parent=Vv.00g001580.m01
+contig_3_segment0	.	stop_codon	129810	129812	.	+	.	ID=Vv.00g001580.m01:stop;Parent=Vv.00g001580.m01
+contig_3_segment0	.	gene	158886	159296	.	+	.	ID=Vv.00g001990;Name=C23L_2
+contig_3_segment0	.	mRNA	158886	159296	.	+	.	ID=Vv.00g001990.m01;Parent=Vv.00g001990;product=Inactive chemokine-binding protein;Dbxref=InterPro:IPR003184,PFAM:PF02250
+contig_3_segment0	.	exon	158886	159296	.	+	.	ID=Vv.00g001990.m01.exon01;Parent=Vv.00g001990.m01
+contig_3_segment0	.	CDS	158886	159296	.	+	0	ID=Vv.00g001990.m01.CDS01;Parent=Vv.00g001990.m01
+contig_3_segment0	.	start_codon	158886	158888	.	+	.	ID=Vv.00g001990.m01:start;Parent=Vv.00g001990.m01
+contig_3_segment0	.	stop_codon	159294	159296	.	+	.	ID=Vv.00g001990.m01:stop;Parent=Vv.00g001990.m01
+contig_3_segment0	.	gene	35313	36134	.	+	.	ID=Vv.00g000510;Name=E8R
+contig_3_segment0	.	mRNA	35313	36134	.	+	.	ID=Vv.00g000510.m01;Parent=Vv.00g000510;product=Protein E8;Dbxref=InterPro:IPR005057,PFAM:PF03394
+contig_3_segment0	.	exon	35313	36134	.	+	.	ID=Vv.00g000510.m01.exon01;Parent=Vv.00g000510.m01
+contig_3_segment0	.	CDS	35313	36134	.	+	0	ID=Vv.00g000510.m01.CDS01;Parent=Vv.00g000510.m01
+contig_3_segment0	.	start_codon	35313	35315	.	+	.	ID=Vv.00g000510.m01:start;Parent=Vv.00g000510.m01
+contig_3_segment0	.	stop_codon	36132	36134	.	+	.	ID=Vv.00g000510.m01:stop;Parent=Vv.00g000510.m01
+contig_3_segment0	.	gene	120979	121788	.	-	.	ID=Vv.00g001450;Name=VACWR155
+contig_3_segment0	.	mRNA	120979	121788	.	-	.	ID=Vv.00g001450.m01;Parent=Vv.00g001450;product=Protein A32;Dbxref=InterPro:IPR006758,PFAM:PF04665
+contig_3_segment0	.	exon	120979	121788	.	-	.	ID=Vv.00g001450.m01.exon01;Parent=Vv.00g001450.m01
+contig_3_segment0	.	CDS	120979	121788	.	-	0	ID=Vv.00g001450.m01.CDS01;Parent=Vv.00g001450.m01
+contig_3_segment0	.	start_codon	121786	121788	.	-	.	ID=Vv.00g001450.m01:start;Parent=Vv.00g001450.m01
+contig_3_segment0	.	stop_codon	120979	120981	.	-	.	ID=Vv.00g001450.m01:stop;Parent=Vv.00g001450.m01
+contig_3_segment0	.	gene	105783	105995	.	-	.	ID=Vv.00g001220;Name=VACWR132
+contig_3_segment0	.	mRNA	105783	105995	.	-	.	ID=Vv.00g001220.m01;Parent=Vv.00g001220;product=Virion membrane protein A13;Dbxref=InterPro:IPR009236,PFAM:PF05961
+contig_3_segment0	.	exon	105783	105995	.	-	.	ID=Vv.00g001220.m01.exon01;Parent=Vv.00g001220.m01
+contig_3_segment0	.	CDS	105783	105995	.	-	0	ID=Vv.00g001220.m01.CDS01;Parent=Vv.00g001220.m01
+contig_3_segment0	.	start_codon	105993	105995	.	-	.	ID=Vv.00g001220.m01:start;Parent=Vv.00g001220.m01
+contig_3_segment0	.	stop_codon	105783	105785	.	-	.	ID=Vv.00g001220.m01:stop;Parent=Vv.00g001220.m01

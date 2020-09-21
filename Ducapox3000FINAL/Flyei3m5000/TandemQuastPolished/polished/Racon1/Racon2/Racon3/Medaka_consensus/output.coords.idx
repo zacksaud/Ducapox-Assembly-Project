@@ -1,0 +1,13 @@
+#ref
+ref,ref_length,matching_queries
+contig_3_segment0,159696,MT648498.1
+#query
+query,query_length,orientation,bytePosition_unique,bytePosition_repetitive,bytePosition_end,unique_matching_refs,matching_refs
+MT648498.1,166722,+,44,103,137,contig_3_segment0,contig_3_segment0
+#overview
+ref_start,ref_end,query_start,query_end,ref,query,tag
+17543,159696,24135,166287,contig_3_segment0,MT648498.1,unique
+3508,17544,9184,23220,contig_3_segment0,MT648498.1,unique
+155937,159696,3981,222,contig_3_segment0,MT648498.1,repetitive
+1,3507,228,3734,contig_3_segment0,MT648498.1,repetitive
+1,3507,166281,162775,contig_3_segment0,MT648498.1,repetitive

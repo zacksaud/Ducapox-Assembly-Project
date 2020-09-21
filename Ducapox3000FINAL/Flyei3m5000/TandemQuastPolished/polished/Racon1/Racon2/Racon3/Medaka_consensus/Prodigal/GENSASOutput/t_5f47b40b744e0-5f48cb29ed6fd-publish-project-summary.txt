@@ -1,0 +1,42 @@
+
+=================================
+ Project Summary
+---------------------------------
+# Project Information
+  Project Name         : Ducapox
+  Owner                : zacksaud
+  Create Date          : 2020-08-27 06:24:27
+
+# Project Properties
+  Genus                : Vaccinia
+  Species              : virus
+  Project Type         : viral
+  Prefix               : Vv
+  Genetic Code         : Standard Code
+
+# Input FASTA
+  Filename           : FinalDucapox.fasta
+  Filesize           : 155.99 KB
+  Number of Sequence : 1
+
+=================================
+ Job Information
+---------------------------------
+# Official Gene Set
+  >TheFinalOne
+
+# The functional Jobs on the OGS
+  >BLAST protein vs protein (blastp)
+  - version : 2.7.1
+  - Protein Data Set : SwissProt
+  - Maximum HSP Distinace : 30000
+  - Matrix : BLOSUM62
+  - Expect : 1e-8
+  - Word Size : 3
+  - Gap Open : 11
+  - Gap Extend : 1
+  - Output type : tab
+
+  >InterProScan
+  - version : 5.29-68.0
+

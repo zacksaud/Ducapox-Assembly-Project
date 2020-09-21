@@ -1,0 +1,68 @@
+# cmscan :: search sequence(s) against a CM database
+# INFERNAL 1.1.2 (July 2016)
+# Copyright (C) 2016 Howard Hughes Medical Institute.
+# Freely distributed under a BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:                   /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000FINAL/Flyei3m5000/TandemQuastPolished/polished/Racon1/Racon2/Racon3/Medaka_consensus/FinalDucapox.fasta
+# target CM database:                    /home/zack/structRNAfinder-master/Rfam.cm
+# output directed to file:               /home/zack/structRNAfinder-master/DucapoxOutput/Duxapox.out
+# tabular output of hits:                /home/zack/structRNAfinder-master/DucapoxOutput/DucapoxTable.tab
+# prefer accessions over names:          yes
+# sequence reporting threshold:          E-value <= 0.01
+# number of worker threads:              12 [--cpu]
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Vaccinia  [L=159696]
+Description: virus strain Ducapox vaccine, complete genome
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+  (1) !   6.5e-15   94.8   0.0  RF00384   116543 116482 -  cm    no 0.31  -
+
+
+Hit alignments:
+>> RF00384  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   6.5e-15   94.8   0.0  cm        1       62 []      116543      116482 - .. 1.00    no 0.31
+
+                                                                                 NC
+                  :<<<<<<<<___>>>>>>>><<<<<<<<-<<<<<<_____>>-->>>>>>>>>>-->>:::: CS
+   RF00384      1 GAaUCUUUUCACAAAAGAuUUuAUCCGAUAAUUCuUcaUCgGaCAAUUUCGGAUUUgAAUGC 62    
+                  GAAUCUUUUCACAAAAGAUUUUAUCCGAUAAUUC:UCAUC:GACAAUUUCGGAUUUGAAUGC
+  Vaccinia 116543 GAAUCUUUUCACAAAAGAUUUUAUCCGAUAAUUCUUCAUCAGACAAUUUCGGAUUUGAAUGC 116482
+                  ************************************************************** PP
+
+
+
+Internal HMM-only pipeline statistics summary: (run for model(s) with zero basepairs)
+--------------------------------------------------------------------------------------
+Query sequence(s):                                               1  (319392 residues searched)
+Target model(s):                                               346  (40759 consensus positions)
+Windows   passing  local HMM SSV           filter:           25633  (0.05336); expected (0.02)
+Windows   passing  local HMM MSV      bias filter:           10906  (0.02088); expected (0.02)
+Windows   passing  local HMM Viterbi       filter:             852  (0.001489); expected (0.001)
+Windows   passing  local HMM Forward       filter:              90  (0.0002063); expected (1e-05)
+Total HMM hits reported:                                         0  (0)
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (319392 residues searched)
+Query sequences re-searched for truncated hits:                  1  (689.4 residues re-searched, avg per model)
+Target model(s):                                              2104  (263555 consensus positions)
+Windows   passing  local HMM SSV           filter:         1130033  (0.2641); expected (0.15)
+Windows   passing  local HMM Viterbi       filter:          783836  (0.1786); expected (0.15)
+Windows   passing  local HMM Viterbi  bias filter:          488283  (0.09991); expected (0.15)
+Windows   passing  local HMM Forward       filter:           30513  (0.008797); expected (0.0008)
+Windows   passing  local HMM Forward  bias filter:           14421  (0.004331); expected (0.0008)
+Windows   passing glocal HMM Forward       filter:            8991  (0.002865); expected (0.0008)
+Windows   passing glocal HMM Forward  bias filter:            7480  (0.002265); expected (0.0008)
+Envelopes passing glocal HMM envelope defn filter:            7621  (0.001352); expected (0.0008)
+Envelopes passing  local CM  CYK           filter:            1573  (0.0002075); expected (0.0001)
+Total CM hits reported:                                          1  (9.206e-08); includes 0 truncated hit(s)
+
+Total CM and HMM hits reported:                                  1
+
+# CPU time: 235.23u 1.23s 00:03:56.45 Elapsed: 00:00:25.44
+//
+[ok]

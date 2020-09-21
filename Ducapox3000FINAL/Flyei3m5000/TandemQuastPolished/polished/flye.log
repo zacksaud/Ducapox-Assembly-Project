@@ -1,0 +1,240 @@
+[2020-08-27 09:30:08] DEBUG: Build date: Aug 25 2020 19:28:28
+[2020-08-27 09:30:08] DEBUG: Total RAM: 125 Gb
+[2020-08-27 09:30:08] DEBUG: Available RAM: 115 Gb
+[2020-08-27 09:30:08] DEBUG: Total CPUs: 12
+[2020-08-27 09:30:08] DEBUG: Parameters:
+[2020-08-27 09:30:08] DEBUG: 	big_genome_threshold=29000000
+[2020-08-27 09:30:08] DEBUG: 	low_cutoff_warning=1
+[2020-08-27 09:30:08] DEBUG: 	hard_min_coverage_rate=1
+[2020-08-27 09:30:08] DEBUG: 	assemble_kmer_sample=1
+[2020-08-27 09:30:08] DEBUG: 	repeat_graph_kmer_sample=1
+[2020-08-27 09:30:08] DEBUG: 	read_align_kmer_sample=1
+[2020-08-27 09:30:08] DEBUG: 	maximum_jump=100000
+[2020-08-27 09:30:08] DEBUG: 	maximum_overhang=250000
+[2020-08-27 09:30:08] DEBUG: 	repeat_kmer_rate=1
+[2020-08-27 09:30:08] DEBUG: 	assemble_ovlp_relative_divergence=0.10
+[2020-08-27 09:30:08] DEBUG: 	repeat_graph_ovlp_divergence=0.15
+[2020-08-27 09:30:08] DEBUG: 	read_align_ovlp_divergence=0.25
+[2020-08-27 09:30:08] DEBUG: 	max_coverage_drop_rate=5
+[2020-08-27 09:30:08] DEBUG: 	chimera_window=100
+[2020-08-27 09:30:08] DEBUG: 	min_reads_in_disjointig=4
+[2020-08-27 09:30:08] DEBUG: 	max_inner_reads=10
+[2020-08-27 09:30:08] DEBUG: 	max_inner_fraction=0.25
+[2020-08-27 09:30:08] DEBUG: 	add_unassembled_reads=0
+[2020-08-27 09:30:08] DEBUG: 	max_separation=500
+[2020-08-27 09:30:08] DEBUG: 	unique_edge_length=50000
+[2020-08-27 09:30:08] DEBUG: 	min_repeat_res_support=0.51
+[2020-08-27 09:30:08] DEBUG: 	out_paths_ratio=5
+[2020-08-27 09:30:08] DEBUG: 	graph_cov_drop_rate=5
+[2020-08-27 09:30:08] DEBUG: 	coverage_estimate_window=100
+[2020-08-27 09:30:08] DEBUG: 	extend_contigs_with_repeats=1
+[2020-08-27 09:30:08] DEBUG: 	min_read_cov_cutoff=3
+[2020-08-27 09:30:08] DEBUG: 	short_tip_length=10000
+[2020-08-27 09:30:08] DEBUG: 	long_tip_length=100000
+[2020-08-27 09:30:08] DEBUG: 	max_bubble_length=50000
+[2020-08-27 09:30:08] DEBUG: Running with k-mer size: 19
+[2020-08-27 09:30:08] DEBUG: Running with minimum overlap 3000
+[2020-08-27 09:30:08] DEBUG: Metagenome mode: N
+[2020-08-27 09:30:08] DEBUG: Building positional index
+[2020-08-27 09:30:08] DEBUG: Total sequence: 195695 bp
+[2020-08-27 09:30:08] INFO: Reading sequences
+[2020-08-27 09:30:08] DEBUG: Building positional index
+[2020-08-27 09:30:08] DEBUG: Total sequence: 94298074 bp
+[2020-08-27 09:30:08] DEBUG: Expected read coverage: 481
+[2020-08-27 09:30:08] INFO: Generating solid k-mer index
+[2020-08-27 09:30:08] DEBUG: Hard threshold set to 1
+[2020-08-27 09:30:08] DEBUG: Started k-mer counting
+[2020-08-27 09:30:25] INFO: Counting k-mers (1/2):
+[2020-08-27 09:30:25] INFO: Counting k-mers (2/2):
+[2020-08-27 09:30:25] DEBUG: Repetitive k-mer frequency: 2
+[2020-08-27 09:30:25] DEBUG: Filtered 494 repetitive k-mers (0.00315339)
+[2020-08-27 09:30:25] INFO: Filling index table
+[2020-08-27 09:30:25] DEBUG: Sampling rate: 1
+[2020-08-27 09:30:25] DEBUG: Solid k-mers: 156131
+[2020-08-27 09:30:25] DEBUG: K-mer index size: 156131
+[2020-08-27 09:30:25] DEBUG: Mean k-mer frequency: 1
+[2020-08-27 09:30:25] DEBUG: Sorting k-mer index
+[2020-08-27 09:30:25] DEBUG: Peak RAM usage: 1 Gb
+[2020-08-27 09:30:25] DEBUG: Estimating k-mer identity bias
+[2020-08-27 09:37:34] INFO: Alignments saved to /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000/Flyei3m5000/TandemQuastPolished/polished/aln_0.sam
+-----------End assembly log------------
+[2020-08-27 09:38:16] DEBUG: Build date: Aug 25 2020 19:28:28
+[2020-08-27 09:38:16] DEBUG: Total RAM: 125 Gb
+[2020-08-27 09:38:16] DEBUG: Available RAM: 114 Gb
+[2020-08-27 09:38:16] DEBUG: Total CPUs: 12
+[2020-08-27 09:38:16] DEBUG: Parameters:
+[2020-08-27 09:38:16] DEBUG: 	big_genome_threshold=29000000
+[2020-08-27 09:38:16] DEBUG: 	low_cutoff_warning=1
+[2020-08-27 09:38:16] DEBUG: 	hard_min_coverage_rate=1
+[2020-08-27 09:38:16] DEBUG: 	assemble_kmer_sample=1
+[2020-08-27 09:38:16] DEBUG: 	repeat_graph_kmer_sample=1
+[2020-08-27 09:38:16] DEBUG: 	read_align_kmer_sample=1
+[2020-08-27 09:38:16] DEBUG: 	maximum_jump=100000
+[2020-08-27 09:38:16] DEBUG: 	maximum_overhang=250000
+[2020-08-27 09:38:16] DEBUG: 	repeat_kmer_rate=1
+[2020-08-27 09:38:16] DEBUG: 	assemble_ovlp_relative_divergence=0.10
+[2020-08-27 09:38:16] DEBUG: 	repeat_graph_ovlp_divergence=0.15
+[2020-08-27 09:38:16] DEBUG: 	read_align_ovlp_divergence=0.25
+[2020-08-27 09:38:16] DEBUG: 	max_coverage_drop_rate=5
+[2020-08-27 09:38:16] DEBUG: 	chimera_window=100
+[2020-08-27 09:38:16] DEBUG: 	min_reads_in_disjointig=4
+[2020-08-27 09:38:16] DEBUG: 	max_inner_reads=10
+[2020-08-27 09:38:16] DEBUG: 	max_inner_fraction=0.25
+[2020-08-27 09:38:16] DEBUG: 	add_unassembled_reads=0
+[2020-08-27 09:38:16] DEBUG: 	max_separation=500
+[2020-08-27 09:38:16] DEBUG: 	unique_edge_length=50000
+[2020-08-27 09:38:16] DEBUG: 	min_repeat_res_support=0.51
+[2020-08-27 09:38:16] DEBUG: 	out_paths_ratio=5
+[2020-08-27 09:38:16] DEBUG: 	graph_cov_drop_rate=5
+[2020-08-27 09:38:16] DEBUG: 	coverage_estimate_window=100
+[2020-08-27 09:38:16] DEBUG: 	extend_contigs_with_repeats=1
+[2020-08-27 09:38:16] DEBUG: 	min_read_cov_cutoff=3
+[2020-08-27 09:38:16] DEBUG: 	short_tip_length=10000
+[2020-08-27 09:38:16] DEBUG: 	long_tip_length=100000
+[2020-08-27 09:38:16] DEBUG: 	max_bubble_length=50000
+[2020-08-27 09:38:16] DEBUG: Running with k-mer size: 19
+[2020-08-27 09:38:16] DEBUG: Running with minimum overlap 3000
+[2020-08-27 09:38:16] DEBUG: Metagenome mode: N
+[2020-08-27 09:38:16] DEBUG: Building positional index
+[2020-08-27 09:38:16] DEBUG: Total sequence: 159710 bp
+[2020-08-27 09:38:16] INFO: Reading sequences
+[2020-08-27 09:38:16] DEBUG: Building positional index
+[2020-08-27 09:38:16] DEBUG: Total sequence: 94298074 bp
+[2020-08-27 09:38:16] DEBUG: Expected read coverage: 590
+[2020-08-27 09:38:16] INFO: Generating solid k-mer index
+[2020-08-27 09:38:16] DEBUG: Hard threshold set to 1
+[2020-08-27 09:38:16] DEBUG: Started k-mer counting
+[2020-08-27 09:38:33] INFO: Counting k-mers (1/2):
+[2020-08-27 09:38:33] INFO: Counting k-mers (2/2):
+[2020-08-27 09:38:33] DEBUG: Repetitive k-mer frequency: 2
+[2020-08-27 09:38:33] DEBUG: Filtered 0 repetitive k-mers (0)
+[2020-08-27 09:38:33] INFO: Filling index table
+[2020-08-27 09:38:33] DEBUG: Sampling rate: 1
+[2020-08-27 09:38:33] DEBUG: Solid k-mers: 156109
+[2020-08-27 09:38:33] DEBUG: K-mer index size: 156109
+[2020-08-27 09:38:33] DEBUG: Mean k-mer frequency: 1
+[2020-08-27 09:38:33] DEBUG: Sorting k-mer index
+[2020-08-27 09:38:33] DEBUG: Peak RAM usage: 1 Gb
+[2020-08-27 09:38:33] DEBUG: Estimating k-mer identity bias
+[2020-08-27 09:45:31] INFO: Alignments saved to /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000/Flyei3m5000/TandemQuastPolished/polished/aln_1.sam
+-----------End assembly log------------
+[2020-08-27 09:46:13] DEBUG: Build date: Aug 25 2020 19:28:28
+[2020-08-27 09:46:13] DEBUG: Total RAM: 125 Gb
+[2020-08-27 09:46:13] DEBUG: Available RAM: 114 Gb
+[2020-08-27 09:46:13] DEBUG: Total CPUs: 12
+[2020-08-27 09:46:13] DEBUG: Parameters:
+[2020-08-27 09:46:13] DEBUG: 	big_genome_threshold=29000000
+[2020-08-27 09:46:13] DEBUG: 	low_cutoff_warning=1
+[2020-08-27 09:46:13] DEBUG: 	hard_min_coverage_rate=1
+[2020-08-27 09:46:13] DEBUG: 	assemble_kmer_sample=1
+[2020-08-27 09:46:13] DEBUG: 	repeat_graph_kmer_sample=1
+[2020-08-27 09:46:13] DEBUG: 	read_align_kmer_sample=1
+[2020-08-27 09:46:13] DEBUG: 	maximum_jump=100000
+[2020-08-27 09:46:13] DEBUG: 	maximum_overhang=250000
+[2020-08-27 09:46:13] DEBUG: 	repeat_kmer_rate=1
+[2020-08-27 09:46:13] DEBUG: 	assemble_ovlp_relative_divergence=0.10
+[2020-08-27 09:46:13] DEBUG: 	repeat_graph_ovlp_divergence=0.15
+[2020-08-27 09:46:13] DEBUG: 	read_align_ovlp_divergence=0.25
+[2020-08-27 09:46:13] DEBUG: 	max_coverage_drop_rate=5
+[2020-08-27 09:46:13] DEBUG: 	chimera_window=100
+[2020-08-27 09:46:13] DEBUG: 	min_reads_in_disjointig=4
+[2020-08-27 09:46:13] DEBUG: 	max_inner_reads=10
+[2020-08-27 09:46:13] DEBUG: 	max_inner_fraction=0.25
+[2020-08-27 09:46:13] DEBUG: 	add_unassembled_reads=0
+[2020-08-27 09:46:13] DEBUG: 	max_separation=500
+[2020-08-27 09:46:13] DEBUG: 	unique_edge_length=50000
+[2020-08-27 09:46:13] DEBUG: 	min_repeat_res_support=0.51
+[2020-08-27 09:46:13] DEBUG: 	out_paths_ratio=5
+[2020-08-27 09:46:13] DEBUG: 	graph_cov_drop_rate=5
+[2020-08-27 09:46:13] DEBUG: 	coverage_estimate_window=100
+[2020-08-27 09:46:13] DEBUG: 	extend_contigs_with_repeats=1
+[2020-08-27 09:46:13] DEBUG: 	min_read_cov_cutoff=3
+[2020-08-27 09:46:13] DEBUG: 	short_tip_length=10000
+[2020-08-27 09:46:13] DEBUG: 	long_tip_length=100000
+[2020-08-27 09:46:13] DEBUG: 	max_bubble_length=50000
+[2020-08-27 09:46:13] DEBUG: Running with k-mer size: 19
+[2020-08-27 09:46:13] DEBUG: Running with minimum overlap 3000
+[2020-08-27 09:46:13] DEBUG: Metagenome mode: N
+[2020-08-27 09:46:13] DEBUG: Building positional index
+[2020-08-27 09:46:13] DEBUG: Total sequence: 159701 bp
+[2020-08-27 09:46:13] INFO: Reading sequences
+[2020-08-27 09:46:13] DEBUG: Building positional index
+[2020-08-27 09:46:13] DEBUG: Total sequence: 94298074 bp
+[2020-08-27 09:46:13] DEBUG: Expected read coverage: 590
+[2020-08-27 09:46:13] INFO: Generating solid k-mer index
+[2020-08-27 09:46:13] DEBUG: Hard threshold set to 1
+[2020-08-27 09:46:13] DEBUG: Started k-mer counting
+[2020-08-27 09:46:30] INFO: Counting k-mers (1/2):
+[2020-08-27 09:46:30] INFO: Counting k-mers (2/2):
+[2020-08-27 09:46:30] DEBUG: Repetitive k-mer frequency: 2
+[2020-08-27 09:46:30] DEBUG: Filtered 0 repetitive k-mers (0)
+[2020-08-27 09:46:30] INFO: Filling index table
+[2020-08-27 09:46:30] DEBUG: Sampling rate: 1
+[2020-08-27 09:46:30] DEBUG: Solid k-mers: 156108
+[2020-08-27 09:46:30] DEBUG: K-mer index size: 156108
+[2020-08-27 09:46:30] DEBUG: Mean k-mer frequency: 1
+[2020-08-27 09:46:30] DEBUG: Sorting k-mer index
+[2020-08-27 09:46:30] DEBUG: Peak RAM usage: 1 Gb
+[2020-08-27 09:46:30] DEBUG: Estimating k-mer identity bias
+[2020-08-27 09:53:29] INFO: Alignments saved to /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000/Flyei3m5000/TandemQuastPolished/polished/aln_2.sam
+-----------End assembly log------------
+[2020-08-27 09:54:10] DEBUG: Build date: Aug 25 2020 19:28:28
+[2020-08-27 09:54:10] DEBUG: Total RAM: 125 Gb
+[2020-08-27 09:54:10] DEBUG: Available RAM: 114 Gb
+[2020-08-27 09:54:10] DEBUG: Total CPUs: 12
+[2020-08-27 09:54:10] DEBUG: Parameters:
+[2020-08-27 09:54:10] DEBUG: 	big_genome_threshold=29000000
+[2020-08-27 09:54:10] DEBUG: 	low_cutoff_warning=1
+[2020-08-27 09:54:10] DEBUG: 	hard_min_coverage_rate=1
+[2020-08-27 09:54:10] DEBUG: 	assemble_kmer_sample=1
+[2020-08-27 09:54:10] DEBUG: 	repeat_graph_kmer_sample=1
+[2020-08-27 09:54:10] DEBUG: 	read_align_kmer_sample=1
+[2020-08-27 09:54:10] DEBUG: 	maximum_jump=100000
+[2020-08-27 09:54:10] DEBUG: 	maximum_overhang=250000
+[2020-08-27 09:54:10] DEBUG: 	repeat_kmer_rate=1
+[2020-08-27 09:54:10] DEBUG: 	assemble_ovlp_relative_divergence=0.10
+[2020-08-27 09:54:10] DEBUG: 	repeat_graph_ovlp_divergence=0.15
+[2020-08-27 09:54:10] DEBUG: 	read_align_ovlp_divergence=0.25
+[2020-08-27 09:54:10] DEBUG: 	max_coverage_drop_rate=5
+[2020-08-27 09:54:10] DEBUG: 	chimera_window=100
+[2020-08-27 09:54:10] DEBUG: 	min_reads_in_disjointig=4
+[2020-08-27 09:54:10] DEBUG: 	max_inner_reads=10
+[2020-08-27 09:54:10] DEBUG: 	max_inner_fraction=0.25
+[2020-08-27 09:54:10] DEBUG: 	add_unassembled_reads=0
+[2020-08-27 09:54:10] DEBUG: 	max_separation=500
+[2020-08-27 09:54:10] DEBUG: 	unique_edge_length=50000
+[2020-08-27 09:54:10] DEBUG: 	min_repeat_res_support=0.51
+[2020-08-27 09:54:10] DEBUG: 	out_paths_ratio=5
+[2020-08-27 09:54:10] DEBUG: 	graph_cov_drop_rate=5
+[2020-08-27 09:54:10] DEBUG: 	coverage_estimate_window=100
+[2020-08-27 09:54:10] DEBUG: 	extend_contigs_with_repeats=1
+[2020-08-27 09:54:10] DEBUG: 	min_read_cov_cutoff=3
+[2020-08-27 09:54:10] DEBUG: 	short_tip_length=10000
+[2020-08-27 09:54:10] DEBUG: 	long_tip_length=100000
+[2020-08-27 09:54:10] DEBUG: 	max_bubble_length=50000
+[2020-08-27 09:54:10] DEBUG: Running with k-mer size: 19
+[2020-08-27 09:54:10] DEBUG: Running with minimum overlap 3000
+[2020-08-27 09:54:10] DEBUG: Metagenome mode: N
+[2020-08-27 09:54:10] DEBUG: Building positional index
+[2020-08-27 09:54:10] DEBUG: Total sequence: 159679 bp
+[2020-08-27 09:54:10] INFO: Reading sequences
+[2020-08-27 09:54:10] DEBUG: Building positional index
+[2020-08-27 09:54:10] DEBUG: Total sequence: 94298074 bp
+[2020-08-27 09:54:10] DEBUG: Expected read coverage: 590
+[2020-08-27 09:54:10] INFO: Generating solid k-mer index
+[2020-08-27 09:54:10] DEBUG: Hard threshold set to 1
+[2020-08-27 09:54:10] DEBUG: Started k-mer counting
+[2020-08-27 09:54:27] INFO: Counting k-mers (1/2):
+[2020-08-27 09:54:27] INFO: Counting k-mers (2/2):
+[2020-08-27 09:54:27] DEBUG: Repetitive k-mer frequency: 2
+[2020-08-27 09:54:27] DEBUG: Filtered 0 repetitive k-mers (0)
+[2020-08-27 09:54:27] INFO: Filling index table
+[2020-08-27 09:54:27] DEBUG: Sampling rate: 1
+[2020-08-27 09:54:27] DEBUG: Solid k-mers: 156102
+[2020-08-27 09:54:27] DEBUG: K-mer index size: 156102
+[2020-08-27 09:54:27] DEBUG: Mean k-mer frequency: 1
+[2020-08-27 09:54:27] DEBUG: Sorting k-mer index
+[2020-08-27 09:54:27] DEBUG: Peak RAM usage: 1 Gb
+[2020-08-27 09:54:27] DEBUG: Estimating k-mer identity bias
+[2020-08-27 10:01:39] INFO: Alignments saved to /home/zack/Desktop/Duca_Final_Publication_Data/22.06.2020/Porechopped/Ducapox3000/Flyei3m5000/TandemQuastPolished/polished/aln_3.sam
+-----------End assembly log------------
