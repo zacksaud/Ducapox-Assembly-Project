@@ -1,0 +1,31 @@
+Guppy Basecaller:
+./guppy_basecaller -i /path/to/fast5 -s /save/path -c ./dna_r9.4.1_hac.cgf --pt_scaling --trim_strategy DNA --barcode_kits EXP_NBD114 -x auto 
+
+Porechop: 
+porechop -i /path/to/fastq -o /save/path -t 12 --adapter_threshold 98 --barcode_threshold 98
+
+NanoFilt:
+NanoFilt -l 3000 Reads.Fastq > FilteredReads.Fastq
+
+Flye:
+Initial Assembly:
+./flye --nano-raw >3000Reads.fastq --genome-size 0.2m --threads 12 --meta --keep-haplotypes --trestle --o /save/path
+Virus specific reads assembly:
+./flye --nano-raw ViralSpecificReads.fastq -o /save/path -t 12 -i 3 -m 5000
+
+tandequast:
+python3 ./tandequast.py --only-polish --nano ViralSpecificReads.fastq -o /save/path VirusSpecificFlyeAssembly.fasta
+
+Minimap2:
+For SAM files:
+./minimap2 -ax map-ont ReadstoMap.fast(q/a) genomeformapping.fasta > Mappedreads.sorted.sam
+For BAM files:
+./minimap2 -ax map-ont ReadstoMap.fast(q/a) genomeformapping.fasta | samtools sort -o Mappedreads.sorted.bam
+
+Racon:
+./racon -m 8 -x -6 -g -8 -w 500 -no-trimming ViralSpecificReads.fastq Mappedreads.sorted.sam VirusSpecificFlyeAssembly.fasta > RaconOutput.fasta
+
+Medaka:
+medaka_consensus -i >3000Reads.fastq -d Racon3rdOutput.fasta -o /save/path -m r941_min_high_g360
+
+
